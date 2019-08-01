@@ -11,11 +11,10 @@ redirect_from:
 Welcome
 ======
 I'm currently a faculty member in the Department of Physics & Astronomy at Regis University in Denver. My scientific research interests include:
-
--the intergalactic & circumgalactic media
--active galactic nuclei (AGNs)
--galaxy and galaxy cluster environments and evolution
--observational astronomy across a wide range of wavelength regimes, but especially the ultraviolet
+* the intergalactic & circumgalactic media
+* active galactic nuclei (AGNs)
+* galaxy and galaxy cluster environments and evolution
+* observational astronomy across a wide range of wavelength regimes, but especially the ultraviolet
 
 As an educator and member of the scientific community, I also deeply care about effective STEM education that promotes equitable and inclusive access to science. My teaching therefore
 
