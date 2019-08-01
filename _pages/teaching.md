@@ -4,8 +4,14 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## Fall 2019, Regis Univsersity
 
+
+
+## Fall 2019, Regis Univsersity
+* PH202A Physics I with Trigonometry
+* PH305A, Lab for Physics I with Calculus. Two sections.
+* PH410, Electricity & Magnetism
+* PH475, Physics capstone project, co-taught with F. Gray.
 
 ## Spring 2019, Regis University
 * PH202B/PH205B, Physics II with Trigonometry and associated lab. Taught in a combined workshop style.
