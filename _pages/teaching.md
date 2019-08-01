@@ -33,9 +33,10 @@ author_profile: true
 ## Summer 2015, University of Colorado - Boulder
 * ASTR1200, Stars & Galaxies. Co-taught with M. McJunkin.
 
+<!--
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
+-->
