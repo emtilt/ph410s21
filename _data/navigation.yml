@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/
+  - title: "Slides"
+    url: /slides/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Homework"
+    url: /homework/
     
-  - title: "Outreach"
-    url: /outreach/ 
+  #- title: "Outreach"
+  #  url: /outreach/ 
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+#    url: /cv/
 
 #default links commented out below
 #  - title: "Publications"
