@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Syllabus here
+Course details are coming soon.
