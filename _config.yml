@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "PH410, Electricity & Magnetism, Fall 2019"
-  avatar           : #"profile-b&w-lowquality.png"
+  avatar           : "profile-b&w-lowquality.png"
   bio              : #"Astrophysicist and Assistant Professor of Physics & Astronomy. Preferred pronouns: he/him/his."
   location         : "Colorado, USA"
   employer         : "Regis University"
