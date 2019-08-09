@@ -1,7 +1,7 @@
 PH410 site
 
 
-The code and content for this site depends on:
+The code and content for this site depends on and draws from:
 * [Jekyll](https://jekyllrb.com/) (MIT license) and various plugins (jekyll-paginate, jekyll-sitemap, jekyll-gist, jekyll-feed, jekyll-redirect-from, jemoji).
 * [AcademicPages](https://github.com/academicpages/academicpages.github.io) theme, which was created by [Stuart Geiger](https://github.com/staeiou). That project in turn was a fork from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 * Various educational research materials (I've been especially inspired by work at the University of Colorado, Michigan State University, and the University of St. Andrews) used under fair-use educational exceptions, by permission, or in compliance with applicable license.
