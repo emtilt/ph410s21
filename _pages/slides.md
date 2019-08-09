@@ -9,7 +9,7 @@ author_profile: true
 
 {% include base_path %}
 {% for post in site.slides %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ entry.url }}" title="{{ post.title | escape }}">{{ post.title }}</a></li>{% endfor %}
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ entry.url }}" title="{{ post.title | escape }}">{{ post.title }}</a></li>
 {% endfor %}
 
 
