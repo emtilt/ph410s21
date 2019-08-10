@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 Course details are coming soon.
-Test this image ![alt text](/images/profile.png "Logo Title Text 1")
-
-<img markdown=0 src="/images/profile.png" align="left" width="200" />
+<img src="/images/profile.png" align="left" width="200" />
 <pre><code data-trim data-noescape>
 (def lazy-fib
   (concat
