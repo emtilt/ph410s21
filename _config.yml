@@ -220,6 +220,7 @@ defaults:
     values:
       layout: slide
       author_profile: false
+      sidebar: false
       share: false
       comments: false
 #  # _publications
