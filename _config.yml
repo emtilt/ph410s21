@@ -79,7 +79,7 @@ markdown: kramdown
 
 # Markdown Processing
 kramdown:
-  input: markdown
+  input: kramdown
   math_engine: mathjax
   #hard_wrap: false
   #auto_ids: true
