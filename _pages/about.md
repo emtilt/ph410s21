@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Course details are coming soon.
-Test this image ![alt text](./images/profile.png "Logo Title Text 1")
+Test this image ![alt text](/images/profile.png "Logo Title Text 1")
 
 <img markdown=0 src="./images/profile.png" align="left" style="width: 100px"; />
 <pre><code data-trim data-noescape>
