@@ -210,17 +210,17 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: slide
-      author_profile: false
+      layout: single
+      author_profile: true
 #   _slides
   - scope:
       path: ""
       type: slides
     values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+      layout: slide
+      author_profile: false
+      share: false
+      comments: false
 #  # _publications
 #  - scope:
 #      path: ""
