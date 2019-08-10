@@ -85,36 +85,6 @@ author:
   bio              : #"Astrophysicist and Assistant Professor of Physics & Astronomy. Preferred pronouns: he/him/his."
   location         : "Colorado, USA"
   employer         : "Regis University"
-  ads              : #"https://ui.adsabs.harvard.edu/search/q=author%3A(%22tilton%2C%20evan%20michael%22)%20AND%20pubdate%3A%5B2010-01%20TO%20*%5D&sort=date%20desc%2C%20bibcode%20desc&p_=0"
-  googlescholar    : #"https://scholar.google.com/citations?user=gpjPqTkAAAAJ"
-  email            : #"etilton@regis.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : #"emtilt"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : #https://www.linkedin.com/in/evan-tilton-0b7b39123/
-  orcid            : #"https://orcid.org/0000-0001-9145-999X"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : #"emtilt"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
@@ -155,23 +125,23 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+#highlighter: rouge
+#lsi: false
+#excerpt_separator: "\n\n"
+#incremental: false
 
 
 # Markdown Processing
 kramdown:
-  input: GFM
+  #input: GFM
   math_engine: mathjax
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+  #hard_wrap: false
+  #auto_ids: true
+  #footnote_nr: 1
+  #entity_output: as_char
+  #toc_levels: 1..6
+  #smart_quotes: lsquo,rsquo,ldquo,rdquo
+  #enable_coderay: false
 
 
 # Collections
