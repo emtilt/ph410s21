@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 Course details are coming soon.
-<img src="profile-b&w-lowquality.png" align="left" width="200" />
+<img src="images/profile-b&w-lowquality.png" align="left" width="200" />
+[jupyter/HW1-GradientProblem.ipynb](jupyter/HW1-GradientProblem.ipynb)
+
 <pre><code data-trim data-noescape>
 (def lazy-fib
   (concat
