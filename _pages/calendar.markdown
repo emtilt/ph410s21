@@ -11,4 +11,4 @@ calendar_focus_date: 2016-01-06   # optional. YYYY-MM-DD. Without it, the defaul
 calendar_caption: My calendar caption   # optional
 ---
 
-**Your post/pag,e content** will be placed here.
+**Your post/pag,e. content** will be placed here.
