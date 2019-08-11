@@ -74,7 +74,7 @@ markdown: kramdown
 
 # Markdown Processing
 kramdown:
-  input: kramdown
+  input: GFM
   math_engine: mathjax
   enable_coderay: false
 
