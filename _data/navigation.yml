@@ -6,8 +6,8 @@ main:
   - title: "Homework"
     url: /homework/
     
-  #- title: "Outreach"
-  #  url: /outreach/ 
+  - title: "Calendar"
+    url: /calendar/ 
     
   #- title: "CV"
 #    url: /cv/
