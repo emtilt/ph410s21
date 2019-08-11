@@ -1,6 +1,8 @@
 ---
 layout: calendar  # required
 title: My Calendar
+permalink: /calendar/
+author_profile: true
 
 calendar_timezone_offset: -0800   # required
 calendar_csv: pages/events.csv  # required. Path from base url
