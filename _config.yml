@@ -85,6 +85,10 @@ collections:
   slides:
     output: true
     permalink: /:collection/:path/
+  events:
+    output: true
+    permalink: /events/:path/
+    title: Events
 
 # Defaults
 defaults:
