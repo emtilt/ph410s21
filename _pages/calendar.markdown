@@ -1,6 +1,6 @@
 ---
 layout: calendar  # required
-title: My Calendar
+title: Calendar
 permalink: /calendar/
 author_profile: true
 
