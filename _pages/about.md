@@ -10,8 +10,7 @@ redirect_from:
 
 Course details are coming soon.
 <img src="images/profile-b&w-lowquality.png" align="left" width="200" />
-[jupyter/HW1-GradientProblem.ipynb](jupyter/HW1-GradientProblem.ipynb)
-
+[download this Jupyter notebook](jupyter/HW1-GradientProblem.ipynb) (you can [view it here](https://github.com/emtilt/ph410f19/blob/master/jupyter/HW1-GradientProblem.ipynb)
 <pre><code data-trim data-noescape>
 (def lazy-fib
   (concat
