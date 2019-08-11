@@ -17,6 +17,10 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
+{{ page.calendar_bootstrap_css | replace: "!PATH_TO_COMPONENTS!", "/components" | prepend: site.baseurl }}
+
+{{ page.calendar_css | replace: "!PATH_TO_COMPONENTS!", "/components" | prepend: site.baseurl }}
+
 <meta http-equiv="cleartype" content="on">
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
@@ -29,8 +33,5 @@
 </script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
 
-{{ page.calendar_bootstrap_css | replace: "!PATH_TO_COMPONENTS!", "/components" | prepend: site.baseurl }}
-
-{{ page.calendar_css | replace: "!PATH_TO_COMPONENTS!", "/components" | prepend: site.baseurl }}
 
 
