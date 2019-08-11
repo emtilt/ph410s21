@@ -3,13 +3,12 @@ layout: archive
 title: Event Calendar
 permalink: /calendar/
 ---
-<iframe src="../calendarframe/" width="100%" class="myIframe">
-<p>Hi SOF</p>
-</iframe>
+<style>
+    #myFrame { width:100vw; height:100vw; }
+</style>
 
-<script type="text/javascript" language="javascript"> 
-$('.myIframe').css('height', $(window).height()+'px');
-</script>
+<iframe src="../calendarframe/" id="myFrame">
+</iframe>
 <!--
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" src="../calendarframe/"></iframe>
 -->
