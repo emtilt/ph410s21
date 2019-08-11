@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Course details are coming soon.
-<img src="/images/profile.png" align="left" width="200" />
+<img src="profile-b&w-lowquality.png" align="left" width="200" />
 <pre><code data-trim data-noescape>
 (def lazy-fib
   (concat
