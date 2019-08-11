@@ -1,5 +1,7 @@
 ---
 layout: archive
+title: "Calendar"
+author_profile: true
 permalink: /calendar/
 ---
 <style>
