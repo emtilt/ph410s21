@@ -116,7 +116,7 @@ Owing to the small class size and the inaccuracy of predicting grade distributio
 |B|Strong command of material.|78 – 81.99 |
 |B-||75 – 77.99|
 |C+||72 – 74.99|
-|C|Satisfactory command of material.&68 – 71.99 |
+|C|Satisfactory command of material.|68 – 71.99 |
 |C-||65 – 67.99 |
 |D+||62 – 64.99 |
 |D|Unsatisfactory command of material.|58 – 61.99|
