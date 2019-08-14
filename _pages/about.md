@@ -14,7 +14,7 @@ redirect_from:
 ## Contact Information
 
 -   Instructor: [Prof. Evan Tilton](http://evantilton.com) (he/him/his)
-	- Call me anything you want; I'm not picky. Call me Evan, Prof. Tilton, Hey-You...whatever you are comfortable with.
+	- Call me anything you want; I'm not picky. Call me Evan, Prof. Tilton, Dr. Evan, Hey-You...literally whatever you are comfortable with.
 	- Please let us know how you would prefer to be addressed and what pronouns you use.
 -   Contact: <etilton@regis.edu>; office: Carroll 108C (inside the Math & Physics suite); office phone: 3034584166 (unreliable)
 -   Course web page: [http://evantilton.com/ph410f19](http://evantilton.com/ph410f19) (we will also be using WorldClass sometimes)
