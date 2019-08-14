@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-## Electricity and Magnetism - Fall 2019
+# Electricity and Magnetism - Fall 2019
 
-### Contact Information
+## Contact Information
 
 -   Instructor: [Prof. Evan Tilton](http://evantilton.com) (he/him/his)
 	- Call me anything you want; I'm not picky. Call me Evan, Prof. Tilton, Hey-You...whatever you are comfortable with.
@@ -23,7 +23,7 @@ redirect_from:
 
 
 
-### Overview
+## Overview
 
 Physics 410, Electricity and Magnetism, is our upper-division course in classical electromagnetism. It
 uses the tools of vector calculus for solving static and dynamic
@@ -38,11 +38,11 @@ problem-solving skills, physical sense-making, deepened conceptual
 understanding, communication skills, and connection to other courses and
 to the real world. 
 
-### Prerequisites
+## Prerequisites
 It is absolutely essential that you have already successfully completed the entire Calculus sequence (Calculus 1, 2, and 3) as well as the Physics with Calculus sequecence (both Physics 1 and 2). This course uses vector calculus at a high level at nearly every step; you will not succeed if you have not already developed this skill.
 
 We will also be using computer programming (in Python) and differential equations. Though previous experience in these areas is certainly an asset, it is not required to take this course. You will be provided with the necessary information to tackle them for the first time.
-### Course communication
+## Course communication
 
 We'll be using WorldClass for turning in certain assignments, hosting homework solutions, discussions, and reading quizzes. (I toyed with using Slack to support this course, instead -- if there is very stong demand for Slack instead of WorldClass, I'm not wholly opposed.)
 
@@ -51,22 +51,22 @@ In particular, I will **not** be answering questions that are purely scientific/
 In all cases, collaboration should be done in a productive, positive, humble, and honest way. You must do so in a way that is both productive for your learning and within the guidelines of the Academic Honor Code. This means that you should never be simply copying or sharing solutions - to do so is both useless for learning and an academic integrity violation. Seriously, don’t cheat, but seriously, help each other. This also means that you should be kind in offering assistance. Be generous, but do not grandstand or belittle. Listen as much as you talk, and always be asking yourself if you conversational approach is truly in service of truth-seeking and care for others.  
 
 
-### Course Materials
+## Course Materials
 
-##### Required book:
+### Required book:
 
 -  J.D. Griffiths. [*Introduction to Electromagnetism*, 4th Edition](http://goo.gl/iU6MdA) (Pearson; 2012). This book is great, and probably my favorite undergrad textbook on any subject. There are [other editions that might be less expensive](http://goo.gl/78y9jw), and they can be substituted. My reading assignments will refer to the 4th edition, however, so it is your responsibility to ensure that you read the correct content.
 
 
-##### Optional book:
+### Optional book:
 
 - H.M. Schey. [*Div, Grad, Curl, and All That*, 4th Edition](https://www.amazon.com/Div-Grad-Curl-All-That/dp/0393925161) (Norton and Company; 2004). This book is a great resource for developing a conceptual understanding of vector calculus. We will make extensive use of the ideas in this book, though I will not directly assign reading from it.
 
 
 
-### Course Activities
+## Course Activities
 
-#### Readings
+### Readings
 
 Reading is an essential part of 481! Reading the text before class is
 very important. Lecture is to clarify your understanding, to help you
@@ -76,7 +76,7 @@ texts I know of - it will make a huge difference if you spend the time
 and effort to carefully read and follow the text. The
 [calendar](./calendar/) has the details on reading assignments.
 
-#### Homework
+### Homework
 
 There will be a homework due every week. Homework is arguably the most important part of a physics class – it is where you learn to use the concepts. You should start homework early and work on it consistently. You should treat the assigned problems as the bare minimum number of problems that one could plausibly need to solve to learn material; you should almost certainly be solving more problems than what is assigned for each topic.
 
@@ -88,12 +88,13 @@ No late homeworks will be accepted. If you have an illness, family emergency, or
 assignment, then you will be excused from that assignment. It is your resonsibility to go back and work the problems as soon as you can.
 
 
-**Computational Homework Problems:** There will be *some use of computation in this course* on homework problems. You will need to use Python (through [Jupyter notebooks](http://jupyter.org/)). You do not need any computational experience for this course as you will learn some fundamentals early on and keep using them throughout the course.  Python is used across the science as well as private industry, so learning it will serve you well in your future work, no matter what it is. Artists use Python, teachers use Python, data analysts use Python, sports teams use Python, and physicists use Python. I suggest downloading the [Anaconda distribution of
+#### Computational Homework Problems
+There will be *some use of computation in this course* on homework problems. You will need to use Python (through [Jupyter notebooks](http://jupyter.org/)). You do not need any computational experience for this course as you will learn some fundamentals early on and keep using them throughout the course.  Python is used across the science as well as private industry, so learning it will serve you well in your future work, no matter what it is. Artists use Python, teachers use Python, data analysts use Python, sports teams use Python, and physicists use Python. I suggest downloading the [Anaconda distribution of
 Python](https://www.continuum.io/) as it comes with all the packages you
 will need to get up and running with Jupyter notebooks, but you are welcome to use any other method of running Python code as well. In particular, you might find something like [Google Colab](https://colab.research.google.com/) useful. Github and guides...
 
 
-### Grading and Exams
+## Grading and Exams
 
 Your course grade is largely determined by a combination of your
 performance on exams and homework. 
@@ -124,7 +125,7 @@ Owing to the small class size and the inaccuracy of predicting grade distributio
 |F|No credit.|<55 |
 
 I reserve the right to assign higher grades than would result from this table according to my judgment of the difficulty of the assignments and exams. No final grades will be adjusted or curved downward relative to the above table under any circumstance. For example, if everyone earned above an 88\%, then everyone would get an A, so it is in your interest to work together and help each other learn physics. 
-#### Participation 
+### Participation 
 
 You are expected to attend and fully participate in every class, both for your own learning and out of respect for your classmates. Each day, one student will be begin class by summarizing and briefly teaching the assigned reading (which all students are assumed to have read in detail). These summaries should last approximately five minutes, and they should be active teaching that encourages dialogue among the class, perhaps with questions or examples. They should never exceed ten minutes - you are responsible for controlling the timing of the class during the presentation. You will receive a grade each full ‘cycle’ of students; half of the grade will be based on your presentation while the other half will be awarded for good-faith, well-prepared engagement when not leading the class. Your presentation day will be graded on a 1-5 scale on both “Presentation” (how effectively did you communicate the material?) and “Preparation” (how well prepared were you?).
 
@@ -133,7 +134,7 @@ You will use Plickers...
 There will be a brief reading quiz on WorldClass due prior to each class which will also contribute a small amount to this category. I reserve the right to give unannounced in-class quizzes; it is unlikely that this will happen if the class is mostly keeping up with the reading and homework. There may also be other in-class activities that contribute to this category, depending on the difficulties and interests we encounter along the way.
 
 
-#### Exams
+### Exams
 
 Midterm exams will consist of both in-class and take-home portions. The take-home portion will be due by 5pm on the day following its distribution. For the in-class portion, you may bring a calculator and one handwritten note sheet of 8.5 in. x 11 in. paper for each exam. Calculators with scientific notation are allowed and sometimes needed. For the take home portion, you may use the textbook, your note sheet, and a calculator, but no other forms of assistance or information. If I suspect academic integrity violation I **will** immediately report it to the Dean's office, and it will likely result in an F in the course, among other possible sanctions in compliance with the University Catalog.
 
@@ -141,7 +142,7 @@ The final exam will consist only of an in-class portion.
 
 All exams are cumulative of everthing covered so far in the course, as well as everything in the Calculus sequence and the introductory physics sequence. Physics is inherently cumulative, always.
 
-##### Exam Corrections
+#### Exam Corrections
 
 Exams can be a stressful situtation and, sometimes, what you know doesn't really come across with
 the first attempt at the exam.
@@ -154,7 +155,7 @@ how you fixed up that understanding.
 You are welcome to rework the exam with your classmates, but the work you turn in
 must be your own, much like with homework.
 
-### My Classroom Rules
+## My Classroom Rules
 Be polite, kind, and respectful to everyone. That means a lot of things, including:
 - Don't text, browse the web, or otherwise fiddle with electronic devices} during class; it is rude and distracts everyone, and I may ask you to leave.
 - Listen to your peers, and learn from them. Instead of trying to sound smart, try to **raise all voices**: pay attention to who is contributing, invite contributions from quieter members of the class, and be conscientious of not dominating the conversation.
@@ -164,8 +165,8 @@ Be polite, kind, and respectful to everyone. That means a lot of things, includi
 
 We all make mistakes with others; the important thing is that we learn from them and use it to help others in the future
 
-### Important Notes on Expectations and Success
-#### What You Should Expect
+## Important Notes on Expectations and Success
+### What You Should Expect
 PH 410 covers material at a high level of conceptual and mathematical sophistication. Therefore, you should expect:
 - A large amount of material covered quickly. 
 - Few examples covered in lecture. Most homework problems are not at all similar to examples from class. 
@@ -175,7 +176,7 @@ PH 410 covers material at a high level of conceptual and mathematical sophistica
 
 PH 410 is a challenging, upper-division physics course. Unlike more introductory courses, you are fully responsible for your own learning. In particular, to some degree, you control the pace of the course by asking questions in class. This means that if you don’t understand something, it is your responsibility to ask questions. Attending class gives you an opportunity to ask questions.
 
-#### How to Succeed in this Course
+### How to Succeed in this Course
 The topics that we will cover in PH 410 are among the greatest intellectual achievements of humans. In particular, the electromagnetic field theory represented by Maxwell's equations is widely regarded as one of the most elegant and successful theories in science. Don’t be surprised if you have to think hard and work hard to understand the material. You can perform very well in this class if you do the things necessary to learn physics:
 - Read the chapter before the lecture. Read extremely carefully; do not skim. 
 - Read with a pen and notebook; read very actively. Take notes while you read, and work out sample problems and steps of algebra skipped by the author.
@@ -187,7 +188,7 @@ The topics that we will cover in PH 410 are among the greatest intellectual achi
 - Don't fall behind; you will never catch up. 
 - Just reading the text, attending lecture, and doing the homework **is not enough**. You have to *understand* the material. Test your understanding. If you can explain the material, in words, to someone else, without referring to the text, then you understand. If you can complete a problem you've never seen before on your own, then you understand. You may need to do many more problems than just those that are assigned in order to understand. This course is not about memorizing; it's about understanding.
 
-##### Self-care
+### Self-care
 One of the most important aspects of success in fields of high levels of intellectual difficulty is self-care. It is also one of the most neglected.
 - Get enough sleep, and do so on a regular schedule. One of the biggest predictors of undergraduate success is sleep habits. For example, [give this a read](https://www.nytimes.com/2018/08/13/well/an-underappreciated-key-to-college-success-sleep.html). Pulling all-nighters or similar *is not useful at all* except in the most basic, memorization-based classes.
 - Similarly, take care of yourself in other ways. It is extremely important that you work hard, but working without also complimentary rest, relaxation, and self-care, is rarely very productive intellectually.
