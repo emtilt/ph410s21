@@ -46,7 +46,7 @@ We will also be using computer programming (in Python) and differential equation
 
 We'll be using WorldClass for turning in certain assignments, hosting homework solutions, discussions, and reading quizzes. (I toyed with using Slack to support this course, instead -- if there is very stong demand for Slack instead of WorldClass, I'm not wholly opposed.)
 
-In particular, I will **not** be answering questions that are purely scientific/mathematical in nature via email. You are welcome to come by my office, ask in class, **post on the WorldClass discussion boards, or contact a peer.** I will be enforcing this rule to stress the collaborative nature of physics. You are unlikely to succeed in this class (or any other physics endeavor) on your own; you should make it a priority to support your peers and to accept their help. Collaboration is not only encouraged, it is implicitly required. **I strongly suggest that you all frequently get together in person at times in addition to our schedule meetings to discuss the material of this course.**
+In particular, I will **not** be answering questions that are purely scientific/mathematical in nature via email. You are welcome to come by my office, ask in class, **post on the WorldClass discussion boards, or contact a peer.** I will be enforcing this rule to stress the collaborative nature of physics. You are unlikely to succeed in this class (or any other physics endeavor) on your own; you should make it a priority to support your peers and to accept their help. Collaboration is not only encouraged, it is implicitly required. **I strongly suggest that you all frequently get together in person at times in addition to our scheduled meetings to discuss the material of this course.**
 
 In all cases, collaboration should be done in a productive, positive, humble, and honest way. You must do so in a way that is both productive for your learning and within the guidelines of the Academic Honor Code. This means that you should never be simply copying or sharing solutions - to do so is both useless for learning and an academic integrity violation. Seriously, don’t cheat, but seriously, help each other. This also means that you should be kind in offering assistance. Be generous, but do not grandstand or belittle. Listen as much as you talk, and always be asking yourself if you conversational approach is truly in service of truth-seeking and care for others.  
 
@@ -68,7 +68,7 @@ In all cases, collaboration should be done in a productive, positive, humble, an
 
 ### Readings
 
-Reading is an essential part of 481! Reading the text before class is
+Reading is an essential part of PH 410! Reading the text before class is
 very important. Lecture is to clarify your understanding, to help you
 make sense of the material. I will assume you have done the required
 readings in advance! Griffiths is one of the best (and most readable)
