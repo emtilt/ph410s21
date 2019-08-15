@@ -17,7 +17,7 @@ redirect_from:
 	- Call me anything you want; I'm not picky. Call me Evan, Prof. Tilton, Dr. Evan, Hey-You...literally whatever you are comfortable with.
 	- Please let us know how you would prefer to be addressed and what pronouns you use.
 -   Contact: <etilton@regis.edu>; office: Carroll 108C (inside the Math & Physics suite); office phone: 3034584166 (unreliable)
--   Course web page: [http://evantilton.com/ph410f19](http://evantilton.com/ph410f19) (we will also be using WorldClass sometimes)
+-   Course web page: [http://evantilton.com/ph410f19](http://evantilton.com/ph410f19) (we will also be using [WorldClass](https://worldclass.regis.edu) sometimes)
 -   Class Meetings: MWF 11:00 AM - 11:50 AM (Loyola 8)
 -   Office hours: TBD, but I have an open door policy. You're welcome to talk to me any time I'm here. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me to make sure I'm available.
 
