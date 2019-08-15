@@ -11,7 +11,7 @@ redirect_from:
 
 # Electricity and Magnetism - Fall 2019
 
-# This website is still under construction. The information, other than the textbook information, is not yet correct. Do not rely on this information until this notice is removed.
+# This website is still under construction. The information, other than the textbook information and prerequisites, is not yet necessarily correct. Do not rely on this information until this notice is removed.
 
 ## Contact Information
 
