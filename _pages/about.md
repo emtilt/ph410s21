@@ -57,7 +57,7 @@ In all cases, collaboration should be done in a productive, positive, humble, an
 
 ### Required book:
 
--  J.D. Griffiths. [*Introduction to Electromagnetism*, 4th Edition](http://goo.gl/iU6MdA) (Pearson; 2012). This book is great, and probably my favorite undergrad textbook on any subject. There are [other editions that might be less expensive](http://goo.gl/78y9jw), and they can be substituted. My reading assignments will refer to the 4th edition, however, so it is your responsibility to ensure that you read the correct content.
+-  J.D. Griffiths. [*Introduction to Electromagnetism*, 4th Edition](http://goo.gl/iU6MdA) (Pearson; 2012). This book is great, and probably my favorite undergrad textbook on any subject. The [third edition might be less expensive](http://goo.gl/78y9jw), and it can be substituted (the primary difference is more practice problems in the fourth edition). I don't recommend that you get the first or second edition -- the organization and notation of those editions is slightly different. My reading assignments will refer to the 4th edition, however, so it is your responsibility to ensure that you read the correct content.
 
 
 ### Optional book:
