@@ -10,4 +10,7 @@ The code and content for this site depends on and draws from:
 * [Raymond Camden's](https://www.raymondcamden.com/2017/02/24/an-example-of-a-static-site-with-a-dynamic-calendar) Jekyll [implementation](https://github.com/cfjedimaster/Static-Site-Examples/tree/master/jekyll_fullcalendar) of [Full Calendar](https://fullcalendar.io/).
 
 
-The underlying themes and code are governed by the aforementioned licenses and laws, however my original material on the website is governed by the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license where legally permissible and not otherwise specified. I haven't always carefully delineated what is original and what is not, so it is not recommended that you simply fork this repo or use its materials for new purposes without careful consideration of all aformentioned parties.
+
+The underlying themes and code are governed by the aforementioned licenses and laws, however to the extent possible under law, I, Evan M. Tilton, have [waived all copyright and related or neighboring rights](http://creativecommons.org/publicdomain/zero/1.0/) to <span property="dct:title">original content in the PH410F19 course website and materials</span>, where not otherwise specified or prohibited.
+This work is published from: <span property="vcard:Country" datatype="dct:ISO3166" content="US">United States</span>. I haven't always carefully delineated what is original and what is not, so it is not recommended that you simply fork this repo or use its materials for new purposes without careful consideration of all aformentioned parties.
+ 
