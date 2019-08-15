@@ -149,10 +149,10 @@ All exams are cumulative of everthing covered so far in the course, as well as e
 Exams can be a stressful situtation and, sometimes, what you know doesn't really come across with
 the first attempt at the exam.
 
-For both Exam 1 and 2, you will be allowed to rework the exams to earn up to 50% of the credit that
+For both Exam 1 and 2,... <!--you will be allowed to rework the exams to earn up to 50% of the credit that
 you weren't awarded the first time you took it. To earn this credit, you will need to rework the exam
 and turn in a page that addresses what you did incorrectly on the exam and
-how you fixed up that understanding.
+how you fixed up that understanding.-->
 
 You are welcome to rework the exam with your classmates, but the work you turn in
 must be your own, much like with homework.
