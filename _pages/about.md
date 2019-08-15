@@ -48,7 +48,7 @@ We'll be using WorldClass for turning in certain assignments, hosting homework s
 
 In particular, I will **not** be answering questions that are purely scientific/mathematical in nature via email. You are welcome to come by my office, ask in class, **post on the WorldClass discussion boards, or contact a peer.** I will be enforcing this rule to stress the collaborative nature of physics. You are unlikely to succeed in this class (or any other physics endeavor) on your own; you should make it a priority to support your peers and to accept their help. Collaboration is not only encouraged, it is implicitly required. **I strongly suggest that you all frequently get together in person at times in addition to our scheduled meetings to discuss the material of this course.**
 
-In all cases, collaboration should be done in a productive, positive, humble, and honest way. You must do so in a way that is both productive for your learning and within the guidelines of the Academic Honor Code. This means that you should never be simply copying or sharing solutions - to do so is both useless for learning and an academic integrity violation. Seriously, don’t cheat, but seriously, help each other. This also means that you should be kind in offering assistance. Be generous, but do not grandstand or belittle. Listen as much as you talk, and always be asking yourself if you conversational approach is truly in service of truth-seeking and care for others.  
+In all cases, collaboration should be done in a productive, positive, humble, and honest way. You must do so in a way that is both productive for your learning and within the guidelines of the Academic Honor Code. This means that you should never be simply copying or sharing solutions - to do so is both useless for learning and an academic integrity violation. Seriously, don’t cheat, but seriously, help each other. This also means that you should be kind in offering assistance. Be generous, but do not grandstand or belittle. Listen as much as you talk, and always be asking yourself if your conversational approach is truly in service of truth-seeking and care for others.  
 
 
 ## Course Materials
@@ -103,7 +103,7 @@ performance on exams and homework.
 |-----------------|:----------------------------:|-----------------:|
 | Exam 1          |       ?????????????????????  |              15% |
 | Exam 2          |       ?????????????????????  |              15% |
-| Final Exam      |       ?????????????????????  |              20% |
+| Final Exam      |       December 9 @ 10:10am   |              20% |
 | Homework        |           usually Fridays    |              40% |
 | Participation   |           all                |              10% |
 
