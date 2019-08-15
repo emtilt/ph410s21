@@ -11,6 +11,8 @@ redirect_from:
 
 # Electricity and Magnetism - Fall 2019
 
+# This website is still under construction. The information, other than the textbook information, is not yet correct. Do not rely on this information until this notice is removed.
+
 ## Contact Information
 
 -   Instructor: [Prof. Evan Tilton](http://evantilton.com) (he/him/his)
