@@ -23,6 +23,9 @@ redirect_from:
 	- [http://evantilton.com/ph410f19](http://evantilton.com/ph410f19) - Slides, calendar, homework
 	- [WorldClass](https://worldclass.regis.edu) - Grades
 	- [Our Slack workspace](TBD) - Collaboration, solutions, polls, reading quizzes, etc
+	- Other sites you'll likely use:
+		- [Github](https://github.com)
+		- [Google Colab](https://colab.research.google.com)
 -   Class Meetings: MWF 11:00 AM - 11:50 AM (Loyola 8)
 -   Office hours: TBD, but I have an open door policy. You're welcome to talk to me any time I'm here. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me to make sure I'm available.
 
