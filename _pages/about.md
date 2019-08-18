@@ -19,7 +19,10 @@ redirect_from:
 	- Call me anything you want; I'm not picky. Call me Evan, Prof. Tilton, Dr. Evan, Hey-You...literally whatever you are comfortable with.
 	- Please let us know how you would prefer to be addressed and what pronouns you use.
 -   Contact: <etilton@regis.edu>; office: Carroll 108C (inside the Math & Physics suite); office phone: 3034584166 (unreliable)
--   Course web page: [http://evantilton.com/ph410f19](http://evantilton.com/ph410f19) (we will also be using [WorldClass](https://worldclass.regis.edu) sometimes)
+-   Course web pages:
+	- [http://evantilton.com/ph410f19](http://evantilton.com/ph410f19) - Slides, calendar, homework
+	- [WorldClass](https://worldclass.regis.edu) - Grades
+	- [Our Slack workspace](TBD) - Collaboration, solutions, polls, reading quizzes, etc
 -   Class Meetings: MWF 11:00 AM - 11:50 AM (Loyola 8)
 -   Office hours: TBD, but I have an open door policy. You're welcome to talk to me any time I'm here. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me to make sure I'm available.
 
@@ -193,4 +196,4 @@ The topics that we will cover in PH 410 are among the greatest intellectual achi
 ### Self-care
 One of the most important aspects of success in fields of high levels of intellectual difficulty is self-care. It is also one of the most neglected.
 - Get enough sleep, and do so on a regular schedule. One of the biggest predictors of undergraduate success is sleep habits. For example, [give this a read](https://www.nytimes.com/2018/08/13/well/an-underappreciated-key-to-college-success-sleep.html). Pulling all-nighters or similar *is not useful at all* except in the most basic, memorization-based classes.
-- Similarly, take care of yourself in other ways. It is extremely important that you work hard, but working without also having complimentary rest, relaxation, and self-care, is rarely very productive intellectually.
+- Similarly, take care of yourself in other ways. It is extremely important that you work hard, but working without also having complementary rest, relaxation, and self-care, is rarely very productive intellectually.
