@@ -22,7 +22,7 @@ redirect_from:
 -   Course web pages:
 	- [http://evantilton.com/ph410f19](http://evantilton.com/ph410f19) - Slides, calendar, homework
 	- [WorldClass](https://worldclass.regis.edu) - Grades
-	- [Our Slack workspace](TBD) - Collaboration, solutions, polls, reading quizzes, etc
+	- [Our Slack workspace](https://ph410f19.slack.com) - Collaboration, solutions, polls, reading quizzes, etc [(Invitation link to join the workspace)](https://join.slack.com/t/ph410f19/shared_invite/enQtNzMyMDIyODQ0NzI3LTc1ODliZjEzNzkwNjM0OWIyMGVlMjdiOWFmNjlmMDgwMTcxZjE3MTEwMmFiZWVlZDI4OTJkNzk1MDJmYTFkMzY)
 	- Other sites you'll likely use:
 		- [Github](https://github.com)
 		- [Google Colab](https://colab.research.google.com)
