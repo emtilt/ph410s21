@@ -52,6 +52,47 @@ It is absolutely essential that you have already successfully completed the enti
 
 We will also be using computer programming (in Python) and differential equations. Though previous experience in these areas is certainly an asset, it is not required to take this course. You will be provided with the necessary information to tackle them for the first time.
 
+
+## My Classroom Rules
+Be polite, kind, and respectful to everyone. That means a lot of things, including:
+- Don't text, browse the web, or otherwise fiddle with electronic devices} during class; it is rude and distracts everyone, and I may ask you to leave.
+- Listen to your peers, and learn from them. Instead of trying to sound smart, try to **raise all voices**: pay attention to who is contributing, invite contributions from quieter members of the class, and be conscientious of not dominating the conversation.
+- **Don't feign surprise**. In a learning environment, it's important that people feel comfortable saying "I don’t know," so  please don't act surprised when someone says they don’t know something (e.g., don't say, "What?! I can’t believe you don’t know what X is!"). Feigning surprise has no social or educational benefit; it only makes others feel worse.
+- Similarly, **don't pull a well-actually."** A "well-actually" happens when someone says something that's almost (but not entirely) correct, and you say something like, "well, actually..." and give a minor correction that serves mainly to make the person delivering the well-actually feel more important. If you feel the need to correct someone, take a moment to consider whether your correction is in the spirit of truth-seeking, rather than grandstanding, and whether it will provide a positive contribution to the discussion. 
+- Lastly, **I have little patience for racism, sexism, homophobia, transphobia, ableism, ageism, and other kinds of bias**. Subtle -isms of this sort can be particularly tricky, as they are often unconscious behaviors we engage in by mistake, and are sometimes caused by conflicting norms between cultures. For example, saying "It's so easy my grandmother could do it" is subtle ageism. If you experience these behaviors during the course, you should feel free to bring it up directly with the person, or if it’s more comfortable, point out the behavior to me, another faculty member, or the Office of Counseling and Personal Development. If someone points out that you have engaged in this behavior, it can be tempting to become defensive, but instead, I ask that you apologize, reflect for a moment, and move on. If you do not understand why issue was taken with your behavior, it is fine to discuss it with me and/or the class in a respectful, inclusive manner so that everyone can learn from the experience.
+
+We all make mistakes with others; the important thing is that we learn from them and use it to help others in the future
+
+## Important Notes on Expectations and Success
+### What You Should Expect
+PH 410 covers material at a high level of conceptual and mathematical sophistication. Therefore, you should expect:
+- A large amount of material covered quickly. 
+- Few examples covered in lecture. Most homework problems are not at all similar to examples from class. 
+- Difficult homework problem sets that sometimes cannot be completed by one individual working alone. E&M students typically report spending a **minimum** of 10 hours per week on homework at most major universities.
+- Challenging exams. 
+- A great deal of learning that is very rewarding in the end.
+
+PH 410 is a challenging, upper-division physics course. Unlike more introductory courses, you are fully responsible for your own learning. In particular, to some degree, you control the pace of the course by asking questions in class. This means that if you don’t understand something, it is your responsibility to ask questions. Attending class gives you an opportunity to ask questions.
+
+### How to Succeed in this Course
+The topics that we will cover in PH 410 are among the greatest intellectual achievements of humans. In particular, the electromagnetic field theory represented by Maxwell's equations is widely regarded as one of the most elegant and successful theories in science. Don’t be surprised if you have to think hard and work hard to understand the material. You can perform very well in this class if you do the things necessary to learn physics:
+- Read the chapter before the lecture. Read extremely carefully; do not skim. 
+- Read with a pen and notebook; read very actively. Take notes while you read, and work out sample problems and steps of algebra skipped by the author.
+- Attend **every** class. 
+- Don't attempt the homework without studying the chapter(s) first. 
+- Don't get isolated: Work with your classmates to understand the material, study, and complete problem sets.
+- Sometimes **do** get isolated: After working with classmates, always write up and consolidate your knowledge and solutions alone. test yourself to ensure that **you** understand.
+- Start your homework assignments **very early**. No one is smart enough to do the homework in the last hour before class, and no one is smart enough to learn the material without working problems. 
+- Don't fall behind; you will never catch up. 
+- Just reading the text, attending lecture, and doing the homework **is not enough**. You have to *understand* the material. Test your understanding. If you can explain the material, in words, to someone else, without referring to the text, then you understand. If you can complete a problem you've never seen before on your own, then you understand. You may need to do many more problems than just those that are assigned in order to understand. This course is not about memorizing; it's about understanding.
+
+### Self-care
+One of the most important aspects of success in fields of high levels of intellectual difficulty is self-care. It is also one of the most neglected.
+- Get enough sleep, and do so on a regular schedule. One of the biggest predictors of undergraduate success is sleep habits. For example, [give this a read](https://www.nytimes.com/2018/08/13/well/an-underappreciated-key-to-college-success-sleep.html). Pulling all-nighters or similar *is not useful at all* except in the most basic, memorization-based classes.
+- Similarly, take care of yourself in other ways. It is extremely important that you work hard, but working without also having complementary rest, relaxation, and self-care, is rarely very productive intellectually.
+- We'll be using Slack and other tools that make it very easy to communicate and collaborate -- which is great! Be but careful of letting that become an always-online expectaction. You neither have to be responding to electronic communication all the time, nor should you expect that of your peers or me. It is OK and healthy to mentally check-out from those things regularly!
+
+
 ## Course communication
 
 We'll be using WorldClass for grade distribution, but all other digital communications will take place on our Slack workspace. It will host homework solutions, discussions, and reading quizzes, and you should feel free to chat on it, vent, organize study sessions, etc. I intend to cultivate a rather informal learning community, so you should feel free to make it your space, but please also remember that it is an extension of our classroom at Regis, so you should behave in compliance with the student handbook.
@@ -162,41 +203,3 @@ how you fixed up that understanding.-->
 
 You are welcome to rework the exam with your classmates, but the work you turn in
 must be your own, much like with homework.
-
-## My Classroom Rules
-Be polite, kind, and respectful to everyone. That means a lot of things, including:
-- Don't text, browse the web, or otherwise fiddle with electronic devices} during class; it is rude and distracts everyone, and I may ask you to leave.
-- Listen to your peers, and learn from them. Instead of trying to sound smart, try to **raise all voices**: pay attention to who is contributing, invite contributions from quieter members of the class, and be conscientious of not dominating the conversation.
-- **Don't feign surprise**. In a learning environment, it's important that people feel comfortable saying "I don’t know," so  please don't act surprised when someone says they don’t know something (e.g., don't say, "What?! I can’t believe you don’t know what X is!"). Feigning surprise has no social or educational benefit; it only makes others feel worse.
-- Similarly, **don't pull a well-actually."** A "well-actually" happens when someone says something that's almost (but not entirely) correct, and you say something like, "well, actually..." and give a minor correction that serves mainly to make the person delivering the well-actually feel more important. If you feel the need to correct someone, take a moment to consider whether your correction is in the spirit of truth-seeking, rather than grandstanding, and whether it will provide a positive contribution to the discussion. 
-- Lastly, **I have little patience for racism, sexism, homophobia, transphobia, ableism, ageism, and other kinds of bias**. Subtle -isms of this sort can be particularly tricky, as they are often unconscious behaviors we engage in by mistake, and are sometimes caused by conflicting norms between cultures. For example, saying "It's so easy my grandmother could do it" is subtle ageism. If you experience these behaviors during the course, you should feel free to bring it up directly with the person, or if it’s more comfortable, point out the behavior to me, another faculty member, or the Office of Counseling and Personal Development. If someone points out that you have engaged in this behavior, it can be tempting to become defensive, but instead, I ask that you apologize, reflect for a moment, and move on. If you do not understand why issue was taken with your behavior, it is fine to discuss it with me and/or the class in a respectful, inclusive manner so that everyone can learn from the experience.
-
-We all make mistakes with others; the important thing is that we learn from them and use it to help others in the future
-
-## Important Notes on Expectations and Success
-### What You Should Expect
-PH 410 covers material at a high level of conceptual and mathematical sophistication. Therefore, you should expect:
-- A large amount of material covered quickly. 
-- Few examples covered in lecture. Most homework problems are not at all similar to examples from class. 
-- Difficult homework problem sets that sometimes cannot be completed by one individual working alone. E&M students typically report spending a **minimum** of 10 hours per week on homework at most major universities.
-- Challenging exams. 
-- A great deal of learning that is very rewarding in the end.
-
-PH 410 is a challenging, upper-division physics course. Unlike more introductory courses, you are fully responsible for your own learning. In particular, to some degree, you control the pace of the course by asking questions in class. This means that if you don’t understand something, it is your responsibility to ask questions. Attending class gives you an opportunity to ask questions.
-
-### How to Succeed in this Course
-The topics that we will cover in PH 410 are among the greatest intellectual achievements of humans. In particular, the electromagnetic field theory represented by Maxwell's equations is widely regarded as one of the most elegant and successful theories in science. Don’t be surprised if you have to think hard and work hard to understand the material. You can perform very well in this class if you do the things necessary to learn physics:
-- Read the chapter before the lecture. Read extremely carefully; do not skim. 
-- Read with a pen and notebook; read very actively. Take notes while you read, and work out sample problems and steps of algebra skipped by the author.
-- Attend **every** class. 
-- Don't attempt the homework without studying the chapter(s) first. 
-- Don't get isolated: Work with your classmates to understand the material, study, and complete problem sets.
-- Sometimes **do** get isolated: After working with classmates, always write up and consolidate your knowledge and solutions alone. test yourself to ensure that **you** understand.
-- Start your homework assignments **very early**. No one is smart enough to do the homework in the last hour before class, and no one is smart enough to learn the material without working problems. 
-- Don't fall behind; you will never catch up. 
-- Just reading the text, attending lecture, and doing the homework **is not enough**. You have to *understand* the material. Test your understanding. If you can explain the material, in words, to someone else, without referring to the text, then you understand. If you can complete a problem you've never seen before on your own, then you understand. You may need to do many more problems than just those that are assigned in order to understand. This course is not about memorizing; it's about understanding.
-
-### Self-care
-One of the most important aspects of success in fields of high levels of intellectual difficulty is self-care. It is also one of the most neglected.
-- Get enough sleep, and do so on a regular schedule. One of the biggest predictors of undergraduate success is sleep habits. For example, [give this a read](https://www.nytimes.com/2018/08/13/well/an-underappreciated-key-to-college-success-sleep.html). Pulling all-nighters or similar *is not useful at all* except in the most basic, memorization-based classes.
-- Similarly, take care of yourself in other ways. It is extremely important that you work hard, but working without also having complementary rest, relaxation, and self-care, is rarely very productive intellectually.
