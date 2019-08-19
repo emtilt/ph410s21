@@ -26,6 +26,7 @@ redirect_from:
 	- Other sites you'll likely use:
 		- [Github](https://github.com)
 		- [Google Colab](https://colab.research.google.com)
+		- [Our Spotify playlist](https://open.spotify.com/playlist/0Q3VleFxIlnKZMoeC75aNn?si=2SJ0CA--T6yujl5NWM1Aqw) - feel free to add stuff
 -   Class Meetings: MWF 11:00 AM - 11:50 AM (Loyola 8)
 -   Office hours: TBD, but I have an open door policy. You're welcome to talk to me any time I'm here. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me to make sure I'm available.
 
@@ -78,9 +79,9 @@ In all cases, collaboration should be done in a productive, positive, humble, an
 ### Readings
 
 Reading is an essential part of PH 410! Reading the text before class is
-very important. Lecture is to clarify your understanding, to help you
+very important. Our class meetings are to clarify your understanding, and to help you
 make sense of the material. I will assume you have done the required
-readings in advance! Griffiths is one of the best (and most readable)
+readings in advance and I will not simply lecture aloud about stuff you should have read! Griffiths is one of the best (and most readable)
 texts I know of - it will make a huge difference if you spend the time
 and effort to carefully read and follow the text. The
 [calendar](./calendar/) has the details on reading assignments.
@@ -138,9 +139,7 @@ I reserve the right to assign higher grades than would result from this table ac
 
 You are expected to attend and fully participate in every class, both for your own learning and out of respect for your classmates. Each day...<!--, one student will be begin class by summarizing and briefly teaching the assigned reading (which all students are assumed to have read in detail). These summaries should last approximately five minutes, and they should be active teaching that encourages dialogue among the class, perhaps with questions or examples. They should never exceed ten minutes - you are responsible for controlling the timing of the class during the presentation. You will receive a grade each full ‘cycle’ of students; half of the grade will be based on your presentation while the other half will be awarded for good-faith, well-prepared engagement when not leading the class. Your presentation day will be graded on a 1-5 scale on both “Presentation” (how effectively did you communicate the material?) and “Preparation” (how well prepared were you?).-->
 
-You will use Plickers...
-
-There will be a brief reading quiz on WorldClass due prior to each class which will also contribute a small amount to this category. I reserve the right to give unannounced in-class quizzes; it is unlikely that this will happen if the class is mostly keeping up with the reading and homework. There may also be other in-class activities that contribute to this category, depending on the difficulties and interests we encounter along the way.
+There will be a brief reading quiz on Slack due prior to each class which will also contribute a small amount to this category. I reserve the right to give unannounced in-class quizzes; it is unlikely that this will happen if the class is mostly keeping up with the reading and homework. There may also be other in-class activities that contribute to this category, depending on the difficulties and interests we encounter along the way.
 
 
 ### Exams
