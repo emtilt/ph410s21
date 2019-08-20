@@ -55,13 +55,13 @@ During the semester, if you find that life stressors are interfering with your a
 
 ## The Learning Commons
 The Learning Commons' Writing Center, Tutoring, and Academic Success Workshops help with writing and studying in one-on-one and group sessions, in person and online.
-• Writing Center: all stages of writing, all degrees and disciplines. Graduate students, too!
-• Tutoring: available in a range of subjects at introductory and intermediate levels.
-• Smarthinking: another free online tutoring option. Writing, business, nursing, computer programming, mathematics, sciences, and Spanish support by highly trained tutors! 10 free hours annually.
-• Academic Success Workshops: led by Regis faculty and staff, free for Regis members, and cover a range of topics.
+- Writing Center: all stages of writing, all degrees and disciplines. Graduate students, too!
+- Tutoring: available in a range of subjects at introductory and intermediate levels.
+- Smarthinking: another free online tutoring option. Writing, business, nursing, computer programming, mathematics, sciences, and Spanish support by highly trained tutors! 10 free hours annually.
+- Academic Success Workshops: led by Regis faculty and staff, free for Regis members, and cover a range of topics.
  
 Visit regis.edu/tlc to schedule writing/tutoring appointments, log into Smarthinking, reserve study space in TLC, view workshop schedule, access online resources, and learn more about TLC.
-Contact tlc@regis.edu/ 303.964.6591 / Clarke Hall 241.
+Contact tlc@regis.edu / 303.964.6591 / Clarke Hall 241.
 
 ## Diversity and Inclusion
 At Regis University the term “diversity” affirms our Jesuit commitment to build an inclusive community that values the dignity and contributions of all our members. We strive to shape a learning environment characterized by the Jesuit traditions of mutual respect and the pursuit of social justice, recognizing that our various identities and experiences, including but not limited to age, gender, race/ethnicity, class, disability, sexual orientation, religion and other forms of human difference, contribute to the richness and vitality of our Regis community, and those we are connected to locally, nationally, and globally. In accordance with our Jesuit Catholic mission, we commit ourselves to maintaining a humane atmosphere, where the human rights of every individual are recognized and respected. We desire that same commitment to be instilled in each member of our community and demonstrated through our words and actions. Should an individual ever feel as though these values are not being upheld in the academic or residential environment, we encourage that person to bring it to the Office of Diversity, Engagement and Inclusion in the Student Center, Suite 219; diverse@regis.edu or 303-964-6211.
