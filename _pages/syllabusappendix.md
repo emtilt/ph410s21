@@ -7,32 +7,37 @@ author_profile: true
 
 # Additional Syllabus Information for PH410
 
-*Bulletin description
-This course is a writing-intensive seminar required for all students in the Fall of their first year at Regis. This course focuses on critical reading, thinking and writing, as well as introducing the student to their advisor and a core community of fellow students. Students will take a linked spring class with this same community of peers that will satisfy a core requirement.
+## Course Catalog description
+PH 410. ELECTRICITY AND MAGNETISM (3). Studies
+Coulomb’s law through the electromagnetic field of moving
+charge. Develops electrostatic fields in vacuum and in dielectrics,
+magnetic fields associated with constant and variable currents in
+vacuum and in magnetic materials, Maxwell’s synthesis, and the
+propagation of electromagnetic waves in vacuum, in dielectrics
+and in good conductors. Prerequisite(s): MT 360C and PH 304B. 
 
-*Student Learning Outcomes	
+## Student Learning Outcomes	
+Students in this course will learn to
+- Connect the physics of electricity and magnetism to its representation as a mathematics problem, and use the tech- niques of vector calculus to determine a solution. Physics topics will include: electric fields and potentials, Coulomb’s law, Gauss’s law, Poisson’s and Laplace’s equations, polarization and dielectrics, currents, magnetic fields, the Biot- Savart law, Ampère’s law, the vector potential, magnetization and bound currents, the H field, induction, Maxwell’s equations, and electromagnetic waves.
+- Apply techniques such as separation of variables, the method of images, and multipole expansions to solve boundary- value problems with partial differential equations.
+- Communicate solutions to sophisticated physics problems effectively.
 
-Course requirements
-Assignments, quizzes, exams, essays, projects, presentations
-
-
-Grading
-Grading scale and basis for evaluation 
-
-Course schedule
-Calendar or other preferred format
-
-Attendance policy
-
-Excused absence policy
-
-Incomplete policy (suggested wording)
-If unforeseen circumstances occur, and a student is unable to complete the required work for the course, an “Incomplete” grade may be submitted.  A request must be made in writing and approved by the instructor.  The request will include a timeline and plan for completing the work.  The incomplete grade will reflect the grade earned in the course to this point ( an “I” with whatever grade earned, including the missing work: an IF or ID or IC) and will only change when the plan is completed.
-  Please see the University Catalog for more of the full policy: “A grade of an Incomplete or “I” denotes that the required work for the course is incomplete due to unforeseen circumstances” [emphasis added], which means “an accident, an illness, a death or major life transaction has occurred.”
+As such, this course directly addresses the following department-level student learning outcomes (SLOs) set by the Department of Physics and Astronomy:
+- Knowledge of the fundamental principles of analytical mechanics, special relativity, electricity and magnetism, quantum mechanics, and statistical mechanics
+- Ability to apply the principles of physics to solve qualitative and quantitative problems using both analytical and computational methods
 
 
-*Key dates
-Add/drop deadline, withdrawal deadline, midterm grades due date
+## Attendance policy
+Attendance at every course meeting is expected. Activities completed in class will affect the participation category of the course grade, and may not be complete late in the case of an unexcused absence.
+
+## Excused absence policy
+Excused absences will be granted in compliance with Regis College policies. Graded work that is missed due to medical or University-sanctioned athletics will be excused, but you remain responsible for the material missed.
+
+## Incomplete policy
+If unforeseen circumstances occur, and a student is unable to complete the required work for the course, an “Incomplete” grade may be submitted.  A request must be made in writing and approved by the instructor.  The request will include a timeline and plan for completing the work.  The incomplete grade will reflect the grade earned in the course to this point ( an “I” with whatever grade earned, including the missing work: an IF or ID or IC) and will only change when the plan is completed. Please see the University Catalog for more of the full policy: “A grade of an Incomplete or “I” denotes that the required work for the course is incomplete due to **unforeseen** circumstances” (emphasis added), which means “an accident, an illness, a death or major life transaction has occurred.”
+
+## Key dates
+The add/drop deadline is September 3. The withdrawal deadline is November 10. Midterm grades are due October 17. 
 
 *Academic Honor Code
 All members of the Regis University community exhibit the qualities of honesty, loyalty and trustworthiness in all academic activities, holding themselves and each other accountable for the integrity of the learning community.  Regis University students are committed to the highest standards of academic integrity and assume full and complete responsibility for maintaining those standard in the academic environment.
