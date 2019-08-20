@@ -48,7 +48,7 @@ understanding, communication skills, and connection to other courses and
 to the real world. 
 
 ## Prerequisites
-It is absolutely essential that you have already successfully completed the entire Calculus sequence (Calculus 1, 2, and 3) as well as the Physics with Calculus sequecence (both Physics 1 and 2). This course uses vector calculus at a high level at nearly every step; you will not succeed if you have not already developed this skill.
+It is absolutely essential that you have already successfully completed the entire Calculus sequence (Calculus 1, 2, and 3, aka MT360A, B, and C) as well as the Physics with Calculus sequecence (both Physics 1 and 2, aka PH304A and B). This course uses vector calculus at a high level at nearly every step; you will not succeed if you have not already developed this skill.
 
 We will also be using computer programming (in Python) and differential equations. Though previous experience in these areas is certainly an asset, it is not required to take this course. You will be provided with the necessary information to tackle them for the first time.
 
