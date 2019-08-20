@@ -203,3 +203,7 @@ how you fixed up that understanding.-->
 
 You are welcome to rework the exam with your classmates, but the work you turn in
 must be your own, much like with homework.
+
+## Further Policies
+
+Additional syllabus policies, including all university-wide policies, are enumerated [here](./syllabusappendix/).
