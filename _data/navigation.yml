@@ -9,6 +9,9 @@ main:
   - title: "Calendar"
     url: /calendar/ 
     
+  - title: "Maxwell's Equations"
+    url: /maxwell/ 
+    
   #- title: "CV"
 #    url: /cv/
 
