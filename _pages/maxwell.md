@@ -4,5 +4,10 @@ title: "Maxwell's Equations"
 permalink: /maxwell/
 author_profile: true
 ---
+Maxwell's Equations in Differential Form:
 
-$\frac{\rho}{\epsilon_0}$
+$$\nabla \cdot \mathbf{E}=\frac{\rho}{\epsilon_{0}}$$
+
+$$
+\nabla \cdot \mathbf{B}=0
+$$
