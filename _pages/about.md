@@ -146,7 +146,7 @@ will need to get up and running with Jupyter notebooks, but you are welcome to u
 
 I intend for everyone to use Github to manage their code. (However, as always, if this workflow places an undue burden on you for any reason, talk to me! We'll find a solution.) As you become involved with computational or analytic activities in the professional world, you'll find that people expect you to manage your code and documents professionally, too. The standard way of doing so is with `git` repositories ("repos"), often stored online on Github for easy sharing, distribution, and collaboration. You should make a Github account if you do not already have one; as with Slack, you are welcome to use a throwaway email address if you do not want to share your primary one. (However, both Slack and Github are very standard tools -- if you think you might have involvement with any technical field or hobby in the future, I recommend making an account that you'll be able to easily use for many years in many contexts.) 
 
-<span style="color:blue">guides...</span>
+<span style="color:red">guides for github...</span>
 
 
 ## Grading and Exams
