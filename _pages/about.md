@@ -191,7 +191,7 @@ There will be a brief reading quiz on Slack due prior to each class which will a
 
 ### Exams
 
-Midterm exams will consist of both in-class and take-home portions. The take-home portion will be due by 5pm on the day following its distribution. For the in-class portion, you may bring a calculator and you will have access to one equation sheet (details to be given in class prior to the exam). Calculators with scientific notation are allowed and sometimes needed. For the take home portion, you may use the textbook, your note sheet, and a calculator, but no other forms of assistance or information. If I suspect academic integrity violation I **will** immediately report it to the Dean's office, and it will likely result in an F in the course, among other possible sanctions in compliance with the University Catalog.
+Midterm exams will consist of both in-class and take-home portions. The take-home portion will be due by 5pm on the day following its distribution. For the in-class portion, you may bring a calculator and you will have access to one equation sheet (details to be given in class prior to the exam). Calculators with scientific notation are allowed and sometimes needed. For the take home portion, you may use the textbook, the equation sheet, and a calculator, but no other forms of assistance or information. If I suspect academic integrity violation I **will** immediately report it to the Dean's office, and it will likely result in an F in the course, among other possible sanctions in compliance with the University Catalog.
 
 The final exam will consist only of an in-class portion.
 
@@ -202,7 +202,7 @@ All exams are cumulative of everthing covered so far in the course, as well as e
 Exams can be a stressful situtation and, sometimes, what you know doesn't really come across with
 the first attempt at the exam.
 
-For both Exam 1 and 2, you will be allowed to rework the exams to earn up to 50% of the credit that
+For both Exam 1 and 2, you will be allowed to rework the exams to earn up to <span style="color:red">TBD</span>% of the credit that
 you weren't awarded the first time you took it. To earn this credit, you will need to rework the exam
 and turn in a page that addresses in words, point by point, what you did incorrectly on the exam and
 how you fixed up that understanding. You will not receive any credit for reworking unless both the amended physics is complete and correct and you have explicitly reflected on your misunderstandings.
