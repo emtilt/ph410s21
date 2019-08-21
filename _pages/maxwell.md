@@ -10,7 +10,7 @@ $$\nabla \cdot \mathbf{E}=\frac{\rho}{\epsilon_{0}}$$
 
 $$\nabla \cdot \mathbf{B}=0$$
 
-$$\nabla \times \mathbf{E}=\color{gray}{-\frac{\partial \mathbf{B}}{\partial t}}$$
+$$\nabla \times \mathbf{E}=\color{lightgray}{-\frac{\partial \mathbf{B}}{\partial t}}$$
 
 $$\nabla \times \mathbf{B}=\mu_{0} \mathbf{J}+\mu_{0} \epsilon_{0} \frac{\partial \mathbf{E}}{\partial t}$$
 
