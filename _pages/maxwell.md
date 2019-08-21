@@ -13,7 +13,7 @@ $$
 $$
 
 $$
-\nabla \times \mathbf{E}=-\frac{\partial \mathbf{B}}{\partial t}
+\nabla \times \mathbf{E}=\color{gray}{-\frac{\partial \mathbf{B}}{\partial t}}
 $$
 
 $$
@@ -21,3 +21,15 @@ $$
 $$
 
 ## Maxwell's Equations in Integral Form:
+$$
+\oint \mathbf{E} \cdot d \mathbf{a}=\frac{Q_{\mathrm{enc}}}{\epsilon_{0}}
+$$
+$$
+\oint \mathbf{B} \cdot d \mathbf{a}=0
+$$
+$$
+\oint \mathbf{E} \cdot d \mathbf{l}=-\int \frac{\partial \mathbf{B}}{\partial t} \cdot d \mathbf{a}
+$$
+$$
+\oint \mathbf{B} \cdot d \mathbf{l}=\mu_{0} I_{\mathrm{enc}}+\mu_{0} \epsilon_{0} \int \frac{\partial \mathbf{E}}{\partial t} \cdot d \mathbf{a}
+$$
