@@ -53,8 +53,10 @@ It is absolutely essential that you have already successfully completed the enti
 We will also be using computer programming (in Python) and differential equations. Though previous experience in these areas is certainly an asset, it is not required to take this course. You will be provided with the necessary information to tackle them for the first time.
 
 
-## My Classroom Rules
-More than anything else, this class is a community that values the diversity of experience that each of us brings to our shared journey in physics. You should expect respect from me and your classmates, and you should also endeavor to be kind and respectful to everyone else. That means a lot of things, including:
+## My Classroom Rules -- A Commitment to an Inclusive Classroom
+More than anything else, this class is a community that values the diversity of experience that each of us brings to our shared journey in physics. My first priority is the creation of an inclusive classroom - one where everyone feels comfortable, intellectually challenged, and able to speak up about your ideas, struggles, and experiences. Our classroom, as well as its virtual extensions, must foster respect, civility, and an ability to listen. I'll do my best to reach these goals myself, but it is likely that I will err at times. Please let me know if there is anything I can do to make our classroom a more inclusive and productive learning environment. If anyone in our community is vilating our commitment to inclusivity, please let me know. If I am violating this commitment, I welcome criticism so that I may learn to do better, and I encourage you to let me know. If you don't feel comfortable talking to me directly about it, you are also welcome to raise the issue with our department chair, Dr. Fred Gray (fgray@regis.edu). 
+
+You should expect respect from me and your classmates, and you should also endeavor to be kind and respectful to everyone else. That means a lot of things, including:
 - Try not to unnecessarily text, browse the web, or otherwise fiddle with electronic devices during class. It can be rude and distracts [everyone](https://www.sciencedirect.com/science/article/pii/S0360131512002254), and I may ask you to leave if it is disruptive. This will be a bit tricky, because, if you happen to have one, I'll sometimes have you use your phone or laptop during class. You must exercise some degree of personal discipline, restricting yourself to physics-relevant activities during our fifty minutes together.
 - Listen to your peers, and learn from them. Instead of trying to sound smart, try to **raise all voices**: pay attention to who is contributing, invite contributions from quieter members of the class, and be conscientious of not dominating the conversation.
 - **Don't feign surprise**. In a learning environment, it's important that people feel comfortable saying "I don’t know," so  please don't act surprised when someone says they don’t know something (e.g., don't say, "What?! I can’t believe you don’t know what X is!"). Feigning surprise has no social or educational benefit; it only makes others feel worse.
@@ -62,6 +64,15 @@ More than anything else, this class is a community that values the diversity of 
 - Lastly, **I have little patience for racism, sexism, homophobia, transphobia, ableism, ageism, and other kinds of bias**. Subtle -isms of this sort can be particularly tricky, as they are often unconscious behaviors we engage in by mistake, and are sometimes caused by conflicting norms between cultures. For example, saying "It's so easy my grandmother could do it" is subtle ageism. If you experience these behaviors during the course, you should feel free to bring it up directly with the person, or if it’s more comfortable, point out the behavior to me, another faculty member, or the Office of Counseling and Personal Development. If someone points out that you have engaged in this behavior, it can be tempting to become defensive, but instead, I ask that you apologize, reflect for a moment, and move on. If you do not understand why issue was taken with your behavior, it is fine to discuss it with me and/or the class in a respectful, inclusive manner so that everyone can learn from the experience.
 
 We all make mistakes with others; the important thing is that we learn from them and use it to help others in the future.
+
+### Confidentiality and Mandatory Reporting
+
+College students often experience issues that may interfere with academic success such as academic stress, sleep problems, juggling responsibiities, life events, relationship concerns, or feelings of anxiety, hopelessness, or depression.
+As your instructor, one of my responsibilities is to help create a safe learning environment and to support you through these situations and experiences.
+
+I also have a mandatory reporting responsibility related to my role as a university employee. It is my goal that you feel able to share information related to your life experiences in classroom discussions, in written work, and in one-on-one meetings, so I will seek to keep information you share private to the greatest extent possible. However, **under Title IX, I am required to share information regarding sexual misconduct, relationship violence, or information about criminal activity on or near Regis's campus with the university.**
+
+If you wish to speak about these issues confidentially, the Office of Counseling and Personal Development (OCPD) can help. OCPD is located in the Coors Life Direction Center, Room 114 and can be contacted by phone 24/7 at 303-458-3507. For more information, see www.regis.edu/ocpd.
 
 ## Important Notes on Expectations and Success
 ### What You Should Expect
