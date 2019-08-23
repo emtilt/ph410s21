@@ -67,8 +67,7 @@ We all make mistakes with others; the important thing is that we learn from them
 
 ### Confidentiality and Mandatory Reporting
 
-College students often experience issues that may interfere with academic success such as academic stress, sleep problems, juggling responsibiities, life events, relationship concerns, or feelings of anxiety, hopelessness, or depression.
-As your instructor, one of my responsibilities is to help create a safe learning environment and to support you through these situations and experiences.
+College students often experience issues that may interfere with academic success such as academic stress, sleep problems, juggling responsibiities, life events, relationship concerns, or feelings of anxiety, hopelessness, or depression. As your instructor, one of my responsibilities is to help create a safe learning environment and to support you through these situations and experiences.
 
 I also have a mandatory reporting responsibility related to my role as a university employee. It is my goal that you feel able to share information related to your life experiences in classroom discussions, in written work, and in one-on-one meetings, so I will seek to keep information you share private to the greatest extent possible. However, **under Title IX, I am required to share information regarding sexual misconduct, relationship violence, or information about criminal activity on or near Regis's campus with the university.**
 
