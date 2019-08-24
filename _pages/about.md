@@ -11,7 +11,7 @@ redirect_from:
 
 # PH410 - Electricity and Magnetism - Fall 2019 - 3 credits
 
-# This website is still under construction. The information, other than the textbook information and prerequisites, is not yet necessarily correct. Do not rely on this information until this notice is removed.
+# This website is still under construction. The information below is correct but unfinished. I've marked the areas that I'm still working on in a red font. The rest of the page should be mostly correct. I'll have this whole site finished by the first day of class.
 
 ## Contact Information
 
