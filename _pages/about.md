@@ -150,7 +150,7 @@ assignment, then you will be excused from that assignment. It is your resonsibil
 
 
 #### Computational Homework Problems
-There will be *some use of computation in this course* on homework problems. You will need to use Python (through [Jupyter notebooks](http://jupyter.org/)). You do not need any computational experience for this course as you will learn some fundamentals early on and keep using them throughout the course.  Python is used across the science as well as private industry, so learning it will serve you well in your future work, no matter what it is. Artists use Python, teachers use Python, data analysts use Python, sports teams use Python, and physicists use Python. I suggest downloading the [Anaconda distribution of
+There will be *some use of computation in this course* on homework problems. You will need to use Python (through [Jupyter notebooks](http://jupyter.org/)). You do not need any computational experience for this course as you will learn some fundamentals early on and keep using them throughout the course.  Python is used across the sciences as well as private industry, so learning it will serve you well in your future work, no matter what it is. Artists use Python, teachers use Python, data analysts use Python, sports teams use Python, and physicists use Python. I suggest downloading the [Anaconda distribution of
 Python](https://www.continuum.io/) as it comes with all the packages you
 will need to get up and running with Jupyter notebooks, but you are welcome to use any other method of running Python code as well. In particular, you might find something like [Google Colab](https://colab.research.google.com/) useful, which can  interface with Github, Google Drive, or a local storage drive.
 
