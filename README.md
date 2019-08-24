@@ -7,7 +7,7 @@ The code and content for this site depends on and draws from:
 * Various educational research materials (I've been especially inspired by work at the University of Colorado, Michigan State University, and the University of St. Andrews) used under fair-use educational exceptions, by permission, or in compliance with applicable license.
 * [reveal.js](https://revealjs.com) for slides (MIT license) with inspiration from [Luu Gia Thuy's Jekyll implementation](http://luugiathuy.com/2015/04/jekyll-create-slides-with-revealjs/).
 * Kramdown and MathJax for markdown.
-* [Raymond Camden's](https://www.raymondcamden.com/2017/02/24/an-example-of-a-static-site-with-a-dynamic-calendar) Jekyll [implementation](https://github.com/cfjedimaster/Static-Site-Examples/tree/master/jekyll_fullcalendar) of [Full Calendar](https://fullcalendar.io/).
+* [Raymond Camden's](https://www.raymondcamden.com/2017/02/24/an-example-of-a-static-site-with-a-dynamic-calendar) Jekyll [implementation](https://github.com/cfjedimaster/Static-Site-Examples/tree/master/jekyll_fullcalendar) of [Full Calendar](https://fullcalendar.io/). (not used in final site version -- too cumbersome to update and no slack integration)
 
 
 
