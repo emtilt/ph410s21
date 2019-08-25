@@ -5,4 +5,4 @@ title: "Homework 1"
 permalink: /homework/hw1/
 author_profile: true
 ---
-test2
+![vector fields](../images/hw1-divcurlfields.png "vector fields") 
