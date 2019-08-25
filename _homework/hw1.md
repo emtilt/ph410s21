@@ -26,7 +26,11 @@ In this class, we will use Python in Jupyter notebooks, Slack for communication 
 
 ## 2. Vector math
 Dot products and cross products will show up all over this course. Let's remind ourselves of their properties once more.
-- Given the vectors $\vec{A}$ and $\vec{B}$
+- Given the vectors $\vec{A}$ and $\vec{B}$, write down the sum of the two vectors with standard mathematical notation in terms of their components and unit vectors in Catesian coordinates.
+- Given the vectors $\vec{A}$ and $\vec{B}$, define the dot product with standard mathematical notation in two different ways, one using components and one using magnitudes/angles.
+- Give a brief physical interpretation of what the dot product means or tells you (you can give a concrete example if you like).
+- Given the vectors $\vec{A}$ and $\vec{B}$, define the cross product with standard mathematical notation in two different ways, one using components and one using magnitudes/angles.
+- Give a brief physical interpretation of what the dot product means or tells you (you can give a concrete example if you like).
 
 ## 3. Integrals
 In this course, you will perform many different kinds of integrals, some of which you have seen in other courses. In this problem, we will practice those integration techniques. 
@@ -42,7 +46,6 @@ In this course, you will perform many different kinds of integrals, some of whic
   - Consider two different spheres: one with uniform mass density, $\rho_0$, and the other with a radially varying density, $\rho(r)=\frac{3\rho_0}{4R^2}r^2$.
   - If both spheres have the same radius $R$, which has more mass?
 
-
 #### 4. What operations can be done to different kinds of functions?
 1. Given an arbitrary **scalar** function $T(x,y,z)$ (e.g., the temperature at any point in the room or the pressure at any point in the ocean), which of the three main differencal caulculus operations (div, grad, and/or curl) can be used to operate on $T$? For each which can:
   - give a formula for the result,
@@ -54,15 +57,15 @@ In this course, you will perform many different kinds of integrals, some of whic
   - identify if the result a vector or scalar.
 
 #### 5. Determine the gradient of a scalar function
-In Griffiths, $\vec{\mathfrak{r}}$ represents the separation vector between source charges $\langle x', y', z' \rangle$ and the field point -- location of test charge -- $\langle x, y, z \rangle$. The separation vector is a **critically important** vector in electrodynamics as it underlies all of the mathematical models that describe how source charges produce electric and magnetic fields. To that end, you will often do some mathematical manipulations of the separation vector. You are asked to perform two common manipulations below.
+In Griffiths, $\vec{\mathfrak{r}}$ represents the separation vector between source charges $\langle x', y', z' \rangle$ and the field point (i.e., the location of a test charge) $\langle x, y, z \rangle$. I know that my "script-r" $\vec{\mathfrak{r}}$ looks a bit different than the one that Griffiths uses, but it's a hard character to typeset -- sorry. Lemme know if you're confused, and I'll help you reconcile the symbols. The separation vector is a **critically important** vector in electrodynamics as it underlies all of the mathematical models that describe how source charges produce electric and magnetic fields. You **must** make sure you understand its meaning -- make **sure** you understand the different vectors described in Griffiths Section 1.1.4. 
 
+Let's get some familiarity with this quantity.
 1. Calculate the gradient of the magnitude of the separation vector (i.e., $\nabla\|\vec{\mathfrak{r}}\|$).
 2. Calculate the gradient of the inverse of the magnitude of the separation vector (i.e., $\nabla \dfrac{1}{\|\vec{\mathfrak{r}}\|}$).
-3. Show the gradients of these functions can be written as functions of the separation vector ($\vec{\mathfrak{r}}$) and/or its magntiude ($\|\vec{\mathfrak{r}}\|$). (*Hint: it might be easier to do this by explicitly writing out the function in Cartesian coordinates.*)
-4. What vector identities have you developed for the separation vector? This is just asking you to state them based on your answers from parts 1, 2, and 3.
+3. Show the gradients of these functions can be written as functions of the separation vector ($\vec{\mathfrak{r}}$) and/or its magntiude ($\|\vec{\mathfrak{r}}\|$). (*Hint: Explicitly write out the function in Cartesian coordinates.*)
 
 
-#### 4. Analyzing divergence and curl visually
+#### 6. Analyzing divergence and curl visually
 While it is important to be able to analytically calculate divergences and curls, it is also exceedingly useful to be able to identify them visually. This skill has many uses: it allows you to check the plausibility of analytical results or computer simulations, it can imply easier ways of solving some problems, and it can help you identify potential roadblocks when setting up experiments or simulations.Hence, visual inspection of a field (in our case, electromagnetic fields) is an important tool to understand which models might be used to analyze the field. This will also be important in our distinction between electric and magnetic fields, and will become even more useful when the fields begin to vary with time.
 
 For each of the four vector fields sketched below:
@@ -75,12 +78,11 @@ For each of the four vector fields sketched below:
 |
 
 #### 5. Plotting vector functions with `matplotlib`
-Physics is both a mathematical and visual science. It is important to develop the ability to sketch and plot figures of various types. For the early part of this class, plotting the field generated by electric charges is important to understanding the field itself. In this problem, you will learn to use the [`matplotlib` library](http://matplotlib.org) to [plot vector fields](http://matplotlib.org/examples/pylab_examples/quiver_demo.html). As with the previous computational problem, you can [download this working Jupyter notebook](../jupyter/HW1-VectorFieldsProblem.ipynb) ([view it here](https://github.com/dannycab/phy481msu_f2019/blob/master/jupyter/HW1-VectorFieldsProblem.ipynb)), which describes how this kind of plotting is done for a specific case ($\vec{v}(x,y)=y\hat{x}$).
+Physics is both a mathematical and visual science. It is important to develop the ability to sketch and plot figures of various types. For the early part of this class, plotting the field generated by electric charges is important to understanding the field itself. In this problem, you will learn to use the [`matplotlib` library](http://matplotlib.org) to [plot vector fields](http://matplotlib.org/examples/pylab_examples/quiver_demo.html). As with the previous computational problem, you can [download this working Jupyter notebook](../jupyter/hw1-vectorfieldplotting.ipynb) ([view it here](https://github.com/emtilt/ph410f19/blob/master/jupyter/hw1-vectorfieldplotting.ipynb)), which describes how this kind of plotting is done for a specific case ($\vec{v}(x,y)=y\hat{x}$).
 
 It will be up to you to plot additional figures for these cases:
 
 1. $\vec{v}(x,y)=r\hat{r}$ (where $\vec{r}$ refers to the usual $\vec{r}$ in spherical coordinates.)
-2. $\vec{v}(x,y)=\hat{r}/r$
 3. $\vec{v}(x,y) = \dfrac{x}{(\sqrt{x^2+y^2})^3}\hat{x}+\dfrac{y}{(\sqrt{x^2+y^2})^3}\hat{y}$
 4. $\vec{v}(x,y) = \hat{\phi}$ (where $\\phi$ is the usual plane-polar coordinate.)
 5. For each case above, can you describe a physical situation where the field would be applicable?
