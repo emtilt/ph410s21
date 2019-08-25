@@ -39,6 +39,7 @@ include:
   - _pages
   - files
   - jupyter
+  - homework
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -89,6 +90,9 @@ collections:
     output: true
     permalink: /events/:path/
     title: Events
+  homework:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -110,6 +114,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: homework
+    values:
+      layout: single
+      author_profile: true
+      sidebar: true
+      share: false
+      comments: false
 #   _slides
   - scope:
       path: ""
