@@ -26,7 +26,7 @@ In this class, we will use Python in Jupyter notebooks, Slack for communication 
 
 ## 2. Vector math
 Dot products and cross products will show up all over this course. Let's remind ourselves of their properties once more.
-- Given the vectors $\vec{A}$ and $\vec{B}$, write down the sum of the two vectors with standard mathematical notation in terms of their components and unit vectors in Catesian coordinates.
+- Given the vectors $\vec{A}$ and $\vec{B}$, write down the sum of the two vectors with standard mathematical notation in terms of their components (e.g., use notation like $A_x$, etc) and unit vectors (e.g., $\hat{x}$, etc) in Catesian coordinates.
 - Given the vectors $\vec{A}$ and $\vec{B}$, define the dot product with standard mathematical notation in two different ways, one using components and one using magnitudes/angles.
 - Give a brief physical interpretation of what the dot product means or tells you (you can give a concrete example if you like).
 - Given the vectors $\vec{A}$ and $\vec{B}$, define the cross product with standard mathematical notation in two different ways, one using components and one using magnitudes/angles.
