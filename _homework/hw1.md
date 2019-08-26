@@ -12,7 +12,7 @@ This first homework is primarily concerned with getting up and running with Pyth
 
 Handwritten solutions should be turned in on paper. Jupyter notebooks should be turned in by [linking to a Github commit dated before the deadline](http://evantilton.com/guides/linktogithubcommit/); you can send the link to the commit to me via a direct message in Slack.
 
-## 1. Getting started with out computer-based tools
+## 1. Getting started with our computer-based tools
 
 In this class, we will use Python in Jupyter notebooks, Slack for communication and collaboration, and Github to host our code. Your first job is to get these up and running. For some of these tasks, I have [guides available that might help you](http://evantilton.com/guides/).
 
