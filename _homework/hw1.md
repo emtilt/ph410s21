@@ -30,7 +30,7 @@ Dot products and cross products will show up all over this course. Let's remind 
 - Given the vectors $\vec{A}$ and $\vec{B}$, define the dot product with standard mathematical notation in two different ways, one using components and one using magnitudes/angles.
 - Give a brief physical interpretation of what the dot product means or tells you (you can give a concrete example if you like).
 - Given the vectors $\vec{A}$ and $\vec{B}$, define the cross product with standard mathematical notation in two different ways, one using components and one using magnitudes/angles.
-- Give a brief physical interpretation of what the dot product means or tells you (you can give a concrete example if you like).
+- Give a brief physical interpretation of what the cross product means or tells you (you can give a concrete example if you like).
 
 ## 3. Integrals
 In this course, you will perform many different kinds of integrals, some of which you have seen in other courses. In this problem, we will practice those integration techniques. 
