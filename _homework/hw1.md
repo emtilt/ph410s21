@@ -1,7 +1,7 @@
 ---
 layout: archive
 collection: homework
-title: "Homework 1 - Due ???"
+title: "Homework 1 - Due Wednesday, September 4 at 4:30pm"
 permalink: /homework/hw1/
 author_profile: true
 ---
