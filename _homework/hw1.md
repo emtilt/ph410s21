@@ -95,7 +95,7 @@ In this problem, you will learn how we often use general vector operations with 
 
 ## 9. Applying vector calculus knowledge
 
-Griffiths is often able to get to a result very quickly, with seemingly little work, often producing an extremely elegant argument in the process. He is able to do this by drawing on a deep understanding of vector calculus. Let's try to build some of that understanding by connecting concepts to proofs. For this, consider the surface integral that we define as the ''vector area'',
+Griffiths is often able to get to a result very quickly, with seemingly little work, often producing an extremely elegant argument in the process. He is able to do this by drawing on a deep understanding of vector calculus. Let's try to build some of that understanding by connecting concepts to proofs. For this problem, consider the surface integral that we define as the ''vector area'',
 
 $$\mathbf{a} = \iint_S d\mathbf{a}$$
 
