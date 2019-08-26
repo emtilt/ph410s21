@@ -28,7 +28,7 @@ redirect_from:
 		- [Google Colab](https://colab.research.google.com)
 		- [Our Spotify playlist](https://open.spotify.com/playlist/0Q3VleFxIlnKZMoeC75aNn?si=2SJ0CA--T6yujl5NWM1Aqw) - feel free to add stuff
 -   Class Meetings: MWF 11:00 AM - 11:50 AM (Loyola 8)
--   Office hours: TBD, but I have an open door policy. You're welcome to talk to me any time I'm here. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me to make sure I'm available.
+-   Office hours: <span style="color:red">TBD</span>, but I have an open door policy. You're welcome to talk to me any time I'm here. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me to make sure I'm available.
 
 
 
@@ -156,8 +156,7 @@ will need to get up and running with Jupyter notebooks, but you are welcome to u
 
 I intend for everyone to use Github to manage their code. (However, as always, if this workflow places an undue burden on you for any reason, talk to me! We'll find a solution.) As you become involved with computational or analytic activities in the professional world, you'll find that people expect you to manage your code and documents professionally, too. The standard way of doing so is with `git` repositories ("repos"), often stored online on Github for easy sharing, distribution, and collaboration. You should make a Github account if you do not already have one; as with Slack, you are welcome to use a throwaway email address if you do not want to share your primary one. (However, both Slack and Github are very standard tools -- if you think you might have involvement with any technical field or hobby in the future, I recommend making an account that you'll be able to easily use for many years in many contexts.) 
 
-<span style="color:red">guides for github...</span>
-
+If you get stuck with the technological aspects of the class, don't be afraid to check the guides that I've posted [here](http://evantilton.com/guides/), ask for help on Slack, come see me, or Google it (as should usually be your first recourse).
 
 ## Grading and Exams
 
@@ -212,7 +211,7 @@ All exams are cumulative of everthing covered so far in the course, as well as e
 Exams can be a stressful situtation and, sometimes, what you know doesn't really come across with
 the first attempt at the exam.
 
-For both Exam 1 and 2, you will be allowed to rework the exams to earn up to <span style="color:red">TBD</span>% of the credit that
+For both Exam 1 and 2, you will be allowed to rework the exams to earn up to 40% of the credit that
 you weren't awarded the first time you took it. To earn this credit, you will need to rework the exam
 and turn in a page that addresses in words, point by point, what you did incorrectly on the exam and
 how you fixed up that understanding. You will not receive any credit for reworking unless both the amended physics is complete and correct and you have explicitly reflected on your misunderstandings.
