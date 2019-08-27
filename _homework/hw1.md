@@ -36,7 +36,7 @@ Dot products and cross products will show up all over this course. Let's remind 
 In this course, you will perform many different kinds of integrals, some of which you have seen in other courses. In this problem, we will practice those integration techniques. 
 
 1. *Line (or path) integrals* - You may have encountered these when discussing energy and work in a previous physics class. We'll use them frequently, especially when we talk about electric potential.
-  - Determine the work done by the vector force $\mathbf{F} = y^2\;\hat{x} - 2x^2\;\hat{y}$ along the path $y=x^2$ from (0,0) to (4,16). In case you forgot, recall that $W=\int \mathbf{F}\cdot d\mathbf{l}$.
+  - Determine the work done by the vector force $\mathbf{F} = y^2\;\hat{x} - 2x^2\;\hat{y}$ along the path $y=x^2$ from (0,0) to (4,16). (Don't fret about the units. Just assume you're working in some unit system in which all these quantities are unitless, or if you prefer, think of this "work" as just an abstract mathematical construct instead of a real physical system.) In case you forgot, recall that $W=\int \mathbf{F}\cdot d\mathbf{l}$.
   - Descibe in words what the line integral $W=\int \mathbf{F}\cdot d\mathbf{l}$ is doing. What is being "summed up"? Why is there a dot product?
   - Is this line integral path-independent (i.e., is $\mathbf{F}$ a [conservative vector field](https://en.wikipedia.org/wiki/Conservative_vector_field))? Explain how you can tell.
 2. *Surface integrals* - Calculating the flux through a particular surface is a common way of determine the electric field, and doing so requires evaluating a surface integral.
