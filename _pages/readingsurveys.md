@@ -28,3 +28,4 @@ x²x̂+y³ŷ+zẑ;2x²x̂+3y³ŷ+zẑ;2xx̂+3yŷ+zẑ;2xx̂+3y²ŷ+zẑ; 2xx̂+3
 
 ### Reading Survey 2
 What is the result of ∫v⋅dl for vector field v(x,y,z)=2yzŷ along the straight-line path from the origin to (0,1,0)?
+-1,0,0.5,1,none of the above
