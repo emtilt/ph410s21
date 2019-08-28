@@ -25,3 +25,6 @@ Question 3: What is the magnitude of the separation vector from source point (2,
 Question 4: What is the gradient of the function f(x,y,z)=x²+y³+z?
 
 x²x̂+y³ŷ+zẑ;2x²x̂+3y³ŷ+zẑ;2xx̂+3yŷ+zẑ;2xx̂+3y²ŷ+zẑ; 2xx̂+3y²ŷ+ẑ
+
+### Reading Survey 2
+What is the result of ∫v⋅dl for vector field v(x,y,z)=2yzŷ along the straight-line path from the origin to (0,1,0)?
