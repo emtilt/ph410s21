@@ -26,7 +26,7 @@ redirect_from:
 		- [Google Colab](https://colab.research.google.com)
 		- [Our Spotify playlist](https://open.spotify.com/playlist/0Q3VleFxIlnKZMoeC75aNn?si=2SJ0CA--T6yujl5NWM1Aqw) - feel free to add stuff
 -   Class Meetings: MWF 11:00 AM - 11:50 AM (Loyola 8)
--   Office hours: Monday 1pm-3pm; Tuesday 2pm-3pm; Wednesday 1pm-2pm. But I have an open door policy. You're welcome to talk to me any time I'm here. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me to make sure I'm available.
+-   Office hours: Monday 1pm-3pm; Tuesday 1pm-2pm; Wednesday 1pm-2pm. But I have an open door policy. You're welcome to talk to me any time I'm here. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me to make sure I'm available.
 
 
 
