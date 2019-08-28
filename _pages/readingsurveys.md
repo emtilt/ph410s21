@@ -16,15 +16,15 @@ Never learned about it; Learned about, can describe; Learned about, can't descri
 Question 2: Consider the image of a disk-shaped uniform surface charge density at http://evantilton.com/ph410f19/images/s1-disk.png
 Suppose you were asked to find the electric field at point P. According the Griffiths's standard notation, vectors A, B, and C (respectively) should be assigned what names?
 
-r, r', 𝓻; 𝓻, r, r'; 𝓻, r', r; r', r, 𝓻; r, 𝓻, r'
+r, r', 𝓻; **𝓻, r, r'**; 𝓻, r', r; r', r, 𝓻; r, 𝓻, r'
 
 Question 3: What is the magnitude of the separation vector from source point (2,8,7) to field point (4,6,8)?
 
-10.8; 21.4; -3; none of the above
+10.8; 21.4; -3; **none of the above**
 
 Question 4: What is the gradient of the function f(x,y,z)=x²+y³+z?
 
-x²x̂+y³ŷ+zẑ;2x²x̂+3y³ŷ+zẑ;2xx̂+3yŷ+zẑ;2xx̂+3y²ŷ+zẑ; 2xx̂+3y²ŷ+ẑ
+x²x̂+y³ŷ+zẑ;2x²x̂+3y³ŷ+zẑ;2xx̂+3yŷ+zẑ;2xx̂+3y²ŷ+zẑ; **2xx̂+3y²ŷ+ẑ**
 
 ### Reading Survey 2
 What is the result of ∫v⋅dl for vector field v(x,y,z)=2yzŷ along the straight-line path from the origin to (0,1,0)?
