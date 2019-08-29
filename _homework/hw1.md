@@ -5,6 +5,9 @@ title: "Homework 1 - Due Wednesday, September 4 at 4:30pm"
 permalink: /homework/hw1/
 author_profile: true
 ---
+
+[Link to Slack team -- a great place to ask questions](https://ph410f19.slack.com)
+
 ## Intro 
 Homework is a huge aspect of this course, both in terms of learning and in terms of grade. I strongly encourage you to work together on these homework problems, but you must turn in your own work. Collaborate with integrity!
 
