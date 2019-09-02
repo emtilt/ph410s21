@@ -28,7 +28,7 @@ x²x̂+y³ŷ+zẑ;2x²x̂+3y³ŷ+zẑ;2xx̂+3yŷ+zẑ;2xx̂+3y²ŷ+zẑ; **2xx̂
 
 ### Reading Survey 2
 What is the result of ∫v⋅dl for vector field v(x,y,z)=2yzŷ along the straight-line path from the origin to (0,1,0)?
--1,0,0.5,1,none of the above
+-1,**0**,0.5,1,none of the above
 
 ### Reading Survey 3
 Consider a volume charge density given by ρ(x,y,z)=aδ(x-1)δ(z) where δ indicates the usual Dirac delta function. The coordinates x, y, and z are position coordinates. Using SI units, what are the units of the constant a? (Hint: What are the units of the Dirac delta?)
