@@ -55,7 +55,7 @@ $E = \dfrac{1}{4\pi\varepsilon_0}\dfrac{\lambda 2\pi Rz}{(z^2+R^2)^{3/2}}$
 
 1. Check the units of this expression to verify it is correct.
 2. What are at least two other indepdent checks that you could do to see if you believe your result?
-3. Perform those two independent checks. Comment on if you believe this result based on these checks. Why or why not
+3. Perform those two independent checks. Comment on if you believe this result based on these checks. Why or why not?
 
 #### 6. Quick questions based on symmetrical reasoning
  Deduce answers to the following questions, explaining your reasoning clearly and rigorously. You should not need to do significant mathematical work to answer these if you carefully consider the symmetries of the scenario. (This is quite similar to Griffiths Problem 2.1. I strongly encourage you to reason this out alone, without recourse to solutions by others from the internet. It's not a long problem.)
