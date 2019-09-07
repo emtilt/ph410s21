@@ -37,7 +37,7 @@ In this class, you will often produce new formulae that describe some situation 
 
 Consider a thin disk of radius $R$ with a uniform charge density, $-\sigma$.
 
-![Disk of Charge](../images/hw2-diskofcharge.png "Disk of Charge")
+![Disk of Charge](../../images/hw2-diskofcharge.png "Disk of Charge")
 
 This may seem like a very artificial problem, but the disk of charge is an idealization of many physical devices: a capacitor plate, a small patch of any surface, etc. Once you have solved this ideal problem, you will be able to apply it to realistic situations.
 
