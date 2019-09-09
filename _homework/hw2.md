@@ -23,13 +23,13 @@ Two charges of identical mass $m$, one with charge $q$ and the other with charge
 
 ### 2. A curious distribution of charge
 
-In this problem, you will explore numerical integration in the context of an analytically intractable charge distribution. You can [download the notebook](../jupyter/HW2-loopsandintegration.ipynb) (or [view it here](https://github.com/emtilt/ph410f19/blob/master/jupyter/HW2-loopsandintegration.ipynb)).
+In this problem, you will explore numerical integration in the context of an analytically intractable charge distribution. You can [download the notebook](../../jupyter/HW2-loopsandintegration.ipynb) (or [view it here](https://github.com/emtilt/ph410f19/blob/master/jupyter/HW2-loopsandintegration.ipynb)).
 
 ### 3. Numerically calculating the electric field
 
 In this problem, we will lay the ground work for determining the electric field of a distribution of charge numerically. We won't actually attempt an integral this time, but instead we will lay the groundwork for how to think about them and how to set them up in Python.
 
-You will do this work in a Jupyter notebook. You can [download the notebook](../jupyter/hw2-electricfield.ipynb) (or [view it here](https://github.com/emtilt/ph410f19/blob/master/jupyter/hw2-electricfield.ipynb)). As you work through this problem, you will work through the following activities:
+You will do this work in a Jupyter notebook. You can [download the notebook](../../jupyter/hw2-electricfield.ipynb) (or [view it here](https://github.com/emtilt/ph410f19/blob/master/jupyter/hw2-electricfield.ipynb)). As you work through this problem, you will work through the following activities:
 
 ### 4. Disk of charge - Checking new results against your intuition
 
