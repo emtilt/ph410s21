@@ -8,7 +8,7 @@ author_profile: true
 
 [Link to Slack team -- a great place to ask questions](https://ph410f19.slack.com)
 
-Homework 2 emphasizes the electric field and the principle of superposition that will form the basis of much of your understanding of electrostatics. This homework makes use of what you learned from Secs. 1.1-1.4 in Griffiths and adds to it the concepts from Sec. 2.1, which make up the bulk of the assignment. In addition, we have begun to introduce the idea of finding approximate formulae using Taylor expansions, which is one of the most common practices of theoretical physics. In this assignment, you will use a Jupyter notebook to determine the electric field of a point charge and a dipole as we build up the architecture to solve elecrtic field problems numerically.
+Homework 2 emphasizes the electric field and the principle of superposition that will form the basis of much of your understanding of electrostatics. This homework makes use of what you learned from Secs. 1.1-1.4 in Griffiths and adds to it the concepts from Sec. 2.1, which make up the bulk of the assignment. In addition, we have begun to introduce the idea of finding approximate formulae using Taylor expansions, which is one of the most common practices of theoretical physics. In this assignment, you will use a Jupyter notebook to determine an electric field as we build up the architecture to solve electric field problems numerically.
 
 ### 1. Finding the angle between two suspended charges
 
