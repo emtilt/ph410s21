@@ -32,7 +32,7 @@ Consider the following questions in finding the electric field everywhere for a 
 2. Answer the same questions for three cubes with the same properties (i.e., charge distributions that vary radially as $r^n$).
 3. What do your answers to parts 1 and 2 tell you about using Gauss' Law versus using Coulomb's Law (direct integration) to solve for the electric field?
 
-#### 3. Spherical charge distributions are special & GRE Prep
+#### 3. Spherical charge distributions are special
 
 As you might have picked up by now, spherically symmetric charge distributions are very special. We have a number of theoretical tools we can bring to bear on them and the results we produce are often quite simple in a mathematical sense. In this problem, you will explore these distributions a bit more and connect the mathematics (i.e., the integrals you must do) to the geometry of the problem (i.e., where the charge lives) to gain intuition about these spherically symmetric distributions of charge.
 
@@ -41,21 +41,11 @@ For parts 1 and 2, consider a sphere of radius $R$, centered one the origin, wit
 1. What $\rho(r)$ is required for the electric field **in the sphere** to have the power law form $E(r) = cr^n$, where $c$ and $n$ are constants? The case of n=-2 is special. How so? Some values of $n$ are unphysical because these would lead to an infinite amount of charge in the sphere.. Which values of $n$ are allowed?
 2. What kind of charge distribution is required for the radial E-field inside the sphere to be of constant magnitude; that is, what $\rho(r)$ produces $E(r) = $ constant (inside only)? Is this distribution physical realizable? Why or why not?
 3. For each of these allowable charge distributions, what does the electric field look like outside the sphere ($r>R$)?
-4. **GRE Prep:** Two spherical, nonconducting, and very thin shells of uniformly distributed positive charge $Q$ and radius $d$ are located a distance 10$d$ apart. A positive point charge $q$ is placed inside on of the shells at a distance $d/2$ from the center, on the line connecting the centers of the two shells, as shown in the figure. What is the net force on the charge $q$?
+4. Two spherical, nonconducting, and very thin shells of uniformly distributed positive charge $Q$ and radius $d$ are located a distance 10$d$ apart. A positive point charge $q$ is placed inside on of the shells at a distance $d/2$ from the center, on the line connecting the centers of the two shells, as shown in the figure. What is the net force on the charge $q$?
 
-![GRE Problem](./images/hw3/gre_problem.png "GRE Problem")
+![two spheres](../../images/hw3-gre_problem.png "two spheres")
 
-#### 4. Cube with a hole
 
-What happens when you have problems were the symmetries are mixed? How do you tackle a problem with two different geometries? In this problem, you will explore how to deal with situations where they are two "competing" geometries for the problem. Sometimes you will need to bring two (or more!) aspects of your theoretical toolbox to bear on a problem.
-
-Consider a cube (edge length $a$) with a uniform charge distributed throughout its volume ($\rho$). We carve a spherical cavity out of it of radius $d$, such that the cavity is centered at the center of the cube.
-
-![Cube with Hole](./images/hw3/cube_w_hole.png "Cube with hole")
-
-1. Does Gauss' Law hold for this problem? Can Gauss' Law be used on this problem? If so, what surface do you use? If not, why?
-2. Let the center of the cube (and thus the center of the cavity) be located at the origin $\langle 0,0,0 \rangle$. **Explain** how you would determine the electric field at point $P$ a distance $z$ from the center of the cube.
-3. What should your expression for the electric field be as $d$ goes to zero? What does this correspond to physically?
 
 #### 5. Describing charge distributions with delta functions
 
@@ -65,8 +55,17 @@ The linear charge density for a series of charges on the $x$-axis is given by:
 
 $$\lambda(x) = \sum_{n=0}^{10} q_0 n^2\delta\left(x-\dfrac{n}{10}\right)$$
 
-1. Write a sentence or two describing the units of each term in the equation. (Don't forget the delta function!)
+1. In words, describe the units of each part of this equation. (Don't forget the delta function!)
 2. What is the total charge on $x$-axis?
+
+### 6. Gauss's Law and Divergence
+Gauss’ law and Divergence 
+The electric field outside an infinite line that runs along the z-axis is  $\vec{E}=\frac{2\lambda}{4\pi\epsilon_0}\frac{\hat{s}}{s}$
+in cylindrical coordinates. (This is derived in Griffiths Example 2.1.) 
+a) Find the divergence of the E field for s>0. 
+b) Calculate the electric flux out of an imaginary Gaussian cylinder of length "L", and radius "a", centered around the z axis. Please do this 2 different ways to check yourself: by direct integration, and using Gauss' law. 
+c)  Given your (superficially contradictory) results from parts a and b, what is the divergence of this E field?  Express it as a single mathemtical equation valid over all space in cylindrical coordinates
+
 
 #### 6. A rod with a hole drilled in it
 
