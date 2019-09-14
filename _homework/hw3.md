@@ -32,7 +32,7 @@ For parts 1 and 2, consider a sphere of radius $R$, centered one the origin, wit
 1. What $\rho(r)$ is required for the electric field **in the sphere** to have the power law form $E(r) = cr^n$, where $c$ and $n$ are constants? The case of n=-2 is special. How so? Some values of $n$ are unphysical because these would lead to an infinite amount of charge in the sphere.. Which values of $n$ are allowed?
 2. What kind of charge distribution is required for the radial E-field inside the sphere to be of constant magnitude; that is, what $\rho(r)$ produces $E(r) = $ constant (inside only)? Is this distribution physical realizable? Why or why not?
 3. For each of these allowable charge distributions, what does the electric field look like outside the sphere ($r>R$)?
-4. Two spherical, nonconducting, and very thin shells of uniformly distributed positive charge $Q$ and radius $d$ are located a distance 10$d$ apart. A positive point charge $q$ is placed inside on of the shells at a distance $d/2$ from the center, on the line connecting the centers of the two shells, as shown in the figure. What is the net force on the charge $q$?
+4. Two spherical, nonconducting, and very thin shells of uniformly distributed positive charge $Q$ and radius $d$ are located a distance 10$d$ apart. A positive point charge $q$ is placed inside on of the shells at a distance $2d/3$ from the center, on the line connecting the centers of the two shells, as shown in the figure. What is the net force on the charge $q$?
 
 ![two spheres](../../images/hw3-gre_problem.png "two spheres")
 
