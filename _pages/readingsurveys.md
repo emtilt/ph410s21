@@ -49,4 +49,27 @@ Yes;No;Prefer not to answer
  
  +ŷ;**-ŷ**;+x̂;-x̂;Other or not enough info
 
+ ### Reading Survey 5
+A thick spherical, with inner radius a and outer radius b, carries charge density ρ=k/r². What is the electric field interior to the shell (i.e., at r<a)?
 
+**0**; nonzero, pointed radially out; nonzero, pointed radially in; none of the above
+
+
+Look at Griffiths Problem 2.16, part iii. It asks you to find the electric field outside a coaxial cable under a particular set of circumstances. What is the electric field in the specified region?
+
+**0**;nonzero, pointed radially; nonzero, pointed along cable; none of the above
+
+ ### Reading Survey 6
+
+You have a thin spherical shell of uniform positive charge +Q centered at the origin with no other charge anywhere (i.e. all the charge is concentrated in a hollow shell at r=R). If we decide to define V(∞)=0, what is the sign of V(0)?
+<!--
+**positive**; negative; zero; it depends
+
+For the same physical scenario described in the previous question, could we instead choose to define V(R)=0?
+
+**Yes**;No;It depends
+
+For the same physical scenario described in the previous questions, what is the sign of  (V(r=R) – V(r=0))?
+
+Positive;**Negative**;Zero;It depends
+-->
