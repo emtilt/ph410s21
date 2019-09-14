@@ -7,6 +7,7 @@ author_profile: true
 ---
 [Link to Slack team -- a great place to ask questions](https://ph410f19.slack.com)
 
+
 Homework 3 emphasizes alternative methods to direct integration (Coulomb's Law) for solving the electric field problem including the use of Gauss' Law. In addition, it introduces the concept of the Dirac delta function as a tool for describing distributions of charge. This homework makes use of what you learned in Secs. 1.5 and 2.2, but what you know from 2.1 (i.e., superposition of ($\mathbf{E}$)) will also be important. Additionally, for the first time so far in this course, we are able to start to apply our skills to real physical systems (Problems 8 and 9 allow you to model an atom and a liquid crystal, respectively).
 
 ### 1. Numerical Superposition - Electric field of a line charge
