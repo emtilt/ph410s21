@@ -53,9 +53,10 @@ $$\lambda(x) = \sum_{n=0}^{10} q_0 n^2\delta\left(x-\dfrac{n}{10}\right)$$
 Gauss’ law and Divergence 
 The electric field outside an infinite line that runs along the z-axis is  $\vec{E}=\frac{2\lambda}{4\pi\epsilon_0}\frac{\hat{s}}{s}$
 in cylindrical coordinates. (This is derived in Griffiths Example 2.1.) 
-a) Find the divergence of the E field for s>0. 
-b) Calculate the electric flux out of an imaginary Gaussian cylinder of length "L", and radius "a", centered around the z axis. Please do this 2 different ways to check yourself: by direct integration, and using Gauss' law. 
-c)  Given your (superficially contradictory) results from parts a and b, what is the divergence of this E field?  Express it as a single mathemtical equation valid over all space in cylindrical coordinates
+
+1. Find the divergence of the E field for $s>0$. 
+2. Calculate the electric flux out of an imaginary Gaussian cylinder of length $L$, and radius $a$, centered around the $z$ axis. Please do this 2 different ways to check yourself: by direct integration, and using Gauss' law. 
+3.  Given your (superficially contradictory) results from parts 1 and 2, what is the divergence of this E field?  Express it as a single mathemtical equation valid over all space in cylindrical coordinates
 
 
 #### 7. A rod with a hole drilled in it
