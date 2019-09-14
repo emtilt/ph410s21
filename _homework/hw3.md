@@ -79,7 +79,7 @@ Consider a rod of length $L$ and radius $b$ that has a hole drilled down the cen
 
 
 ### 9. A liquid crystal
-Smectic-C liquid crystals are made of long rodlike molecules with a positive head and a negative tail which pack together to form a long, thin sheet as shown.  The volume charge density is obviously complicated, but can be quite successfully modeled with the rather simple form  $\rho(x,y,z)=\rho_0 \sinh\left(z/z_0\right)$, i.e. uniform in $x$ and $y$, but varying in $z$, with $z = 0$ defined to be the middle of the sheet. (That's the "hyperbolic sine" function, by the way, in case the notation is unfamiliar.) Find the electric field everywhere in space, in terms of the constants $\rho_0$, $z_0$ and the sheet thickness $T$. Sketch it as a function of $z$. Where is it biggest?
+Smectic-C liquid crystals are made of long rodlike molecules with a positive head and a negative tail which pack together to form a long, thin sheet as shown.  The volume charge density is obviously complicated, but can be quite successfully modeled with the rather simple form  $\rho(x,y,z)=\rho_0 \sinh\left(z/z_0\right)$, i.e. uniform in $x$ and $y$, but varying in $z$, with $z = 0$ defined to be the middle of the sheet. (That's the [hyperbolic sine](https://en.wikipedia.org/wiki/Hyperbolic_function#Exponential_definitions) function, by the way, in case the notation is unfamiliar.) Find the electric field everywhere in space, in terms of the constants $\rho_0$, $z_0$ and the sheet thickness $T$. Sketch it as a function of $z$. Where is it biggest?
 
 ![smeticc](../../images/hw3-smeticc.png "smecticc")
 
