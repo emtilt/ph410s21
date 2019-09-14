@@ -68,7 +68,7 @@ Consider a rod of length $L$ and radius $b$ that has a hole drilled down the cen
 2. Find the electric field outside the rod ($r>b$).
 3. Find the electric field between the hole and outer surface of the rod ($a<r<b$).
 4. Why did you need to solve Gauss' Law 3 times in this case to find the electric field "everywhere"?
-5. Compare the value of the electric field right at the material boundaries ($r=a$ and $r=b$), do the values match? As we will find this matching has important implications for bound charge on material surfaces.
+5. Compare the value of the electric field right at the material boundaries ($r=a$ and $r=b$), where two of your three solutions meet. Do the values match? As we will find, this matching has important implications for bound charge on material surfaces.
 
 ### 8. The E field in hydrogen atoms
 
