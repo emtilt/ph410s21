@@ -8,19 +8,11 @@ author_profile: true
 
 [Link to Slack team -- a great place to ask questions](https://ph410f19.slack.com)
 
-<!--
-
 Homework 3 emphasizes alternative methods to direct integration (Coulomb's Law) for solving the electric field problem including the use of Gauss' Law. In addition, it introduces the concept of the Dirac delta function as a tool for describing distributions of charge. This homework makes use of what you learned in Secs. 1.5 and 2.2, but what you know from 2.1 (i.e., superposition of ($\mathbf{E}$) will also be important).
 
 #### 1. Numerical Superposition - Electric field of a line charge
 
-As we discussed in class, you can break up a disutrubiton of charge into chunks - each a point charge - and add up the contirubtions to the electric field of each chunk. This process forms the basis of numerical superposition, which you began to explore in the [last homework - problem 3](./homework2.html). In this problem, you will extend that work to a line of charge. You will solve this problem using a Jupyter notebook. You can [download it here](../jupyter/HW3_Electric_Field_Line_Charge.ipynb) (or [view it here](https://github.com/dannycab/phy481msu_f2019/blob/master/jupyter/HW3_Electric_Field_Line_Charge.ipynb)).
-
-Using numerical superposition, adding up the contributions to the electric field due to each chunk, you will solve the following problems.
-
-1. We want to compute and represent the electric field of the charge at a distance of $0.1 m$ from the line charge along the $y$-axis. Do this.
-2. The analytical formula for the electric field of the rod at that location is: $E_{rod} = \dfrac{1}{4\pi\varepsilon_0}\dfrac{Q}{y\sqrt{L^2/4+y^2}}$. Compare the value of the electric field at that location for different values of 'Nchunks', say for 10, 20, 50, and 100 chunks. How close do you get with 100 chunks? How many chunks do you need to get within 1% of the analytical solution?
-3. Using what you have built to find the electric field at this location, find the electric field at a variety of points around the the line charge and represent them with arrows. You can choose the locations, but be systematic.
+As we discussed in class, you can break up a disutrubiton of charge into chunks - each a point charge - and add up the contirubtions to the electric field of each chunk. This process forms the basis of numerical superposition, which you began to explore in the [last homework - problem 3](./homework2.html). In this problem, you will extend that work to a line of charge. You will solve this problem using a Jupyter notebook. You can [download the notebook](../../jupyter/HW3_Electric_Field_Line_Charge.ipynb) (or [view it here](https://github.com/emtilt/ph410f19/blob/master/jupyter/HW3_Electric_Field_Line_Charge.ipynb)). Using numerical superposition, adding up the contributions to the electric field due to each chunk, you will study the electric field that results from this charge distribution.
 
 #### 2. Comparing Coulomb's Law to Gauss' Law
 
@@ -46,7 +38,6 @@ For parts 1 and 2, consider a sphere of radius $R$, centered one the origin, wit
 ![two spheres](../../images/hw3-gre_problem.png "two spheres")
 
 
-
 #### 5. Describing charge distributions with delta functions
 
 The [Dirac delta function](https://en.wikipedia.org/wiki/Dirac_delta_function) is an important theoretical tool for describing distributions of a variety of physical quantities (e.g., mass, charge) where a point object (or system of point objects) is the model we intend to use. In addition, it can be used to describe distributions where these quantities exist in highly constrained spaces (e.g., on a plane or spherical shell). In this class, we will use the Dirac delta function to describe how a charges are distributed. In this problem, you will get familiar with the Dirac delta function for a set point charges on a line.
@@ -67,11 +58,11 @@ b) Calculate the electric flux out of an imaginary Gaussian cylinder of length "
 c)  Given your (superficially contradictory) results from parts a and b, what is the divergence of this E field?  Express it as a single mathemtical equation valid over all space in cylindrical coordinates
 
 
-#### 6. A rod with a hole drilled in it
+#### 7. A rod with a hole drilled in it
 
 Gauss' Law can be useful in situations where you want to determine the electric field in conceptually different physical spaces. In this problem, you will explore this using the example of a uniformly charged rod with a hole drilled through it.
 
-Consider a rod of length $L$ and radius $b$ that has a hole drilled down the center of it (along it's length-wise axis) with a radius of $a$. The rod is very long compared to it's radius, so that Gauss' Law can be used to find the approximate electric field near the middle of the rod (far from the ends). The rod has a uniform charge distribution $\rho$. You will determine the electric field "everywhere" - meaning everywhere near the middle of the rod.
+Consider a rod of length $L$ and radius $b$ that has a hole drilled down the center of it (along it's length-wise axis) with a radius of $a$. The rod is very long compared to it's radius, so that Gauss' Law can be used to find the approximate electric field near the middle of the rod (far from the ends). The rod has a uniform charge distribution $\rho$. 
 
 1. Find the electric field inside the hole ($r<a$).
 2. Find the electric field outside the rod ($r>b$).
@@ -79,10 +70,12 @@ Consider a rod of length $L$ and radius $b$ that has a hole drilled down the cen
 4. Why did you need to solve Gauss' Law 3 times in this case to find the electric field "everywhere"?
 5. Compare the value of the electric field right at the material boundaries ($r=a$ and $r=b$), do the values match? As we will find this matching has important implications for bound charge on material surfaces.
 
+#### 8. The E field in hydrogen atoms
+a. Consider a hydrogen atom, consisting of an (approximately) point-like proton at its center and an electron around the proton. Quantum mechanics tells us that the electron is effectively "smeared out," so the electron's resulting contribution to the charge density is $\rho_e\left(r\right)=\rho_0 exp⁡(-2r/a_0 )$ where $a_0$ is the Bohr radius. **Find and expression for the electric field in this atom as a function of distance $r$ from its center.** Your final answer should depend only on $r$, $a_0$, and other fundamental constants, so you'll need to somehow figure out what $\rho_0$ equals. Also, don’t forget there is also that point-like proton in the middle of this atom!
+b. Plot your result in a Python notebook (which you should submit). Your result will have a bunch of nasty constants with cumbersome units associated with them, which do not make for an easy plot to set up in Python. There's no reason to worry about them either; the purpose of making a plot is to see how the function behaves, not study the size of various SI units. You should therefore make a plot in terms of a *dimensionless* variable. In this case, your x-axis variable should be $r/a_0$, so you will need to rearrange your function such that you only have factors of $r/a_0$, not factors of $r$ alone. Continue rearranging your equation so that *both* sides of the equation are dimensionless. (Hint: once you've done this succesffully, you'll want to label your vertical axis with something like "$E$ (in units of $4\pi\epsilon_0 a_0^2/e$" and your horizontal axis with $r/a_0$.)
+c. Explain clearly in words how all of  the features of your plot makes physical sense, including the behavior near the center of the atom, far from the center, and the behavior in between (simply saying something like "it decreases" is **not** sufficient).
+c. Having done the above, briefly discuss the advantages and disadvantages of using Gauss’ Law to find the electric field instead of using Coulomb’s Law (Griffiths Equation 2.8)?  What role does symmetry play?  
 
 
 
 
-
-
--->
