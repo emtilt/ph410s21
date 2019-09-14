@@ -5,7 +5,6 @@ title: "Homework 3 - Due Friday, September 20 at 4:30pm"
 permalink: /homework/hw3/
 author_profile: true
 ---
-# Formatiing of this document borked at the moment. Fixing now.... will be working right soon.
 [Link to Slack team -- a great place to ask questions](https://ph410f19.slack.com)
 
 Homework 3 emphasizes alternative methods to direct integration (Coulomb's Law) for solving the electric field problem including the use of Gauss' Law. In addition, it introduces the concept of the Dirac delta function as a tool for describing distributions of charge. This homework makes use of what you learned in Secs. 1.5 and 2.2, but what you know from 2.1 (i.e., superposition of ($\mathbf{E}$) will also be important).
@@ -81,6 +80,7 @@ Consider a rod of length $L$ and radius $b$ that has a hole drilled down the cen
 
 ### 9. A liquid crystal
 Smectic-C liquid crystals are made of long rodlike molecules with a positive head and a negative tail which pack together to form a long, thin sheet as shown.  The volume charge density is obviously complicated, but can be quite successfully modeled with the rather simple form  $\rho(x,y,z)=\rho_0 \sinh\left(z/z_0\right)$, i.e. uniform in $x$ and $y$, but varying in $z$, with $z = 0$ defined to be the middle of the sheet. (That's the "hyperbolic sine" function, by the way, in case the notation is unfamiliar.) Find the electric field everywhere in space, in terms of the constants $\rho_0$, $z_0$ and the sheet thickness $T$. Sketch it as a function of $z$. Where is it biggest?
+
 ![smecticc](../../images/hw3-smecticc.png "smecticc")
 
 
