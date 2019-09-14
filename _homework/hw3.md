@@ -5,7 +5,7 @@ title: "Homework 3 - Due Friday, September 20 at 4:30pm"
 permalink: /homework/hw3/
 author_profile: true
 ---
-
+# Formatiing of this document borked at the moment. Fixing now.... will be working right soon.
 [Link to Slack team -- a great place to ask questions](https://ph410f19.slack.com)
 
 Homework 3 emphasizes alternative methods to direct integration (Coulomb's Law) for solving the electric field problem including the use of Gauss' Law. In addition, it introduces the concept of the Dirac delta function as a tool for describing distributions of charge. This homework makes use of what you learned in Secs. 1.5 and 2.2, but what you know from 2.1 (i.e., superposition of ($\mathbf{E}$) will also be important).
