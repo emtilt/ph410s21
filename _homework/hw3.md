@@ -38,18 +38,18 @@ For parts 1 and 2, consider a sphere of radius $R$, centered one the origin, wit
 ![two spheres](../../images/hw3-gre_problem.png "two spheres")
 
 
-### 5. Describing charge distributions with delta functions
+### 4. Describing charge distributions with delta functions
 
 The [Dirac delta function](https://en.wikipedia.org/wiki/Dirac_delta_function) is an important theoretical tool for describing distributions of a variety of physical quantities (e.g., mass, charge) where a point object (or system of point objects) is the model we intend to use. In addition, it can be used to describe distributions where these quantities exist in highly constrained spaces (e.g., on a plane or spherical shell). In this class, we will use the Dirac delta function to describe how a charges are distributed. In this problem, you will get familiar with the Dirac delta function for a set point charges on a line.
 
 The linear charge density for a series of charges on the $x$-axis is given by:
 
-$$\lambda(x) = \sum_{n=0}^{10} q_0 n^2\delta\left(x-\dfrac{n}{10}\right)$$
+$$\lambda(x) = \sum_{n=0}^{10} q_0 n^2\delta\left(x-\dfrac{n}{10~\rm m^{-1}}\right)$$
 
 1. In words, describe the units of each part of this equation. (Don't forget the delta function!)
 2. What is the total charge on $x$-axis?
 
-### 6. Gauss's Law and Divergence
+### 5. Gauss's Law and Divergence
 Gauss’ law and Divergence 
 The electric field outside an infinite line that runs along the z-axis is  $\vec{E}=\frac{2\lambda}{4\pi\epsilon_0}\frac{\hat{s}}{s}$
 in cylindrical coordinates. (This is derived in Griffiths Example 2.1.) 
@@ -59,7 +59,7 @@ in cylindrical coordinates. (This is derived in Griffiths Example 2.1.)
 3.  Given your (superficially contradictory) results from parts 1 and 2, what is the divergence of this E field?  Express it as a single mathemtical equation valid over all space in cylindrical coordinates
 
 
-### 7. A rod with a hole drilled in it
+### 6. A rod with a hole drilled in it
 
 Gauss' Law can be useful in situations where you want to determine the electric field in conceptually different physical spaces. In this problem, you will explore this using the example of a uniformly charged rod with a hole drilled through it.
 
@@ -71,14 +71,14 @@ Consider a rod of length $L$ and radius $b$ that has a hole drilled down the cen
 4. Why did you need to solve Gauss' Law 3 times in this case to find the electric field "everywhere"?
 5. Compare the value of the electric field right at the material boundaries ($r=a$ and $r=b$), where two of your three solutions meet. Do the values match? As we will find, this matching has important implications for bound charge on material surfaces.
 
-### 8. The E field in hydrogen atoms
+### 7. The E field in hydrogen atoms
 
 1. Consider a hydrogen atom, consisting of an (approximately) point-like proton at its center and an electron around the proton. Quantum mechanics tells us that the electron is effectively "smeared out," so the electron's resulting contribution to the charge density is $\rho_e\left( r \right)=\rho_0 \exp \left( -2r/a_0 \right)$ where $a_0$ is the Bohr radius. **Find an expression for the electric field in this atom as a function of distance $r$ from its center.** Your final answer should depend only on $r$, $a_0$, and other fundamental constants, so you'll need to somehow figure out what $\rho_0$ equals. Also, don’t forget there is also that point-like proton in the middle of this atom!
 2. Plot your result in a Python notebook (which you should submit). Your result will have a bunch of nasty constants with cumbersome units associated with them, which do not make for an easy plot to set up in Python. There's no reason to worry about them either; the purpose of making a plot is to see how the function behaves, not study the size of various SI units. You should therefore make a plot in terms of a *dimensionless* variable. In this case, your x-axis variable should be $r/a_0$, so you will need to rearrange your function such that you only have factors of $r/a_0$, not factors of $r$ alone. Continue rearranging your equation so that *both* sides of the equation are dimensionless. (Hint: once you've done this succesffully, you'll want to label your vertical axis with something like "$E$ (in units of $4\pi\epsilon_0 a_0^2/e$)" and your horizontal axis with $r/a_0$.)
 3. Explain clearly in words how all of  the features of your plot makes physical sense, including the behavior near the center of the atom, far from the center, and the behavior in between (simply saying something like "it decreases" is **not** sufficient).
 
 
-### 9. A liquid crystal
+### 8. A liquid crystal
 Smectic-C liquid crystals are made of long rodlike molecules with a positive head and a negative tail which pack together to form a long, thin sheet as shown.  The volume charge density is obviously complicated, but can be quite successfully modeled with the rather simple form  $\rho(x,y,z)=\rho_0 \sinh\left(z/z_0\right)$, i.e. uniform in $x$ and $y$, but varying in $z$, with $z = 0$ defined to be the middle of the sheet. (That's the [hyperbolic sine](https://en.wikipedia.org/wiki/Hyperbolic_function#Exponential_definitions) function, by the way, in case the notation is unfamiliar.) Find the electric field everywhere in space, in terms of the constants $\rho_0$, $z_0$ and the sheet thickness $T$. Sketch it as a function of $z$. Where is it biggest?
 
 ![smeticc](../../images/hw3-smeticc.png "smecticc")
