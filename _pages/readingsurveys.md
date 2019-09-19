@@ -62,7 +62,6 @@ Look at Griffiths Problem 2.16, part iii. It asks you to find the electric field
  ### Reading Survey 6
 
 You have a thin spherical shell of uniform positive charge +Q centered at the origin with no other charge anywhere (i.e. all the charge is concentrated in a hollow shell at r=R). If we decide to define V(∞)=0, what is the sign of V(0)?
-<!--
 **positive**; negative; zero; it depends
 
 For the same physical scenario described in the previous question, could we instead choose to define V(R)=0?
@@ -72,4 +71,12 @@ For the same physical scenario described in the previous question, could we inst
 For the same physical scenario described in the previous questions, what is the sign of  (V(r=R) – V(r=0))?
 
 Positive;**Negative**;Zero;It depends
+
+### Reading Survey 7
+
+Three identical charges +q sit on an equilateral triangle with side of length a. The triangle of charges is isolated from the rest of the universe. If you released one of the three charges while keeping the other two fixed, what would be the final kinetic energy of the released charge? (The variable k is the Coulomb constant.)
+<!--
+
+kq²/a;2kq²/(3a);**2kq²/a**;3kq²/a;
+
 -->
