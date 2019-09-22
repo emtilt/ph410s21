@@ -27,36 +27,29 @@ When solving some E&M problems, you will need to develop your solution using an 
 3. Check your answer two ways: by explicitly computing the gradient of V and by checking that it gives the correct result at a particular point for which you already know the potential. 
 
 
-### 3. Connecting potential, electric field, and charge
+### 3. Finding voltage from a charge distribution
+1. Find the electrostatic potential $V(0,0,z)$ everywhere along the symmetry-axis of a charged ring (radius $a$, in the $x-y$ plane centered on the $z$-axis, with uniform linear charge density $\lambda$ around the ring).  Use the method of direct integration (Griffiths Equation 2.30, on p. 85) to do this, and set your reference point to be $V(\infty)=0$.   
+2. Use this V(0,0,z) to find the z-component of the E field anywhere along the $z$-axis. We have already derived this result directly from Coulomb's law, so you should be able to confirm your answer.
+3. Sketch $V(z)$ and $E_z(z)$ for points on the $z$-axis (both $z<0$ and $z>0$, being careful of the sign). Briefly comment on your results for $V$ and $E_z$ right at the origin – do they make physical sense to you, and are they consistent with each other?   
+4. How does $V(z)$ behave as $z\rightarrow\infty$ ? Don't just say it goes to 0. **How** does it go to zero? Does your answer make physical sense to you? Briefly explain. 
 
-It is common in theoretical physics to describe the interactions of a system in terms of a scalar field (i.e., its potential). It is a compact description and you can (if you are careful) derive other important aspects of the system (e.g., how its sources are configured) from that scalar field if there is a rule for doing so. In this problem, you will do this work for a negative point charge. The understanding you draw from this problem will be used in future problems where the electric field and charge density might not be obvious.
-
-Consider the potential of a point charge at the origin:
-
-$$V(r) = -\dfrac{1}{4\pi\varepsilon_0}\dfrac{q}{r}$$
-
-1. Determine the electric field of this charge by calculating the gradient ($\mathbf{E} = -\nabla V$). Show your work.
-2. Calculate the charge density from the electric field by using Gauss' Law directly ($\nabla \cdot \mathbf{E} = \frac{\rho}{\varepsilon_0}$). Do this 2 ways: (1) Use the definition of the divergence from the front fly leaf of Griffiths in spherical coordinates (what do you get?) and (2) by performing a coordinate-free calculation (is your answer the same?).
-3. How do your two answers from part 2 compare? Which one is correct? How do you know? What does this tell you about computing charge densities from electric potentials?
-
-For part 2, the following vector identities might be helpful:
-
-$$\nabla \cdot \left(f(\mathbf{r}) \mathbf{A}\right) = \nabla f(\mathbf{r}) \cdot \mathbf{A} + f(\mathbf{r}) \nabla \cdot \mathbf{A}$$
-
-$$\nabla \cdot \dfrac{\hat{r}}{r^2} = 4\pi\delta^3(\mathbf{r})$$
-
-$$\nabla \cdot \dfrac{\hat{r}}{r} = \dfrac{1}{r^2}$$
+### 4. Calculating voltage from $\vec{E}$
+1. Show, via Gauss's Law, that the electric field a distance $s$ from an infinitely long straight wire that carries a uniform line charge $\lambda$ is $\mathbf{E}=2\lambda\vec{s}/4\pi\epsilon_0s^2$.
+2. Find the potential $V(s)$ for points a distance $s$ away from the $z$-axis. (Hint: You will have to be careful to compute a difference of potentials between two points, perhaps introducing some arbitrary $s_0$ to your solution, to avoid integrals which are infinite.)
+3. Check your answer by explicitly taking the gradient of $V$ to make sure it gives you $E$. 
+4. Briefly discuss the question of "reference point": where did you set $V=0$? Can you use $s=\infty$, or $s=0$, as the reference point, $V(s)=0$, here? Why is there trouble with setting $V(\infty)=0$? (our usual choice), or $V(0)=0$ (often our second choice)?
+5. How would your answer change if I told you that I wanted you to set $V=0$ at a distance $s=3 \rm m$ away from the $z$-axis?  
 
 
+### 5. Estimation
+I've made y'all due a bunch of programming because it is a crucial skill for a physical scientist. This week, we're taking a break from programming, but this problem is about another important skill. The ability to obtain rough estimations that are correct to about an order of magnitude is one of the most important skills a physicist can have. Ideally, a physicist should be able to come up with a correct order-of-magnitude estimate to any question at all with no calculator or uncommon numerical facts. Your goal in this problem is the make a *very rough* estimate of the voltage difference a across a distance the size of your heart when you hear thunder from a storm.
 
-### 5. Finding voltage from a charge distribution
+**Here's the actual problem:** A typical Colorado lightning bolt might transfer a few Coulombs of charge in a stroke. Although lightning is clearly not remotely "electrostatic", let's pretend it is - consider a brief period during the stroke, and assume all the charges are fairly uniformly distributed in a long thin line. If you see the lightning stroke, and then a few seconds later hear the thunder, make a very rough estimate of the resulting voltage difference across a distance the size of your heart. 
 
-We have found a number of ways of relating $\rho$, $\mathbf{E}$, and $V$. In this problem, you will use $\rho$ to find $V$ through the method of direct integration (i.e., using the integral expression for $V$).
+**Hints:** What simplified model should you use? I'm imagining a lightning strike as looking rather like a long uniform line of charge. You've done the "physics" of this in the previous problem.  But you still need an estimate of $\lambda$. How long might that lightning bolt be? For estimation problems, don't worry about any small details; you just want to be within about an order of magnitude of the correct answer. An error of a factor of 3 is fine, but an error of a factor of 3000 makes your answer useless. Make crude, but reasonable, approximations! One number that will be helpful to consider is the speed of sound; many people have this memorized as about $v_{sound}\sim 300 m/s$ (though you *could* make a rough estimate even of this number based on everyday stuff). It's also helpful in life to have a very small number of very common Taylor series memorized, like $\ln (1+x)\sim x$ for small $x$, as well as the rough order of magnitude of constants like Coulomb's $k\sim10^{10}$ in SI units (although, you could estimate even this!). You shouldn't really need anything else for this problem, though your thinking may range across many topics. My solution will mention airplanes and skyscrapers when I deduce $\lambda$.
 
-1. Find a formula for the electrostatic potential $V(z)$ everywhere along the symmetry-axis of a charged disk (radius $a$, centered on the $z$-axis, with uniform surface charge density $+\sigma$ around the ring).  Please use the method of direct integration to do this, and set your reference point to be $V(\infty)=0$.
-2. Sketch $V(z)$, how does $V(z)$ behave as $z \rightarrow \infty$? (Don't just say it goes to zero. How does it go to zero?) Does your answer make physical sense to you? Explain briefly.
-3. Use your result from part 1 for $V(0,0,z)$ to find $z$-component of the electric field anywhere along the $z$-axis?
-4. What is the voltage at the origin? What is the electric field at the origin? Do these results from $V$ and $\mathbf{E}$ at the origin make physical sense to you, and are they consistent with each other? Briefly explain.
+**Encouragement:** I, of course, can't check *how* you went about solving this problem (e.g., I can't check if you used a calculator or looked up properties of storms). But I encourage you to engage in the *spirit* of this problem; look up nothing, use no computer or calculator, and approximate aggressively but cleverly. (If you go to just the right sort of parties, estimation is a great party trick. It's relatively easy to immediately deduce the correct diameter of the earth, nmumber of piano tuners in LA, and speed of the continental drift off the top of your head.)
+
 
 ### 6. Energy of a point charge distribution
 
@@ -68,38 +61,27 @@ Imagine a small square (side $a$) with four point charges $+q$, one on each corn
 2. Calculate how much work it takes to "neutralize" these charges by bringing in one more point charge ($-4q$) from far away and placing it right at the center of this square.
 
 
-### 1. Screened Coulomb Potential
+### 7. Screened Coulomb Potential
 
-In a [previous problem](./homework3.html#connecting-potential-electric-field-and-charge), you worked out the electric field and charge distribution for a point charge using the electric potential.  In this problem, you will gain some additional practice doing this for the [screened Coulomb potential](https://en.wikipedia.org/wiki/Electric-field_screening).
+We've seen the electric field and charge distribution for a point charge using the electric potential.  In this problem, you will gain some additional practice doing this for the [screened Coulomb potential](https://en.wikipedia.org/wiki/Electric-field_screening).
 
 Consider the "screened Coulomb potential" of a point charge $q$ that arises, for example, in plasma physics:
 
 $$V(r) = \dfrac{q}{4\pi\varepsilon_0} \dfrac{e^{-r/\lambda}}{r}$$
 
-where $\lambda$ is a constant (called [the screening length](https://en.wikipedia.org/wiki/Debye_length)).
+where $\lambda$ is a constant (called [the screening length or Debye length](https://en.wikipedia.org/wiki/Debye_length)).
 
 1. Determine the electric field $\mathbf{E}(\mathbf{r})$ associated with this potential.
-2. Find the charge distribution $\rho(\mathbf{r})$ that produces this potential. (Think carefully about what happens at the origin!)
-3. Sketch this function $\rho(\mathbf{r})$ in a manner that clearly describes its characteristics (i.e., what's the best way of representing this three-dimensional charge distribution? Use it, and explain what you are plotting.)
+2. Find the charge distribution $\rho(\mathbf{r})$ that produces this potential. (Hint: Think carefully about what happens at the origin. Will your answer therefore necessarily contain a certain special distribution function that we've talked about at length?)
+3. Sketch this function $\rho(\mathbf{r})$ in a manner that clearly describes its characteristics. Label how the function is bhaving in different region (e.g., at $r=0$, near $r=0$, in the far-field).
 4. Show, by explicit calculation over $\rho(\mathbf{r})$ that the net charge represented by this distribution is zero. (*If you don't get zero, think again about what happens at $r = 0$.*).
 5. Verify this result using the integral form of Gauss' Law (i.e., integrate your electric flux over a *very large* spherical surface.)
 
-### 2. Surface charge and boundary conditions
+### 8. Surface charge and boundary conditions
 
 It might seem to you that the results that the electric field is discontinuous by an amount $\sigma/\varepsilon_0$ isn't really a big deal. There's probably a question about how useful this result is. We will come back to this particularly when we get to fields in matter, and suffice it to say, it will help us a lot there. To get a flavor of what is coming, this problem will discuss this discontinuity in a familiar context.
 
-1. Consider a cylindrical metal rod (radius $r$, length $L$) with a constant charge density $\sigma$ distributed across its outer surface (as we will learn that is the only place the charge can be). Using Gauss' Law (far from the ends of the rod; assume it's long and skinny), determine the electric field inside and outside the rod.
+1. Consider a cylindrical metal rod (radius $r$, length $L$) with a constant charge density $\sigma$ distributed across its outer surface (as a conductor, that is the only place the charge can be). Using Gauss' Law (far from the ends of the rod; assume it's long and skinny), determine the electric field inside and outside the rod.
 2. Take the difference between the electric fields you determined in Part 1 (technically, the perpendicular component) across the outer surface of the metal rod to show you recover the the result that the all the charge lives on the surface.
 3. Consider a similarly cylindrical plastic rod with a constant charge density $\rho$ distributed over its entire volume. Again, using Gauss' Law (far from the ends of the rod; assume it's long and skinny), determine the electric field inside and outside the rod.
 4. Again, take the difference between the electric fields you determined in Part 3 across the outer surface of the plastic rod. What do you find? Does your result make physical sense?
-
-### 3. An energy conundrum
-
-There's a bit of a conundrum that occurs when we begin to compare our two different descriptions of energy associated with electrostatic systems. In this problem, you will compare these descriptions and develop an argument that resolves the conundrum.
-
-Consider two point charges ($q_1$ and $q_2$) that are brought to be a distance $r$ apart. You can locate them anywhere to develop this argument, but for the sake clarity, let's put them on the $x$-axis straddling the origin (i.e., one at $r/2$ and the other at $-r/2$).
-
-1. First, compute the work done to bring the charge configuration together. Recall that it costs nothing (i.e., there's no work done) to bring the first charge to it's location. Does this expression look familiar?
-2. Now, construct the integral expression for the total energy associated with the charge configuration using the integral formalism: $\frac{\varepsilon_0}{2} \int E^2 d\tau$. Remember that the electric field in this integral expression is due to the field from both charges: $\mathbf{E} = \mathbf{E}_1 + \mathbf{E}_2$. *Do not try to integrate it.*
-3. Your integral expression can be expanded out to three terms: in principle, you can integrate one of the terms, but not the other two. Which two can't you integrate and why not?
-4. What is the physical significance of the two un-integrable terms? What must the integrable term be?
