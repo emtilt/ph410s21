@@ -21,8 +21,8 @@ When solving some E&M problems, you will need to develop your solution using an 
 
 ### 2. Allowed Fields
 1. If $c$ is a constant, which one of the following two static E-fields is physically impossible. Why?
-  -  $\mathbf{E}=c\left(x\hat{x}+z\hat{z}+y\hat{z} \right)$
-  -  $\mathbf{E}=c\left(x\hat{x}+2z\hat{z}+y\hat{z} \right)$
+  -  $\mathbf{E}=c\left(x\hat{x}+z\hat{y}+y\hat{z} \right)$
+  -  $\mathbf{E}=c\left(x\hat{x}+2z\hat{y}+y\hat{z} \right)$
 2. For the field that **is** possible, find the potential $V(\vec{r})$, using the origin as your reference point (i.e., setting $V(0)=0$). (Hint: You must select a specific path to integrate along. It doesn't matter which path you choose, since the answer is path-independent, but you can't compute a line integral without having a particular path in mind, so be explicit about that in your solution.)
 3. Check your answer two ways: by explicitly computing the gradient of V and by checking that it gives the correct result at a particular point for which you already know the potential. 
 
