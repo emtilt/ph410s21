@@ -15,7 +15,7 @@ Homework 6 emphasizes the conductor problem, which requires new methods to appro
 
 Estimate the maximum charge you can put onto a child’s balloon.  Given that, what is the associated maximum voltage of the balloon (with respect to infinity)?  Like last week, estimation problems give you a lot of freedom. How big is a balloon? Why should there be a maximum at all? That's key: if the balloon **sparks** (i.e., if a current flows away from it), it can bear no more charge.  Though you *could* make this estimate purely from basic physics, I'll suggest that, to make this easier, you should google one fact about air. Your answer can be *very* rough, I only want an order of magnitude -- but it should be right to an order of magnitude.  
 
-### 3. A Spherical Capacitor?
+### 2. A Spherical Capacitor?
 Griffiths (at the end of Chapter 2, Example 2.12) finds the capacitance of two concentric spherical metal shells.
 
 1. By letting the radius of the outer shell go to infinity, you get a finite result, called "the capacitance of the sphere." It tells you the charge needed on a sphere to get the surface up to voltage $V$ with respect to infinity. Use Griffiths's result to obtain an expression for the "capacitance of a sphere." 
@@ -26,7 +26,7 @@ Griffiths (at the end of Chapter 2, Example 2.12) finds the capacitance of two c
 6. Planet earth has a static E field at sea level of $\sim 100~\rm V/m$. Use this to estimate the net charge on the earth, and then the total stored energy our "planetary capacitor" holds. If we could tap this, could it solve all our energy problems (you can google something here, if you want)? (An aside: It turns out that the role of lightning in this story may surprise you, lightning is not *discharging* the giant earth capacitor...[it's actually the *charging* mechanism.](https://en.wikipedia.org/wiki/Atmospheric_electricity)) 
 
 
-### 4. An Energy Conundrum
+### 3. An Energy Conundrum
 
 There's a bit of a conundrum that occurs when we begin to compare our two different descriptions of energy associated with electrostatic systems. In this problem, you will compare these descriptions and develop an argument that resolves the conundrum.
 
