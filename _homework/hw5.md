@@ -41,7 +41,7 @@ Consider two point charges ($q_1$ and $q_2$) that are brought to be a distance $
 
 A **metal** sphere of radius $R$, carrying a charge $+q$, is surrounded by a thick concentric **metal** shell (inner radius $a$, outer radius $b$). The shell carries no net charge. Where requested, please explain your reasoning.
 
-![Concentric Spheres](./images/hw5/concentric_spheres.png "Concentric Spheres")
+![Concentric Spheres](../../images/hw5-concentric_spheres.png "Concentric Spheres")
 
 1. Sketch the charge distribution everywhere. If the charge is zero anywhere, indicate that explicitly.
 2. From part 1, you probably noticed the charge distributes in some way on the metals. Determine the surface charge density $\sigma$ at $R$, at $a$, and at $b$.
