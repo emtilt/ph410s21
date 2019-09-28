@@ -83,9 +83,10 @@ For this homework problem, you will prove the "second uniqueness theorem" yourse
 **Do it like this:**
 
 1. Use the divergence theorem and Product Rule 5 to prove Green's Identity: 
+   
+   $$\int_V \left(T \nabla^2 U + \nabla T \cdot \nabla U\right) d\tau = \oint_S \left(T \nabla U\right)\cdot d\mathbf{A}.$$ 
 
-$$\int_V \left(T \nabla^2 U + \nabla T \cdot \nabla U\right) d\tau = \oint_S \left(T \nabla U\right)\cdot d\mathbf{A}.$$ 
-(Hint: Let $\mathbf{v}=T\nabla U$ in the divergence theorem. This is Griffiths Problem 1.61 part c.)
+   (Hint: Let $\mathbf{v}=T\nabla U$ in the divergence theorem. This is Griffiths Problem 1.61 part c.)
 
 2.  Now prove the second uniqueness theorem. Green's Identity is true for **any** choice of $T$ and $U$, so let the functions $T$ and $U$ in that identity both be the **same** function. Specifically, you should set them both equal to $V_3=V_1-V_2$ where $V_1$ and $V_2$ represent *different* solutions to the same boundary value problem ($\nabla^2 V = 0$ with boundary conditions). Then, using Green's Identity (along with some arguments about what happens at the boundaries, rather like Griffith's uses in his proof) should let you  show that $E_3$, which is defined to be the negative gradient of $V_3$ (as usual), must vanish everywhere throughout the volume.  That will complete the proof
 
@@ -96,6 +97,6 @@ Work to understand the game, here: the goal, the strategy, and the result. We ar
 
 1. Obtain a formula for the voltage $V(x,y,z)$ arising from a single point charge $+q$ located symmetrically a distance a from the inside corner formed by bending an infinite, grounded metal sheet through a right angle. (Hint: You'll more than one "image" charge.) 
 
-2. The hardest thing about coming up with these "image" solutions is having a good intuiting for what fields and potentials look like in different scenarios. Use the PhET sim "Charges and Fields" at http://phet.colorado.edu/en/simulation/charges-and-fields to visualize your resulting E-field and some relevant equipotential contours (they can be added with a tool on the right side of the simulation). Clearly illustrate how your images solve this problem. Take a screen shot and include it, with a few comments, to explain what you learned in this problem. 
+2. The hardest thing about coming up with these "image" solutions is having a good intuiting for what fields and potentials look like in different scenarios. Use the [PhET simulation *Charges and Fields*](http://phet.colorado.edu/en/simulation/charges-and-fields) to visualize your resulting E-field and some relevant equipotential contours (they can be added with a tool on the right side of the simulation). Clearly illustrate how your images solve this problem. Take a screen shot and include it, with a few comments, to explain what you learned in this problem. 
 
 
