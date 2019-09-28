@@ -13,7 +13,7 @@ Homework 6 emphasizes the conductor problem, which requires new methods to appro
 
 ### 1. Estimation
 
-Estimate the maximum charge you can put onto a child’s balloon.  Given that, what is the associated maximum voltage of the balloon (with respect to infinity)?  Like last week, estimation problems give you a lot of freedom. How big is a balloon? Why should there be a maximum at all? That's key: if the balloon **sparks** (i.e., if a current flows away from it), it can bear no more charge.  Though you *could* make this estimate purely from basic physics, I'll suggest that, to make this easier, you should google one fact about air. Your answer can be *very* rough, I only want an order of magnitude -- but it should be right to an order of magnitude.  
+Estimate the maximum charge you can put onto a child’s balloon.  Given that, what is the associated maximum voltage of the balloon (with respect to infinity)?  Like last week, estimation problems give you a lot of freedom. How big is a balloon? Why should there be a maximum at all? That's key: if the balloon **sparks** (i.e., if a current flows away from it), it can bear no more charge.  Though you *could* make this estimate purely from basic physics, I'll suggest that, to make this easier, you should [google one fact about air](https://www.google.com/search?q=breakdown+electric+field+air). Your answer can be *very* rough, I only want an order of magnitude -- but it should be right to an order of magnitude.  
 
 ### 2. A Spherical Capacitor?
 Griffiths (at the end of Chapter 2, Example 2.12) finds the capacitance of two concentric spherical metal shells.
