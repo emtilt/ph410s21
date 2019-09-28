@@ -15,7 +15,7 @@ Homework 6 emphasizes the conductor problem, which requires new methods to appro
 
 Estimate the maximum charge you can put onto a child’s balloon.  Given that, what is the associated maximum voltage of the balloon (with respect to infinity)?  Like last week, estimation problems give you a lot of freedom. How big is a balloon? Why should there be a maximum at all? That's key: if the balloon **sparks** (i.e., if a current flows away from it), it can bear no more charge.  Though you *could* make this estimate purely from basic physics, I'll suggest that, to make this easier, you should google one fact about air. Your answer can be *very* rough, I only want an order of magnitude -- but it should be right to an order of magnitude.  
 
-### 3. SPHERICAL CAPACITOR
+### 3. A Spherical Capacitor?
 Griffiths (at the end of Chapter 2, Example 2.12) finds the capacitance of two concentric spherical metal shells.
 
 1. By letting the radius of the outer shell go to infinity, you get a finite result, called "the capacitance of the sphere." It tells you the charge needed on a sphere to get the surface up to voltage $V$ with respect to infinity. Use Griffiths's result to obtain an expression for the "capacitance of a sphere." 
@@ -25,7 +25,7 @@ Griffiths (at the end of Chapter 2, Example 2.12) finds the capacitance of two c
 5. Planet earth has a static E field at sea level of $\sim 100~\rm V/m$. Use this to estimate the net charge on the earth, and then the total stored energy our "planetary capacitor" holds. If we could tap this, could it solve all our energy problems? (You could use an estimate to answer this last question, but I don't mind if you google something about energy use.) (An aside: It turns out that the role of lightning in this story may surprise you, lightning is not *discharging* the giant earth capacitor...[it's actually the *charging* mechanism.](https://en.wikipedia.org/wiki/Atmospheric_electricity)) 
 
 
-### 4. An energy conundrum
+### 4. An Energy Conundrum
 
 There's a bit of a conundrum that occurs when we begin to compare our two different descriptions of energy associated with electrostatic systems. In this problem, you will compare these descriptions and develop an argument that resolves the conundrum.
 
@@ -49,7 +49,7 @@ A **metal** sphere of radius $R$, carrying a charge $+q$, is surrounded by a thi
 4. Find the potential everywhere, use $r \rightarrow \infty$ as your reference point for $V=0$.
 5. Now the outer surface is touched by a grounding wire, which lowers its potential to zero. How do your answers change to parts 2 and 4? Explain your reasoning.
 
-### 5. Coax capacitors
+### 5. Coaxial Capacitors
 
 Consider a coaxial cable with an inner conducting cylinder has radius $a$ and the outer conducting cylindrical shell has inner radius $b$. It is physically easy to set up any fixed potential difference $\Delta V$ between the inner and outer conductors. In practice, the cable is always electrically neutral.
 
@@ -62,7 +62,7 @@ Consider a coaxial cable with an inner conducting cylinder has radius $a$ and th
 5. This model is also excellent for "axons", which are long cylindrical cells (basically coax cables) carrying nerve impulses in your body and brain.  Estimate the capacitance (in SI metric units, Farads) of your sciatic nerve. *Suggested assumptions: The sciatic nerve is the longest in your body, it has a diameter of roughly 1 micron, and a length of perhaps 1 m. Note that axons generally have a value of $b$ which is very close to $a$ (i.e. the gap is extremely tiny, $b-a$ is about 1 nanometer). An approximation of a logarithm of the form $ln(1+\epsilon)$ where $\epsilon$ is some very small number should be helpful.*
 
 
-### 6. Superposition in conductors ("shielding")
+### 6. Superposition in Conductors ("shielding")
 
 Suppose we carve out two spherical cavities from a metal sphere of radius $R$ (as shown below). The first cavity (radius, $a$) has a charge $+q_a$ placed at the center of the cavity. Similarly, the second cavity (radius, $b$) has a charge $+q_b$ placed at the center of that cavity.
 
@@ -92,7 +92,7 @@ For this homework problem, you will prove the "second uniqueness theorem" yourse
 
 Work to understand the game, here: the goal, the strategy, and the result. We are checking if there are two different potential functions, $V_1$ and $V_2$, each of which satisfies Laplace's equation throughout the region we're considering. You construct (define) $V_3$ to be the difference of these, and you prove that $V_3$ (or in this case, $\mathbf{E}_3$) must vanish everywhere in the region. This means there really is only one unique E-field throughout the region after all.  This is a rather *formal manipulation* type of problem, giving you a chance to practice with the divergence theorem and think about what boundary conditions really mean.
 
-### 8. METHOD OF IMAGES – CORNER 
+### 8. The Method of Images -- The corner problem 
 ![images Charges](../../images/hw5-images.png "image Charges")
 
 1. Obtain a formula for the voltage $V(x,y,z)$ arising from a single point charge $+q$ located symmetrically a distance a from the inside corner formed by bending an infinite, grounded metal sheet through a right angle. (Hint: You'll more than one "image" charge.) 
