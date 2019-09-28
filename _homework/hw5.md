@@ -83,7 +83,9 @@ For this homework problem, you will prove the "second uniqueness theorem" yourse
 **Do it like this:**
 
 1. Use the divergence theorem and Product Rule 5 to prove Green's Identity: 
+
 $$\int_V \left(T \nabla^2 U + \nabla T \cdot \nabla U\right) d\tau = \oint_S \left(T \nabla U\right)\cdot d\mathbf{A}.$$ 
+
 (Hint: Let $\mathbf{v}=T\nabla U$ in the divergence theorem. This is Griffiths Problem 1.61 part c.)
 
 2.  Now prove the second uniqueness theorem. Green's Identity is true for **any** choice of $T$ and $U$, so let the functions $T$ and $U$ in that identity both be the **same** function. Specifically, you should set them both equal to $V_3=V_1-V_2$ where $V_1$ and $V_2$ represent *different* solutions to the same boundary value problem ($\nabla^2 V = 0$ with boundary conditions). Then, using Green's Identity (along with some arguments about what happens at the boundaries, rather like Griffith's uses in his proof) should let you  show that $E_3$, which is defined to be the negative gradient of $V_3$ (as usual), must vanish everywhere throughout the volume.  That will complete the proof
