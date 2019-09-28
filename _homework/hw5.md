@@ -94,6 +94,9 @@ For this homework problem, you will prove the "second uniqueness theorem" yourse
 Work to understand the game, here: the goal, the strategy, and the result. We are checking if there are two different potential functions, $V_1$ and $V_2$, each of which satisfies Laplace's equation throughout the region we're considering. You construct (define) $V_3$ to be the difference of these, and you prove that $V_3$ (or in this case, $\mathbf{E}_3$) must vanish everywhere in the region. This means there really is only one unique E-field throughout the region after all.  This is a rather *formal manipulation* type of problem, giving you a chance to practice with the divergence theorem and think about what boundary conditions really mean.
 
 ### 8. The Method of Images -- The corner problem 
+
+In this problem, it may or may not help you to work on the two parts simultaneously or out of order. The second part is just a tool for visualizing the first part.
+
 ![images Charges](../../images/hw5-images.png "image Charges")
 
 1. Obtain a formula for the voltage $V(x,y,z)$ arising from a single point charge $+q$ located symmetrically a distance a from the inside corner formed by bending an infinite, grounded metal sheet through a right angle. (Hint: You'll more than one "image" charge.) 
