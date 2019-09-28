@@ -54,7 +54,7 @@ A **metal** sphere of radius $R$, carrying a charge $+q$, is surrounded by a thi
 Consider a coaxial cable with an inner conducting cylinder has radius $a$ and the outer conducting cylindrical shell has inner radius $b$. It is physically easy to set up any fixed potential difference $\Delta V$ between the inner and outer conductors. In practice, the cable is always electrically neutral.
 
 1. Assuming charge per length $+\lambda$ and $-\lambda$ on the inner and outer cylinders, derive a formula for the voltage difference $\Delta V$ between the cylinders.
-2. Assuming infinitely long cylinders, find the **energy stored per length (W/L)** inside this capacitor. *Notice we are asking for the energy per unit length, the answer is not infinity!*  Let's do it two ways so we can check:
+2. Assuming infinitely long cylinders, find the **energy stored per length (W/L)** inside this capacitor. Notice I am asking for the energy per unit length, the answer is *not* infinity.  Let's do it two ways so we can check:
 * Find the capacitance per length ($C/L$) of this system, and then use stored energy $W = \frac{1}{2} C (\Delta V)^2$.
 * Integrate the energy density stored in the E field.
 3. Based on your answers to part 2, where in space would you say this energy is physically stored?
