@@ -99,7 +99,7 @@ In this problem, it may or may not help you to work on the two parts simultaneou
 
 ![images Charges](../../images/hw5-images.png "image Charges")
 
-1. Obtain a formula for the voltage $V(x,y,z)$ arising from a single point charge $+q$ located symmetrically a distance a from the inside corner formed by bending an infinite, grounded metal sheet through a right angle. (Hint: You'll more than one "image" charge.) 
+1. Obtain a formula for the voltage $V(x,y,z)$ arising from a single point charge $+q$ located symmetrically a distance a from the inside corner formed by bending an infinite, grounded metal sheet through a right angle. (Hint: You'll need more than one "image" charge.) 
 
-2. The hardest thing about coming up with these "image" solutions is having a good intuition for what fields and potentials look like in different scenarios. Use the [PhET simulation *Charges and Fields*](http://phet.colorado.edu/en/simulation/charges-and-fields) to visualize your resulting E-field and some relevant equipotential contours (they can be added with a tool on the right side of the simulation). Clearly illustrate how your images solve this problem. Take a screen shot and include it, with a few comments, to explain what you learned in this problem. 
+2. The hardest thing about coming up with these "image" solutions is having a good intuition for what fields and potentials look like in different scenarios. Use the [PhET simulation *Charges and Fields*](http://phet.colorado.edu/en/simulation/charges-and-fields) to visualize your resulting E-field and some relevant equipotential contours (these can be added as green curves by using a tool on the right side of the simulation). Clearly illustrate how your images solve this problem. Take a screen shot and include it, with a few comments, to explain what you learned in this problem. 
 
