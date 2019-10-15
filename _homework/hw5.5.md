@@ -2,7 +2,7 @@
 layout: archive
 collection: homework
 title: "Homework 5.5 - Reevaluating the exam - Due Friday, October 25 at 4:30pm"
-permalink: /homework/hw5-5/
+permalink: /homework/hw5.5/
 author_profile: true
 ---
 [Link to Slack team -- a great place to ask questions](https://ph410f19.slack.com)
