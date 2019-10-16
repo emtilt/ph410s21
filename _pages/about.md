@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 # PH410 - Electricity and Magnetism - Fall 2019 - 3 credits 
 
 ## Contact Information
