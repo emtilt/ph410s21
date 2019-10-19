@@ -6,6 +6,7 @@ permalink: /homework/hw6/
 author_profile: true
 ---
 [Link to Slack team -- a great place to ask questions](https://ph410f19.slack.com)
+
 Homework 7 focuses on Laplace’s equations and solving it using infinite series solutions. You should become comfortable with setting boundary conditions for PDE problems like this and develop a sense of the process for solving these problems analytically. Additionaly, you will plot these solutions in 2D and develop the method of relaxation in 1D to investigate issues with the method.
 
 
@@ -42,7 +43,7 @@ You have a cubical box (sides all of length $a$) made of 6 metal plates that are
 
 A square rectangular pipe (sides of length $a$) runs parallel to the z-axis (from $-\infty$ to $\infty$)  The 4 sides are maintained with boundary conditions given in the figure. (Each of the 4 sides is insulated from the others at the corners).
 
-![Tube](../notes/images/tube_2.png "Tube")
+![Tube](../../images/hw6-tube_2.png "Tube")
 
 
 1. Find the potential $V(x,y,z)$ at all points in this pipe.
