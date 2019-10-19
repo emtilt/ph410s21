@@ -112,7 +112,7 @@ $$V(s,\phi) = a_0 + b_0 \ln s + \sum_{k=1}^\infty \left[s^k(a_k \cos k\phi + b_k
 
 You will not get credit for this problem unless your work clearly shows how this solution is developed. I can't imagine giving full credit for this solutions if your solution doesn't include some English words explaining your reasoning and logical flow at various steps. Ask your self: Could another student *fully* understand your logic just by looking at your solution? If not, then you have not completed this problem.
 
-## 7. Zen and the Art of the Multipole Expansion
+## 7. Conceptual Multipole Expansion
 
 Developing intuition about the dominant contribution to the field that you are looking at will serve you very well in the future. In this problem, you will look at a few charge distributions (blue - positive charge; orange - negative charge) and discuss what the dominant contribution (monopole, dipole, quadrapole) to the field would be far from the distribution (as $r \rightarrow \infty$).
 
