@@ -48,7 +48,7 @@ A square rectangular pipe (sides of length $a$) runs parallel to the z-axis (fro
 
 1. Find the potential $V(x,y,z)$ at all points in this pipe.
 2. Sketch the E-field lines and equipotential contours inside the pipe. 
-3. State in words what the boundary condition on the bottom wall means - what does it tell you? Is the left wall a conductor? (Bonus of one half-point: What physical situation would produce such a boundary condition? That is, how would an experimentalist arrange things so as to guarantee that $\partial V/\partial y=0$  on the 4th side?)    
+3. State in words what the boundary condition on the bottom wall means - what does it tell you? Is the bottom wall a conductor? (Bonus of one half-point: What physical situation would produce such a boundary condition? That is, how would an experimentalist arrange things so as to guarantee that $\partial V/\partial y=0$  on the 4th side?)    
 3. Find the charge density $\sigma(x=0,y,z)$ everywhere on the left conducting wall ($x=0$).
 
 
