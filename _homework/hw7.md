@@ -10,10 +10,6 @@ author_profile: true
 After wrapping up the method of relaxation, Homework 9 then helps you further investigates the multipole expansion and develop models for polarization that we will use to understand electric fields in matter. Notice that for polarization problems, we can often find the bound charges and solve the problems much like we have done before with free charges.
 
 
-
-## coming soon...
-
-
 ## 1. Method of Relaxation for Cartesian Problems
 
 One of the major properties of a solution to Laplace's equation is that the value of the potential at a point is equal the average of all the points surrounding it (i.e., a sphere in 3D or a circle in 2D). We can exploit this property to solve Laplace's equation numerically by successively computing the average value of the potential at a point on a mesh (a grid of 2D points in this case) based on the 4 other points that surround it (see the figure below).
