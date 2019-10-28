@@ -7,7 +7,7 @@ author_profile: true
 ---
 [Link to Slack team -- a great place to ask questions](https://ph410f19.slack.com)
 
-After wrapping up the method of relaxation, Homework 9 then helps you further investigates the multipole expansion and develop models for polarization that we will use to understand electric fields in matter. Notice that for polarization problems, we can often find the bound charges and solve the problems much like we have done before with free charges.
+After wrapping up the method of relaxation, Homework 7 then helps you further investigates the multipole expansion and develop models for polarization that we will use to understand electric fields in matter. Notice that for polarization problems, we can often find the bound charges and solve the problems much like we have done before with free charges.
 
 
 ## 1. Method of Relaxation for Cartesian Problems
