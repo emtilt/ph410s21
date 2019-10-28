@@ -7,7 +7,7 @@ author_profile: true
 ---
 [Link to Slack team -- a great place to ask questions](https://ph410f19.slack.com)
 
-Homework 7 focuses on Laplace’s equations and solving it using infinite series solutions. You should become comfortable with setting boundary conditions for PDE problems like this and develop a sense of the process for solving these problems analytically. Additionaly, you will plot these solutions in 2D and develop the method of relaxation in 1D to investigate issues with the method.
+Homework 6 focuses on Laplace’s equations and solving it using infinite series solutions. You should become comfortable with setting boundary conditions for PDE problems like this and develop a sense of the process for solving these problems analytically. Additionaly, you will plot these solutions in 2D and develop the method of relaxation in 1D to investigate issues with the method.
 
 
 ## 1. Potential and electric field with Laplace's equation
