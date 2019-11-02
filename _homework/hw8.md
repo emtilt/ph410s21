@@ -13,7 +13,7 @@ Homework 8 focuses on developing ideas about the D-field including how to apply 
 
 ### 1. Point charge in a spherical plastic shell
 
-![Dielectric Shell](../images/hw8-dielectric_shell.png)
+![Dielectric Shell](../../images/hw8-dielectric_shell.png)
 
 
 A point charge $+Q$ is at the center of a spherical plastic shell (inner radius $a$, outer radius $b$)  The shell is a **linear** dielectric, with a dielectric constant $\varepsilon_r$. The shell is electrically neutral (it has no free charges).
@@ -36,7 +36,7 @@ A solid sphere (radius $R$) of linear dielectric material (dielectric constant $
 
 You have a large (infinite in the $x-y$ directions) parallel-plate conductor (two big metal sheets, the upper one has free charge density $+\sigma$, the lower one $-\sigma$). The plates are a distance $a$ apart. The space between the sheets is half filled with a linear dielectric oil with given dielectric constant $\varepsilon_r = 4$. Region  I, (filling the top half of the volume) is vacuum. The lower half, region II, is the dielectric oil. See the figure below.
 
-![Capacitor with Dielectric Oil](../images/hw8-cap_w_dielectric.png)
+![Capacitor with Dielectric Oil](../../images/hw8-cap_w_dielectric.png)
 
 
 1. Find $\mathbf{D}$, $\mathbf{E}$, and $\mathbf{P}$ (direction and magnitude, giving all of them separately in regions I and II).
