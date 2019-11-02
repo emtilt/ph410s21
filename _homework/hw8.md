@@ -11,7 +11,7 @@ Homework 8 focuses on developing ideas about the D-field including how to apply 
 
 
 
-### 1. Point charge in a spherical plastic shell
+## 1. Point charge in a spherical plastic shell
 
 ![Dielectric Shell](../../images/hw8-dielectric_shell.png)
 
@@ -23,7 +23,7 @@ A point charge $+Q$ is at the center of a spherical plastic shell (inner radius 
 3. Sketch $\mathbf{E}(r)$, briefly commenting on any interesting features.
 4. Similarly, sketch $\mathbf{D}(r)$.
 
-### 2. Injecting free charges
+## 2. Injecting free charges
 
 A solid sphere (radius $R$) of linear dielectric material (with known $\varepsilon_r$) has been "injected" with a uniform free charge density $\rho_f$ throughout its volume.
 
