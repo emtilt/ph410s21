@@ -16,7 +16,7 @@ Homework 8 focuses on developing ideas about the D-field including how to apply 
 ![Dielectric Shell](../../images/hw8-dielectric_shell.png)
 
 
-A point charge $+Q$ is at the center of a spherical plastic shell (inner radius $a$, outer radius $b$)  The shell is a **linear** dielectric, with a dielectric constant $\varepsilon_r$. The shell is electrically neutral (it has no free charges).
+A point charge $+Q$ is at the center of a spherical plastic shell (inner radius $a$, outer radius $b$)  The shell is a **linear** dielectric, with a known $\varepsilon_r$. The shell is electrically neutral (it has no free charges).
 
 1.  Compute $\mathbf{E}$, $\mathbf{D}$, and $\mathbf{P}$ everywhere.
 2. How is $\mathbf{E}$ inside the plastic ($a<r<b$) different from what it would have been if the plastic were not present? (Explain why/how this difference arises physically.)
@@ -25,7 +25,7 @@ A point charge $+Q$ is at the center of a spherical plastic shell (inner radius 
 
 ### 2. Injecting free charges
 
-A solid sphere (radius $R$) of linear dielectric material (dielectric constant $\varepsilon_r$) has been "injected" with a uniform free charge density $\rho_f$ throughout its volume.
+A solid sphere (radius $R$) of linear dielectric material (with known $\varepsilon_r$) has been "injected" with a uniform free charge density $\rho_f$ throughout its volume.
 
 1. Find the potential at the center of the sphere (with $V(\infty)=0$). *Hint: You might want to find D first.*
 2. Does your answer come out larger or smaller than for a simple sphere of charge with uniform charge density $\rho_f$ (that is, if you had neglected the effect of the dielectric constant)? Would that mean setting $\varepsilon_r$ to 0, or to 1?  Does this result make physical sense to you? Explain briefly.
