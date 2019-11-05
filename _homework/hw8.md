@@ -55,7 +55,7 @@ You have a large (infinite in the $x-y$ directions) parallel-plate conductor (tw
 We are going to be working with "current densities" for the rest of the term. Let's start with a few simple examples for you to practice with.
 
 1. A solid cylindrical straight wire (radius $a$) has a current $I$ flowing down it. If that current is uniformly distributed JUST over the outer surface of the wire (i.e. none is flowing through the "volume" of the wire, it's all surface charge), what is the magnitude of the surface current density, $\mathbf{K}$?
-2. Suppose that current does flow throughout the volume of the wire, but in such a way that the volume current density $J$ grows quadratically with distance from the central axis. What is the formula for $J$ everywhere in the wire? *Note that neither situation i nor ii is physically what happens in normal wires!*
+2. Now suppose that current does flow throughout the volume of the same wire (with known radius $a$ and current $I$). Assume that you know that the volume current density $J$ grows quadratically with distance from the central axis. What is the formula for $J$ everywhere in the wire? *Note that neither situation i nor ii is physically what happens in normal wires!*
 3. A DVD has been rubbed so that it has a fixed, constant, uniform surface electric charge density $\sigma$ everywhere on its top surface. It is spinning at angular velocity $\omega$ about its center (which is at the origin). What is the magnitude of surface current density $\mathbf{K}$ at a distance $r$ from the center?
 
 ## 7. Current Density Practice
