@@ -33,9 +33,9 @@ Consider a thick slab of current.
 
 ![Thick Slab](../../images/hw9-thick_slab.png)
 
-The slab is infinite in (both) $x$ and $y$, but finite in $z$. So we must think about the volume current density $\mathbf{J}$, rather than $\mathbf{K}$. The slab has thickness $2h$ (It runs from $z=-h$ to $z=+h$) Let's assume that the current is still flowing in the $+x$ direction, and is uniform in the $x$ and $y$ dimensions, but now $\mathbf{J}$ depends on height linearly, i.e. $\mathbf{J} = J_0\,\mathrm{abs}(z)\,\hat{x}$, inside the slab (but is 0 above or below the slab), where $\mathrm{abs}(z)$ is the absolute value of $z$.
+The slab is infinite in (both) $x$ and $y$, but finite in $z$. So we must think about the volume current density $\mathbf{J}$, rather than $\mathbf{K}$. The slab has thickness $2h$ (i.e., it runs from $z=-h$ to $z=+h$). Let's assume that the current is flowing in the $+x$ direction is uniform in the $x$ and $y$ dimensions, but $\mathbf{J}$ depends on height linearly, i.e. $\mathbf{J} = J_0\,\mathrm{abs}(z)\,\hat{x}$, inside the slab (but is 0 above or below the slab), where $\mathrm{abs}(z)$ is the absolute value of $z$.
 
-1. Find the B field (magnitude and direction) everywhere in space (above, below, and also, most interestingly, inside the slab!)
+Find the B field (magnitude and direction) everywhere in space (above, below, and also, most interestingly, inside the slab!)
 
 ## 4. Quick Ampere's Law
 
