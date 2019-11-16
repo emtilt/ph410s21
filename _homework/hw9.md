@@ -23,7 +23,7 @@ author_profile: true
 
 An infinitely long wire has been bent into a right angle turn, as shown.  The "curvy part" where it bends is a perfect quarter circle, radius $R$.  Point P is exactly at the center of that quarter circle. A steady current $I$ flows through this wire.
 
-1. Find $\mathbf{B}$ at point P (magnitude and direction) (*No need to derive any formulas “from scratch” if you can get them from Griffiths’ examples!*)
+Find $\mathbf{B}$ at point P ( give both magnitude and direction). (*No need to derive any formulas “from scratch” if you can get them from Griffiths’ examples!*)
 
 ![Bent Wire](../../images/hw9-bent_wire.png)
 
