@@ -1,0 +1,99 @@
+---
+layout: archive
+collection: homework
+title: "Homework 9 - Due Friday, November 22 at 4:30pm"
+permalink: /homework/hw9/
+author_profile: true
+---
+[Link to Slack team -- a great place to ask questions](https://ph410f19.slack.com)
+
+
+## 1. Magnetic field of distributed currents
+
+![Ring](./images/hw9/ring.png)
+
+1. Compute the magnetic field $\mathbf{B}(0,0,z)$ along the $z$-axis for a current loop (current $I$, radius $R$, sitting in $x-y$ plane, centered around the $z$-axis). It is shown in the figure above.
+2. Last week we had a DVD (radius $R$) with a fixed, constant, uniform surface electric charge density $\sigma$ everywhere on its top surface (figure below). It was spinning at angular velocity $\omega$ about its center (the origin).  You found the current density $\mathbf{K}$ at a distance $r$ from the center. Use that result to find the magnetic field $\mathbf{B}(0,0,z)$ at any distance $z$ directly above the origin.  (Part 1 above might help.)
+3. Does your answer to part 2 seem reasonable? Please check it, with units, and some limiting behaviors (e.g. what do you expect if $R \rightarrow 0$? $\omega \rightarrow 0$?  $z\rightarrow \infty$? For this last one, don't just say "it goes to zero. This is a dipole, so $B$ should go to 0 like $1/z^3$. (Right?) Show that it does!
+
+![Disk](../images/hw9-disk.png)
+
+
+## 2. Magnetic field of a bent wire
+
+An infinitely long wire has been bent into a right angle turn, as shown.  The "curvy part" where it bends is a perfect quarter circle, radius $R$.  Point P is exactly at the center of that quarter circle. A steady current $I$ flows through this wire.
+
+1. Find $\mathbf{B}$ at point P (magnitude and direction) (*No need to derive any formulas “from scratch” if you can get them from Griffiths’ examples!*)
+
+![Bent Wire](../images/hw9-bent_wire.png)
+
+## 3. Ampere's Law
+
+Consider a thick SLAB of current.
+
+![Thick Slab](../images/hw9-thick_slab.png)
+
+The slab is infinite in (both) $x$ and $y$, but finite in $z$. So we must think about the volume current density $\mathbf{J}$, rather than $\mathbf{K}$. The slab has thickness $2h$ (It runs from $z=-h$ to $z=+h$) Let's assume that the current is still flowing in the $+x$ direction, and is uniform in the $x$ and $y$ dimensions, but now $\mathbf{J}$ depends on height linearly, i.e. $\mathbf{J} = J_0\,\mathrm{abs}(z)\,\hat{x}$, inside the slab (but is 0 above or below the slab), where $\mathrm{abs}(z)$ is the absolute value of $z$.
+
+1. Find the B field (magnitude and direction) everywhere in space (above, below, and also, most interestingly, inside the slab!)
+
+## 4. Quick Ampere's Law
+
+Suppose $\mathbf{B}$ in a region of space centered on the origin has cylindrical symmetry and is given by $\mathbf{B} = B_0\hat{\phi}$ where $B_0$ is a constant, and $\hat{\phi}$ is the azimuthal direction in cylindrical coordinates.
+
+1. What is the current density in this region of space?
+2. Suppose the current density that you found extends out to a radius $R$ and is zero for $r > R$.  What is the magnetic field for $r > R$?
+
+## 5. Ampere and superposition
+A clever use of superposition should can make seemingly complicated situations easier to solve.
+
+![Wire with Hole](../images/hw9-wire_w_hole.png)
+
+
+1. A long (infinite) wire (cylindrical conductor of radius $R$, whose axis coincides with the $z$ axis) carries a uniformly distributed current $I_0$ in the $+z$ direction. A cylindrical hole is drilled out of the conductor, parallel to the $z$ axis, (see figure above for geometry). The center of the hole is at $x = b$, and the radius is $a$.  Determine the magnetic field *in the hole region.*
+2. If this is an ordinary wire carrying ordinary household currents, and the drilled hole has dimensions roughly shown to scale in the figure above, make an order of magnitude estimate for the strength of the $B$ field in that region. How does it compare to the earth's field?   *You should find that the B field in the hole is uniform - that was just a little surprising to me!*
+
+
+## 6. Coordinate Free Dipole Equation
+
+In class we derived the magnetic field formula for the magnetic moment of a pure dipole which points in the z direction, located at the origin:
+
+$$\mathbf{B} = \dfrac{\mu_0 m}{4 \pi r^3}(2 \cos \theta\,\hat{r} + \sin \theta\,\hat{\theta})$$
+
+Here $\mathbf{m}=I\mathbf{a}$ ($\mathbf{a}$ is the area vector of our tiny dipole) But sometimes $\mathbf{m}$ points in another direction than just $z$-hat! A more elegant way to write B which does not explicitly depend on any choice of coordinate axes is:
+
+$$\mathbf{B} = \dfrac{\mu_0}{4 \pi r^3}(3 (\mathbf{m}\cdot\hat{r})\hat{r} - \mathbf{m})$$
+
+1. For this problem, assume the second equation above is correct, define your $z$-axis to lie along the direction of the magnetic moment $\mathbf{m}$, and show that this leads back to first equation.
+
+*Coordinate free formulas are nice, because now you can find B for more general situations!*
+
+
+## 7. OPTIONAL BONUS OF ONE POINT -- Semi-classical electron dipole moment
+
+This problem is completely optional, but it's an interesting lead-in to the next (required) problem.
+
+A thin uniform solid torus (a "donut") has total charge $Q$, mass $M$, radius $R$. It rotates around its own central axis at angular frequency $\omega$, as shown.
+
+![Spinning Donut](../images/hw9-spinning_donut.png)
+
+
+1. Find the magnetic dipole moment $m$ of this rotating donut. What are the SI units of dipole moment?
+2. Compute the ratio $m/L$, the "magnetic dipole moment" divided by the angular momentum. This is called the "gyromagnetic ratio".
+3. What is the gyromagnetic ratio for a uniform spinning sphere? *HINT: This question really doesn't require any additional calculating: picture the sphere as a bunch of rings, and apply the result of part 2.*
+4. In quantum mechanics, the angular momentum of a spinning electron is $\hbar/2$. Use your results above to deduce the electron's magnetic dipole moment (in SI units.)
+
+*Note: This "semi-classical" calculation is low by a factor of almost exactly 2. Dirac developed a relativistic form of quantum mechanics which got the factor of 2 right in the 1930's. In the '40's,  Feynman, Schwinger, and Tomonaga calculated tiny extra corrections arising from QED (quantum electrodynamics) If you want to for fun, find the current best-value for the electron magnetic dipole moment. If you compare theory and measurement, you will be extremely impressed at the agreement (~12 digits!).  It may make you "believe" in quantum physics in a way you might not have before. That's not how it works in practice, though -- people use this measurement to extract a fundamental constant of nature, and then use that value to predict OTHER experiments.*
+
+## 8. Force between magnets
+
+Toy magnets seem to have a force law which "turns on" quite suddenly as they approach, it doesn't really feel like a $1/r^2$ force. That's because it is not!
+
+![Two magnetic dipoles](../images/hw9-two_mag_dipoles.png)
+
+1. Consider two small magnets (treat them as point-like perfect dipoles with magnetic moments $m_1$ and $m_2$, to keep life as simple as possible). In the configuration shown above ("opposite poles facing"), find the force between them as a function of distance r.  (Does the sign work out for you sensibly?)
+2. Let's do a crude estimate of the strength of the magnetic moment of a simple cheap magnet.  Assume the atomic dipole moment of an iron atom is due to an (unpaired) electron spin. The previous question above taught us what the magnetic dipole moment of a single electron is (or, just look it up if you didn't do it, or if you want to get the factor of 2 right). The mass density and atomic mass of iron are also easy to look up. Consider a small, ordinary, kitchen fridge "button sized" magnet, and make a very rough estimate of its total magnetic moment.
+3. Use your formula from part 1 to estimate how high ($h$) one such magnet would "float" above another (if oriented as shown below).
+4. Does your answer seem at all realistic, based on your experiences with small magnets? (note that such a configuration is not stable - why not? I've seen toys like this, but they have a thin wooden peg to keep the magnets vertically aligned, that's how I drew it in the figure).
+
+![Two toy magnets](./images/hw11/two_magnets.png)
