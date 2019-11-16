@@ -13,7 +13,7 @@ author_profile: true
 ![Ring](../../images/hw9-ring.png)
 
 1. Compute the magnetic field $\mathbf{B}(0,0,z)$ along the $z$-axis for a current loop (current $I$, radius $R$, sitting in $x-y$ plane, centered around the $z$-axis). It is shown in the figure above.
-2. Last week we had a DVD (radius $R$) with a fixed, constant, uniform surface electric charge density $\sigma$ everywhere on its top surface (figure below). It was spinning at angular velocity $\omega$ about its center (the origin).  You found the current density $\mathbf{K}$ at a distance $r$ from the center. Use that result to find the magnetic field $\mathbf{B}(0,0,z)$ at any distance $z$ directly above the origin.  (Part 1 above might help.)
+2. Last week we had a DVD (radius $R$) with a fixed, constant, uniform surface electric charge density $\sigma$ everywhere on its top surface (figure below). It was spinning at angular velocity $\omega$ about its center (the origin).  You found the current density $\mathbf{K}$ at a distance $r$ from the center. Use that result to find the magnetic field $\mathbf{B}(0,0,z)$ at any distance $z$ directly above the origin.  (Part 1 above might help...)
 3. Does your answer to part 2 seem reasonable? Please check it, with units, and some limiting behaviors (e.g. what do you expect if $R \rightarrow 0$? $\omega \rightarrow 0$?  $z\rightarrow \infty$? For this last one, don't just say "it goes to zero. This is a dipole, so $B$ should go to 0 like $1/z^3$. (Right?) Show that it does!
 
 ![Disk](../../images/hw9-disk.png)
@@ -29,7 +29,7 @@ An infinitely long wire has been bent into a right angle turn, as shown.  The "c
 
 ## 3. Ampere's Law
 
-Consider a thick SLAB of current.
+Consider a thick slab of current.
 
 ![Thick Slab](../../images/hw9-thick_slab.png)
 
@@ -66,9 +66,9 @@ Here $\mathbf{m}=I\mathbf{a}$ ($\mathbf{a}$ is the area vector of our tiny dipol
 
 $$\mathbf{B} = \dfrac{\mu_0}{4 \pi r^3}(3 (\mathbf{m}\cdot\hat{r})\hat{r} - \mathbf{m})$$
 
-1. For this problem, assume the second equation above is correct, define your $z$-axis to lie along the direction of the magnetic moment $\mathbf{m}$, and show that this leads back to first equation.
+For this problem, assume the second equation above is correct, define your $z$-axis to lie along the direction of the magnetic moment $\mathbf{m}$, and show that this leads back to first equation.
 
-*Coordinate free formulas are nice, because now you can find B for more general situations!*
+*Coordinate free formulas are nice, because they can be used to find B for more general situations!*
 
 
 ## 7. OPTIONAL BONUS OF ONE POINT -- Semi-classical electron dipole moment
