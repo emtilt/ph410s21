@@ -8,7 +8,7 @@ author_profile: true
 
 
 {% include base_path %}
-{% for post in site.slides %}
+{% for post in site.slidesTHISTEXTADDEDTOBREAKTHISCODE %}
   {% include archive-single-slide.html %}
 {% endfor %}
 
