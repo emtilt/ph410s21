@@ -22,10 +22,10 @@ redirect_from:
 	- [http://evantilton.com/ph410s21](http://evantilton.com/ph410s21) - Slides, calendar, homework
 	- [WorldClass](https://worldclass.regis.edu) - Grades
 	- [Our Slack workspace](physicsatregis.slack.com) - Collaboration, solutions, polls, reading quizzes, etc. <!--[(Invitation link to join the workspace)](https://join.slack.com/t/ph410f19/shared_invite/enQtNzMyMDIyODQ0NzI3LTc1ODliZjEzNzkwNjM0OWIyMGVlMjdiOWFmNjlmMDgwMTcxZjE3MTEwMmFiZWVlZDI4OTJkNzk1MDJmYTFkMzY).--> Please enjoy the [giphy](https://get.slack.help/hc/en-us/articles/204714258-Giphy-for-Slack#post-a-gif) integration responsibly.
-	- Other sites you'll likely use:
+	- Other sites you might use:
 		- [Github](https://github.com)
 		- [Google Colab](https://colab.research.google.com)
-		- [Our Spotify playlist](https://open.spotify.com/playlist/0Q3VleFxIlnKZMoeC75aNn?si=2SJ0CA--T6yujl5NWM1Aqw) - feel free to add stuff
+		<!--[Our Spotify playlist](https://open.spotify.com/playlist/0Q3VleFxIlnKZMoeC75aNn?si=2SJ0CA--T6yujl5NWM1Aqw) - feel free to add stuff-->
 -   Class Meetings: MWF 11:00 AM - 11:50 AM (Location TBD as pandemic safety allows)
 -   Office hours: TBD. But I have an open door policy. You're welcome to talk to me any time I'm available. Outside of scheduled office hours, I might be busy, but I'll chat with you if at all possible. If you want to be sure that I have time to talk, please email me to make sure I'm available.
 
