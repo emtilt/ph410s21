@@ -10,7 +10,7 @@ redirect_from:
 
 # THIS INFORMATION IS NOT UP TO DATE
 
-# PH410 - Electricity and Magnetism - Fall 2019 - 3 credits 
+# PH410 - Electricity and Magnetism - Spring 2021 - 3 credits 
 
 ## Contact Information
 
@@ -19,9 +19,9 @@ redirect_from:
 	- Please let us know how you would prefer to be addressed and what pronouns you use.
 -   Contact: <etilton@regis.edu>; office: Carroll 108C (inside the Math & Physics suite); office phone: 3034584166 (unreliable)
 -   Course web pages:
-	- [http://evantilton.com/ph410f19](http://evantilton.com/ph410f19) - Slides, calendar, homework
+	- [http://evantilton.com/ph410s21](http://evantilton.com/ph410s21) - Slides, calendar, homework
 	- [WorldClass](https://worldclass.regis.edu) - Grades
-	- [Our Slack workspace](https://ph410f19.slack.com) - Collaboration, solutions, polls, reading quizzes, etc. <!--[(Invitation link to join the workspace)](https://join.slack.com/t/ph410f19/shared_invite/enQtNzMyMDIyODQ0NzI3LTc1ODliZjEzNzkwNjM0OWIyMGVlMjdiOWFmNjlmMDgwMTcxZjE3MTEwMmFiZWVlZDI4OTJkNzk1MDJmYTFkMzY).--> Please enjoy the [giphy](https://get.slack.help/hc/en-us/articles/204714258-Giphy-for-Slack#post-a-gif) integration responsibly.
+	- [Our Slack workspace](physicsatregis.slack.com) - Collaboration, solutions, polls, reading quizzes, etc. <!--[(Invitation link to join the workspace)](https://join.slack.com/t/ph410f19/shared_invite/enQtNzMyMDIyODQ0NzI3LTc1ODliZjEzNzkwNjM0OWIyMGVlMjdiOWFmNjlmMDgwMTcxZjE3MTEwMmFiZWVlZDI4OTJkNzk1MDJmYTFkMzY).--> Please enjoy the [giphy](https://get.slack.help/hc/en-us/articles/204714258-Giphy-for-Slack#post-a-gif) integration responsibly.
 	- Other sites you'll likely use:
 		- [Github](https://github.com)
 		- [Google Colab](https://colab.research.google.com)
@@ -94,6 +94,21 @@ The topics that we will cover in PH 410 are among the greatest intellectual achi
 - Start your homework assignments **very early**. No one is smart enough to do the homework in the last hour before class, and no one is smart enough to learn the material without working problems. 
 - Don't fall behind; you will never catch up. 
 - Just reading the text, attending lecture, and doing the homework **is not enough**. You have to *understand* the material. Test your understanding. If you can explain the material, in words, to someone else, without referring to the text, then you understand. If you can complete a problem you've never seen before on your own, then you understand. You may need to do many more problems than just those that are assigned in order to understand. This course is not about memorizing; it's about understanding.
+
+### Academic Integrity
+Unfortunately, there has been a large spike in dishonest academic actions during the pandemic, so I need to spend some time being blunt about it.
+
+Be aware: **Any indication of academic integrity violations is grounds for immediate failure of the course.** An indicent report will be filed with the dean's office, and you will immediately fail, along with whatever other sanctions your college or program imposes.
+
+So what does academic dishonesty look like? In the modern internet-connected world, it is not possible to enumerate all types. In summary, though, you are expected to be submitting your own work, and if you aren't, it is academic dishonesty. If you are looking at a solution by a different person to a problem that I have assigned, then you are committing academic dishonesty. If you are copying any solution and misrepresenting it as your own, whether you got it from the internet or another student, it is academic dishonesty.
+
+Like I said, there are too many forms of this sort of thing to list, but I'll mention a few key ones.
+
+- You should collaborate with peers, but you should not copy from peers. To do so is academic dishonesty. Two papers should never be identical, or have identical algebraic mistakes, or similar. See the homework section below.
+- Exams are intended to represent your own work. If the solution you are submitting is not entirely your own, then it is academic dishonesty.
+- Commercial websites that provide solutions as a service are banned in all circumstances. There are too many of these websites to list, but the most popular one is Chegg. To be clear: Chegg is a cheating website. The Regis academic integrity policy bans obtaining commercial work by others to use as your own. If you have obtained a solution to a problem from Chegg or any similar website, it is cheating. There will be zero tolerance for such actions. If you have a Chegg account (or any similar account), I strongly encourage you to cease paying for it and using it right now.
+
+This list is not all inclusive. Remember: Your work is expected to be your own. Though this class is difficult, it is within your grasp and I am here to help. Even though the class is hard, I also design the grading so that it is hard to fail if you try. I want to help you succeed, but you must be honest with me if I am to do that. Do not gamble your whole career on one test or assignment. 
 
 ### Self-care
 One of the most important aspects of success in fields of high levels of intellectual difficulty is self-care. It is also one of the most neglected.
