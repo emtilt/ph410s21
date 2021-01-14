@@ -51,6 +51,11 @@ It is absolutely essential that you have already successfully completed the enti
 
 We will also be using computer programming (in Python) and differential equations. Though previous experience in these areas is certainly an asset, it is not required to take this course. You will be provided with the necessary information to tackle them for the first time.
 
+## COVID-19 Policies
+
+The format of this course will be set entirely at my discretion according to my understanding of current scientific understanding of the pandemic. If I do not judge the situation to be sufficiently safe, then we will operate in a remote format with no in-person options. 
+
+If I judge it to sufficiently necessary and safe, then we will meet in person with no option for remote attendance. It is likely that this course will have some in-person components, but that is subject to change. If we meet in person, then you will be required to follow all appropriate safety policies set by me and/or the university at all times. There will be no tolerance for recklessness, and repeated violations will result in failure and removal from the course.
 
 ## My Classroom Rules -- A Commitment to an Inclusive Classroom
 More than anything else, this class is a community that values the diversity of experience that each of us brings to our shared journey in physics. My first priority is the creation of an inclusive classroom - one where everyone feels comfortable, intellectually challenged, and able to speak up about your ideas, struggles, and experiences. Our classroom, as well as its virtual extensions, must foster respect, civility, and an ability to listen. I'll do my best to reach these goals myself, but it is likely that I will err at times. Please let me know if there is anything I can do to make our classroom a more inclusive and productive learning environment. If anyone in our community is vilating our commitment to inclusivity, please let me know. If I am violating this commitment, I welcome criticism so that I may learn to do better, and I encourage you to let me know. If you don't feel comfortable talking to me directly about it, you are also welcome to raise the issue with our department chair, Dr. Fred Gray (fgray@regis.edu). 
@@ -179,9 +184,9 @@ performance on exams and homework, with an additional small portion from class p
 
 | Activity        |            Date              | Percent of Grade |
 |-----------------|:----------------------------:|-----------------:|
-| Exam 1          |       <span style="color:red">?????????????????????</span>  |              15% |
-| Exam 2          |       <span style="color:red">?????????????????????</span>  |              15% |
-| Final Exam      |       December 9 @ 10:10am   |              20% |
+| Exam 1          |       TBD                    |              15% |
+| Exam 2          |           TBD                |              15% |
+| Final Exam      |         April 30 @ 10:10am   |              20% |
 | Homework        |           usually Fridays    |              40% |
 | Participation   |           all                |              10% |
 
