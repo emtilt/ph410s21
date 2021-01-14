@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : &name "Evan M. Tilton"
 description              : &description ""
 url                      : https://emtilt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/ph410f19" # the subpath of your site, e.g. "/blog"
-repository               : "ph410f19"
+baseurl                  : "/ph410s21" # the subpath of your site, e.g. "/blog"
+repository               : "ph410s21"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -26,7 +26,7 @@ atom_feed:
 
 # Site Author
 author:
-  name             : "PH410, Electricity & Magnetism, Fall 2019"
+  name             : "PH410, Electricity & Magnetism, Spring 2021"
   avatar           : "profile-b&w-lowquality.png"
   bio              : #"Astrophysicist and Assistant Professor of Physics & Astronomy. Preferred pronouns: he/him/his."
   location         : "Colorado, USA"
