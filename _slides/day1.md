@@ -11,8 +11,8 @@ spotifyplaylist: embed/playlist/0Q3VleFxIlnKZMoeC75aNn
 	
 ### PH410 - Electromagnetism
 
-August 26
- <!--this doesn't work... {% include spotifyplaylist.html id=page.spotifyplaylist %}-->
+January 20
+<!--this doesn't work... {% include spotifyplaylist.html id=page.spotifyplaylist %}-->
 </section>
 
 
@@ -57,7 +57,7 @@ Students may speak to someone confidentially by contacting the Office of Counsel
 	
 ### Important Sites
 
-* Course Webpage: [evantilton.com/ph410f19](http://evantilton.com/ph410f19)
+* Course Webpage: [evantilton.com/ph410s21](http://evantilton.com/ph410s21)
 * Slack Team: [physicsatregis.slack.com](http://physicsatregis.slack.com)
   * *You should already be a part of this.*
 
@@ -78,7 +78,7 @@ Students may speak to someone confidentially by contacting the Office of Counsel
 <section data-markdown="">
 
 ### Course Activities
-* Midterm Exams (2 of them, in-class + take-home parts) - 15% each
+* Midterm Exams (2 of them, format TBD, likely some combo of in-person, oral, and/or remote depending on pandemic) - 15% each
 * Final Exam  - 20%
 * Homework (Lots of it; mostly due on Fridays) - 40%
 * Participation (Reading quizzes, polls, etc) - 10%
@@ -94,15 +94,14 @@ Students may speak to someone confidentially by contacting the Office of Counsel
 
 Exams can be very stressful. However, I'll try to come up with the least stressful formats I can.
 
-At this time, I can't tell you their exact formats. It will depend on the trajectory of the pandemic. If we are fully remote at the end of the semester, it may include oral exams.
-
+If we have written exams, then there will be an opportunity to correct and reflect upon your mistakes for credit.
 </section>
 
 <section data-markdown="">
 
 ## This Week!!!
 
-* Homework 1 is already up (due a week from Wednesday at 4:30 pm)
+* Homework 1 is already up (due a week from Friday at 4:30 pm)
 * Read (seriously do this!) Griffiths Advertisement (pp. xiv-xviii) and Sections 1.1 & 1.2 (pp. 1-24)
 * Reading survey on WorldClass due by 10am before each class for which we have one
 * Get Python, Slack, and Github working
@@ -118,10 +117,9 @@ At this time, I can't tell you their exact formats. It will depend on the trajec
 ### Homework problems
 
 * We will be using Python on homework problems this semester. You are welcome to use any distribution, but I recommend [Google Colab](https://colab.research.google.com) or [Anaconda](https://www.continuum.io/downloads)
-* Installation help can be found at [evantilton.com/guides](http://evantilton.com/guides) or by talking on Slack
-* Homework questions will take the form of a Jupyter notebook, which you can turn in by adding them to the Github repository.
+* Computational homework questions will take the form of a Jupyter notebook, which you can turn in by adding them to the Github repository.
 * If you get stuck somewhere, post on Slack, so your classmates benefit from your question. Use the channels and giphy responsibly.
-* Regular homework should be handwritten. Alternately, you are welcome to typeset it in LaTeX or Markdown and share it via Slack or Github, but I won't accept it unless you typeset using standard mathematical notation and convention.
+* Regular homework should be handwritten. Alternately, you are welcome to typeset it in LaTeX or Markdown, but I won't accept it unless you typeset using standard mathematical notation and convention.
 
 </section>
 
