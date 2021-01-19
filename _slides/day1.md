@@ -139,3 +139,40 @@ What advice do you have for each other?
 
 </section>
 
+
+
+<section data-markdown="">
+
+## What do you think PH410 is about?
+
+</section>
+
+
+<section data-markdown="">
+
+### Electromagnetism is the foundational field theory of physics
+
+Think about everything you already know about electromagnetism (it's a lot already!).
+
+Work with a partner to map out the electromagnetism concepts that you know and how they are related to each other. 
+
+</section>
+<section data-markdown>
+
+## Mathematical Preliminaries
+
+$\nabla \cdot \mathbf{E}=\frac{\rho}{\epsilon_{0}} \qquad \oint \mathbf{E} \cdot d \mathbf{a}=\frac{Q_{\mathrm{enc}}}{\epsilon_{0}}$
+
+
+$\nabla \cdot \mathbf{B}=0 \qquad \oint \mathbf{B} \cdot d \mathbf{a}=0$
+
+
+$\nabla \times \mathbf{E}=\color{gray}{-\frac{\partial \mathbf{B}}{\partial t}} \qquad \oint \mathbf{E} \cdot d \mathbf{l}=\color{gray}{-\int \frac{\partial \mathbf{B}}{\partial t} \cdot d \mathbf{a}}$
+
+
+$\nabla \times \mathbf{B}=\mu_{0} \mathbf{J}\color{gray}{+\mu_{0} \epsilon_{0} \frac{\partial \mathbf{E}}{\partial t}} \qquad \oint \mathbf{B} \cdot d \mathbf{l}=\mu_{0} I_{\mathrm{enc}}\color{gray}{+\mu_{0} \epsilon_{0} \int \frac{\partial \mathbf{E}}{\partial t} \cdot d \mathbf{a}}$
+
+
+Note:
+There's a reason that we are starting with vectors and vector operations; it's inherent in the way electromagnetism is described!
+</section>
