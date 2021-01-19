@@ -103,7 +103,7 @@ If we have written exams, then there will be an opportunity to correct and refle
 
 * Homework 1 is already up (due a week from Friday at 4:30 pm)
 * Read (seriously do this!) Griffiths Advertisement (pp. xiv-xviii) and Sections 1.1 & 1.2 (pp. 1-24)
-* Reading survey on WorldClass due by 10am before each class for which we have one
+* Reading survey on WorldClass due by 9am before each class for which we have one
 * Get Python, Slack, and Github working
 
 **Stay up-to-date by checking website, calendar, and Slack regularly.**
