@@ -20,7 +20,7 @@ Jan 22
 
 ### For Monday
 - Read Griffiths Sections 1.3 and 1.4
-- Do reading survey by 10am on Friday (on Slack, same as first one...I'll call this one s2)
+- Do reading survey by 9am on Monday (on WorldClass)
 	
 </section>
 
