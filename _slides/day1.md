@@ -1,6 +1,6 @@
 ---
 title: "Day 1 - Course Introduction"
-permalink: /slides/2019-08-26-day1
+permalink: /slides/day1
 layout: slide
 theme: white
 transition: slide
