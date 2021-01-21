@@ -146,7 +146,7 @@ Note:
 
 <section data-markdown="">
 	
-In terms of primed and/or unprimed Cartesian coordinates using Griffiths-style notation, what is the magnitude of vector B if P is some point at which you need to find the electric field due to the point charge?
+In terms of primed and/or unprimed vector names using Griffiths-style notation, what is the magnitude of vector B if P is some point at which you need to find the electric field due to the point charge at C? Which names should A, B, and C have accoridng to Griffiths notation?
 
 ![alt text](../images/d2-scriptrpointcharge.png "Logo Title Text 1") 
 
