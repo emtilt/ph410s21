@@ -175,9 +175,26 @@ Note:
 </section>
 
 
+<section data-markdown>
+
+Curl/div visualizations 
+
+https://mathinsight.org/divergence_idea
+
+https://mathinsight.org/divergence_subtleties
+
+https://mathinsight.org/curl_components
+
+https://mathinsight.org/curl_subtleties
+
+</section>
 
 <section data-markdown>
-As we wait for class to start, chat and answer this on slack.
+	
+![alt text](../images/d2-divmeter.png "Logo Title Text 1") 
+	
+</section>
+<section data-markdown>
 Which of the following two fields has zero curl?
 
 | I | II |
@@ -194,22 +211,8 @@ Note:
 * CORRECT ANSWER: C
 * Think about paddle wheel
 </section>
-<section data-markdown>
-
-Curl/div visualizations 
-
-https://mathinsight.org/divergence_idea
-
-https://mathinsight.org/divergence_subtleties
-
-https://mathinsight.org/curl_components
-
-https://mathinsight.org/curl_subtleties
-
-</section>
 
 <section data-markdown>
-As we wait for class to start, chat and answer this on slack.
 If these are electric field lines from a point charge in 3D space, what is the divergence in the boxed region?
 
 ![alt text](../images/d3-divredbox.png "Logo Title Text 1")
@@ -224,7 +227,6 @@ Note:
 * One of those curious ones where the 2D picture might get in the way; think 3D
 
 </section>
-
 
 <section data-markdown>
 Which of the following two fields has zero divergence?
@@ -244,11 +246,7 @@ Note:
 * Think about dE/dx and dE/dy
 </section>
 
-<section data-markdown>
-	
-![alt text](../images/d2-divmeter.png "Logo Title Text 1") 
-	
-</section>
+
 
 <section data-markdown>
 
