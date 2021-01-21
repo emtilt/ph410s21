@@ -127,15 +127,6 @@ Note:
 * Fall 2016: 0 0 [94] 6 0
 </section>
 
-<section data-markdown="">
-	
-In terms of primed and/or unprimed Cartesian coordinates using Griffiths-style notation, what is the magnitude of vector B if P is some point at which you need to find the electric field due to the point charge?
-
-![alt text](../images/d2-scriptrpointcharge.png "Logo Title Text 1") 
-
-Note:
-
-</section>
 <section data-markdown>
 <!--_**Skipped in class, good review.**_-->
 How is the vector $\mathfrak{R}_{12}$ related to $\mathbf{r}_1$ and  $\mathbf{r}_2$?
@@ -149,6 +140,17 @@ How is the vector $\mathfrak{R}_{12}$ related to $\mathbf{r}_1$ and  $\mathbf{r}
 
 Note:
 * CORRECT ANSWER:  C
+
+</section>
+
+
+<section data-markdown="">
+	
+In terms of primed and/or unprimed Cartesian coordinates using Griffiths-style notation, what is the magnitude of vector B if P is some point at which you need to find the electric field due to the point charge?
+
+![alt text](../images/d2-scriptrpointcharge.png "Logo Title Text 1") 
+
+Note:
 
 </section>
 
