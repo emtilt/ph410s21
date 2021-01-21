@@ -81,6 +81,18 @@ $\nabla \times \mathbf{B}=\mu_{0} \mathbf{J}\color{gray}{+\mu_{0} \epsilon_{0} \
 Note:
 There's a reason that we are starting with vectors and vector operations; it's inherent in the way electromagnetism is described!
 </section>
+
+<section data-markdown="">
+	
+Two charges $+Q$ and $-Q$ are fixed a distance $r$ apart. The direction of the force on a test charge $-q$ at point A is:
+
+![alt text](../images/d2-twocharge.png "Logo Title Text 1") 
+
+Note:
+* CORRECT ANSWER:  A
+* Use superposition
+</section>
+
 <section data-markdown>
 
 In a typical Cartesian coordinate system, vector $\mathbf{A}$ lies along the $+\hat{x}$ direction and vector $\mathbf{B}$ lies along the $-\hat{y}$ direction. What is the direction of $\mathbf{A} \times \mathbf{B}$?
@@ -114,16 +126,7 @@ Note:
 * Use right-hand rule; means $\mathbf{A} \times \mathbf{B} = - \mathbf{B} \times \mathbf{A}$
 * Fall 2016: 0 0 [94] 6 0
 </section>
-<section data-markdown="">
-	
-Two charges $+Q$ and $-Q$ are fixed a distance $r$ apart. The direction of the force on a test charge $-q$ at point A is:
 
-![alt text](../images/d2-twocharge.png "Logo Title Text 1") 
-
-Note:
-* CORRECT ANSWER:  A
-* Use superposition
-</section>
 <section data-markdown="">
 	
 In terms of primed and/or unprimed Cartesian coordinates using Griffiths-style notation, what is the magnitude of vector B if P is some point at which you need to find the electric field due to the point charge?
