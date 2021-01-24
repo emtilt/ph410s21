@@ -293,6 +293,7 @@ Note:
 * Fall 2016: 0 0 [94] 6 0
 
 </section>
+<section data-markdown>
 
 
 What is the divergence in the boxed region?
