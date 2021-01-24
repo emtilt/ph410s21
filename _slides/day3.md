@@ -144,24 +144,6 @@ Note:
 * Think about paddle wheel
 </section>
 
-<section data-markdown>
-
-![alt text](../images/d3-spherical.png "Logo Title Text 1") 
-
-### You derive it
-
-Consider the radial unit vector ($\hat{r}$) in the spherical coordinate system as shown in the figure.
-
-Determine the $z$ component of this unit vector in the Cartesian $(x,y,z)$ system as a function of $r,\theta,\phi$.
-
-
-Note:
-This demonstrates that the r unit vector is a curious thing, in fact in contains all the information that is needed to define where you on the unit sphere. The other vectors can be though of as defined relative to that.
-Altered for F2017 to be shorter, only work on z component
-</section>
-
-
-
 
 <section data-markdown>
 
@@ -181,6 +163,24 @@ Note:
 * Fall 2016: [6] 90 3 0 1; Second vote (discussion and hint about units): [54] 35 4 1 4
 
 </section>
+<section data-markdown>
+
+![alt text](../images/d3-spherical.png "Logo Title Text 1") 
+
+### You derive it
+
+Consider the radial unit vector ($\hat{r}$) in the spherical coordinate system as shown in the figure.
+
+Determine the $z$ component of this unit vector in the Cartesian $(x,y,z)$ system as a function of $r,\theta,\phi$.
+
+
+Note:
+This demonstrates that the r unit vector is a curious thing, in fact in contains all the information that is needed to define where you on the unit sphere. The other vectors can be though of as defined relative to that.
+Altered for F2017 to be shorter, only work on z component
+</section>
+
+
+
 <section data-markdown>
 ![alt text](../images/d3-spherical2.png "Logo Title Text 1") 
 
@@ -232,7 +232,7 @@ Note:
 
 </section>
 
-<!--
+
 <section data-markdown>
 
 A certain fluid has a velocity field given by $\mathbf{v} = x\hat{x} + z \hat{y}$. Which component(s) of the field contributed to "fluid flux" integral ($\int_S \mathbf{v}\cdot d\mathbf{A}$) through the x-z plane?
@@ -336,4 +336,3 @@ What do you want out of this course? Perhaps a deeper understanding of the unive
 Are you on the right path for your own goals, whatever they are, for this semester? Are you reading how you should for where you're at with you current skills? Thinking deeply enough about the homework? 
 
 </section>
--->
