@@ -144,7 +144,7 @@ Note:
 * Think about paddle wheel
 </section>
 
-<!--<section data-markdown>
+<section data-markdown>
 
 ![alt text](../images/d3-spherical.png "Logo Title Text 1") 
 
