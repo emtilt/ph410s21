@@ -159,7 +159,7 @@ Note:
 This demonstrates that the r unit vector is a curious thing, in fact in contains all the information that is needed to define where you on the unit sphere. The other vectors can be though of as defined relative to that.
 Altered for F2017 to be shorter, only work on z component
 </section>
--->
+
 
 
 
