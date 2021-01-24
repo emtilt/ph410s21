@@ -49,7 +49,7 @@ Note:
 - Homework 1 due
 
 ###  
-"How often will we use cylindrical coordinates?" >>> **We'll use all three systems quite a bit, though I'd say that cyllindrical gets used less than the other two by a small margin.**
+"How often will we use cylindrical coordinates?" **>>> We'll use all three systems quite a bit, though I'd say that cyllindrical gets used less than the other two by a small margin.**
 </section>
 
 <section data-markdown>
