@@ -243,7 +243,7 @@ Note:
 
 <section data-markdown>
 
-A certain fluid has a velocity field given by $\mathbf{v} = x\hat{x} + z \hat{y}$. Which component(s) of the field contributed to "fluid flux" integral ($\int_S \mathbf{v}\cdot d\mathbf{A}$) through the x-z plane?
+A certain fluid has a velocity field given by $\mathbf{v} = x\hat{x} + b \hat{y}$. Which component(s) of the field contributed to "fluid flux" integral ($\int_S \mathbf{v}\cdot d\mathbf{A}$) through the x-z plane?
 
 1. $v_x$
 2. $v_y$
@@ -258,7 +258,7 @@ Note:
 
 <section data-markdown>
 
-A certain fluid has a velocity field given by $\mathbf{v} = x\hat{x} + z \hat{y}$. If we intend to calculate the "fluid flux" integral ($\int_S \mathbf{v}\cdot d\mathbf{A}$) through the x-z plane, what is $d\mathbf{A}$ in this case? Be specific!
+A certain fluid has a velocity field given by $\mathbf{v} = x\hat{x} + b \hat{y}$. If we intend to calculate the "fluid flux" integral ($\int_S \mathbf{v}\cdot d\mathbf{A}$) through the x-z plane, what is $d\mathbf{A}$ in this case? Be specific!
 
 1. $dxdy\hat{y}$
 2. $dxdz\hat{y}$
@@ -270,7 +270,7 @@ A certain fluid has a velocity field given by $\mathbf{v} = x\hat{x} + z \hat{y}
 
 <section data-markdown>
 
-For the same fluid with velocity field given by $\mathbf{v} = x\hat{x} + z \hat{y}$. What is the value of the "fluid flux" integral ($\int_S \mathbf{v}\cdot d\mathbf{A}$) through the entire x-y plane?
+For the same fluid with velocity field given by $\mathbf{v} = x\hat{x} + b \hat{y}$. What is the value of the "fluid flux" integral ($\int_S \mathbf{v}\cdot d\mathbf{A}$) through the entire x-y plane?
 
 1. It is zero
 2. It is something finite
