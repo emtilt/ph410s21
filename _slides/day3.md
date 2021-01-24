@@ -63,7 +63,10 @@ https://mathinsight.org/divergence_subtleties
 <section data-markdown>
 	
 ![alt text](../images/d2-divmeter.png "Logo Title Text 1") 
-	
+
+Note:
+* div meter from p 203 of Six Ideas Unit E 3rd ed
+* 
 </section>
 
 
@@ -298,23 +301,7 @@ Note:
 * Fall 2016: 0 0 [94] 6 0
 
 </section>
-<section data-markdown>
 
-
-What is the divergence in the boxed region?
-
-<img src ="./images/pt_charge_red_box.png" align="right" style="width: 400px";/>
-
-1. Zero
-2. Not zero
-3. ???
-
-Note:
-* CORRECT ANSWER: A
-* Lines in; lines out - harder to see dE/dx and dE/dy
-* One of those curious ones where the 2D picture might get in the way; think 3D
-
-</section>
 
 <section data-markdown>
 Consider a vector field defined as the gradient of some well-behaved scalar function:
