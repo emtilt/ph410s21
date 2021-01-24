@@ -41,7 +41,8 @@ Note:
 <section data-markdown="">
 
 ### For Wednesday
-- Read Griffiths Sections 1.5 & 1.6
+- Skip Griffiths Section 1.5 for now. We'll come back to it. For now, just be aware that there is something distrubing lurking in the E field of a point charge...
+- Read Griffiths Section 1.6
 - Do reading survey by 9am on Wednesday
 ### For Friday
 - Homework 1 due
