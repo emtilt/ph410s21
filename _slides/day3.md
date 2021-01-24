@@ -44,9 +44,11 @@ Note:
 - Skip Griffiths Section 1.5 for now. We'll come back to it. For now, just be aware that there is something distrubing lurking in the E field of a point charge...
 - Read Griffiths Section 1.6
 - Do reading survey by 9am on Wednesday
+
 ### For Friday
 - Homework 1 due
 
+###  
 "How often will we use cylindrical coordinates?" >>> **We'll use all three systems quite a bit, though I'd say that cyllindrical gets used less than the other two by a small margin.**
 </section>
 
