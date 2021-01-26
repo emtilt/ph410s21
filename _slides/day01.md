@@ -1,6 +1,6 @@
 ---
 title: "Day 1 - Course Introduction"
-permalink: /slides/day1
+permalink: /slides/day01
 layout: slide
 theme: white
 transition: slide
