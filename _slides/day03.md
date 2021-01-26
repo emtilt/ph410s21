@@ -1,6 +1,6 @@
 ---
 title: "Day 3 - Vector Calc, continued"
-permalink: /slides/day3
+permalink: /slides/day03
 layout: slide
 theme: white
 transition: slide
