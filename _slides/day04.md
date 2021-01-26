@@ -12,6 +12,12 @@ spotifyplaylist: embed/playlist/0Q3VleFxIlnKZMoeC75aNn
 ### PH410 - Electromagnetism
 
 Jan 27
+
+
+### For Friday
+- No reading
+- Homework 1 due @ 4:30 on Github
+
 <!--this doesn't work... {% include spotifyplaylist.html id=page.spotifyplaylist %}-->
 
 </section>
