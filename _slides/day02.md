@@ -1,6 +1,6 @@
 ---
 title: "Day 2 - What is E&M, Vector Calc"
-permalink: /slides/day2
+permalink: /slides/day02
 layout: slide
 theme: white
 transition: slide
