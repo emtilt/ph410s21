@@ -169,14 +169,6 @@ Note:
 </section>
 
 
-<section data-markdown="">
-
-## Take a minute to reflect.
-What do you want out of this course? Perhaps a deeper understanding of the universe, perhaps better critical thinking skills, perhaps a certain grade. 
-
-Are you on the right path for your own goals, whatever they are, for this semester? Are you reading how you should for where you're at with you current skills? Thinking deeply enough about the homework? 
-
-</section>
 
 <section data-markdown>
 
@@ -216,5 +208,14 @@ Note:
 * CORRECT ANSWER: A
 * Closed loop integral of a gradient is zero.
 * Fall 2016: [92] 4 4 0 0
+
+</section>
+
+<section data-markdown="">
+
+## Take a minute to reflect.
+What do you want out of this course? Perhaps a deeper understanding of the universe, perhaps better critical thinking skills, perhaps a certain grade. 
+
+Are you on the right path for your own goals, whatever they are, for this semester? Are you reading how you should for where you're at with you current skills? Thinking deeply enough about the homework? 
 
 </section>
