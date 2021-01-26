@@ -15,39 +15,101 @@ Jan 27
 <!--this doesn't work... {% include spotifyplaylist.html id=page.spotifyplaylist %}-->
 
 </section>
-
+<section data-markdown>
+"How often will we use cylindrical coordinates?" **>>> We'll use all three systems quite a bit, though I'd say that cyllindrical gets used less than the other two by a small margin.**
+</section>
 
 <section data-markdown>
-While we wait for class to start: A rod (radius $R$) with a hole (radius $r$) drilled down its entire length $L$ has a mass density of $\frac{\rho_0\phi}{\phi_0}$ (where $\phi$ is the normal polar coordinate).
 
-To find the total mass of this rod, which coordinate system should be used (take note that the mass density varies as a function of angle):
+![alt text](../images/d3-cylindrical.png "Logo Title Text 1") 
 
-1. Cartesian ($x,y,z$)
-2. Spherical ($r,\phi,\theta$)
-3. Cylindrical ($s, \phi, z$)
-4. It doesn't matter, just pick one.
+In cylindrical (2D) coordinates, what would be the correct description of the position vector $\mathbf{r}$ of the point P shown at $(x,y) = (1, 1)$?
 
-Prove it by doing the integral.
+1. $\mathbf{r} = \sqrt{2} \hat{s}$
+2. $\mathbf{r} = \sqrt{2} \hat{s} + \pi/4 \hat{\phi}$
+3. $\mathbf{r} = \sqrt{2} \hat{s} - \pi/4 \hat{\phi}$
+4. $\mathbf{r} = \pi/4 \hat{\phi}$
+5. Something else entirely
 
 Note:
-* CORRECT ANSWER: C
-* It makes the most sense from the geometry of the problem and writing the limits.
-* Fall 2016: 0 0 [94] 6 0
+* CORRECT ANSWER:  A
+* The position vector is different from the coordinates! The point P has r=Sqrt[2], phi=pi/4, but it is certainly not the case that, e.g. B would be the position vector. The units aren’t even correct!
+* Fall 2016: [6] 90 3 0 1; Second vote (discussion and hint about units): [54] 35 4 1 4
 
+</section>
+<section data-markdown>
+
+![alt text](../images/d3-spherical.png "Logo Title Text 1") 
+
+### You derive it
+
+Consider the radial unit vector ($\hat{r}$) in the spherical coordinate system as shown in the figure.
+
+Determine the $z$ component of this unit vector in the Cartesian $(x,y,z)$ system as a function of $r,\theta,\phi$.
+
+
+Note:
+This demonstrates that the r unit vector is a curious thing, in fact in contains all the information that is needed to define where you on the unit sphere. The other vectors can be though of as defined relative to that.
+Altered for F2017 to be shorter, only work on z component
 </section>
 
 
-<section data-markdown="">
 
-### For Friday
-- Homework 1 due
-	
+<section data-markdown>
+![alt text](../images/d3-spherical2.png "Logo Title Text 1") 
+
+In spherical coordinates, what would be the correct description of the position vector $\vec{r}$ of the point P shown at $(x,y,z) = (0,2~{\rm m},0)$?
+1. $\vec{r}=(2~{\rm m})\hat{r}$
+2. $\vec{r}=(2~{\rm m})\hat{r}+\pi\hat{\theta}$
+3. $\vec{r}=(2~{\rm m})\hat{r}+\pi\hat{\theta}+\pi\hat{\phi}$
+4. $\vec{r}=(2~{\rm m})\hat{r}+\pi\hat{\theta}+\frac{\pi}{2}\hat{\phi}$
+5. something else
+
+Note:
+The position vector points in the “r” direction! There was a lot of discussion about this, it was clearly confusing to them. Answer D has nonsensical units. And it says that r vector has a “down” component over there. Demo: pick a coordinate system in the room and had everyone “point” in the rhat, and then phi-hat, directions, to show them that these are not constants, they are different for everyone in the room. “r_hat” has a “hidden notation”, it’s really “r_hat(r,theta,phi)”. 
+Potential questions: COULD a vector have a thetahat or phihat component (how about VELOCITY of a point passing DOWN at P?) Could we could “fix it up” by putting meters in with the Pi/2’s… ?(Not in this case, A is correct). Answer A is ALSO the answer for OTHER points on that sphere, that’s right, R=2 m r_hat is by itself NOT sufficient. Writing r = (r, theta, phi) is fine, describing a point in spherical components, those three “bits” of information are what you need, but that notation is NOT the same as the cartesian, it is not saying “r r_hat + theta theta_hat + phi phi_hat”) 
+  
+WRITTEN BY:  Steven Pollock (CU-Boulder) This comes from research by Brant Hinrichs, it’s a known student difficulty. 
+
+</section>
+
+<section data-markdown>
+
+You are trying to compute the work done by a force, $\mathbf{F} = a\hat{x} + x\hat{y}$, along the line $y=2x$ from $\langle 0,0 \rangle$ to $\langle 1,2 \rangle$. What is $d\mathbf{l}$?
+
+1. $dl$
+2. $dx\~\hat{x}$
+3. $dy\~\hat{y}$
+4. $2dx\~\hat{x}$
+5. Something else
+
+Note:
+* CORRECT ANSWER: E
+* It's $dx\~\hat{x}+dy\~\hat{y}$.
+* Fall 2016 (given right at the end of class): 8 6 8 58 [20]; 5 0 3 38 [54]
+
+</section>
+
+<section data-markdown>
+
+You are trying to compute the work done by a force, $\mathbf{F} = a\hat{x} + x\hat{y}$, along the line $y=2x$ from $\langle 0,0 \rangle$ to $\langle 1,2 \rangle$. Given that $d\mathbf{l} = dx\hat{x}+dy\hat{y}$, which of the following forms of the integral is correct?
+
+1. $\int_0^1 adx + \int_0^2 xdy$
+2. $\int_0^1 (adx + 2xdx)$
+3. $\frac{1}{2} \int_0^2 (ady + ydy)$
+4. More than one is correct
+
+Note:
+* CORRECT ANSWER: D
+* All are correct forms, but B and C are ready to integrate.
+* Fall 2016: 7 3 0 [90] 0
+
 </section>
 
 
 <section data-markdown>
 
-A certain fluid has a velocity field given by $\mathbf{v} = x\hat{x} + z \hat{y}$. Which component(s) of the field contributed to "fluid flux" integral ($\int_S \mathbf{v}\cdot d\mathbf{A}$) through the x-z plane?
+A certain fluid has a velocity field given by $\mathbf{v} = x\hat{x} + b \hat{y}$. Which component(s) of the field contributed to "fluid flux" integral ($\int_S \mathbf{v}\cdot d\mathbf{A}$) through the x-z plane?
 
 1. $v_x$
 2. $v_y$
@@ -62,7 +124,7 @@ Note:
 
 <section data-markdown>
 
-A certain fluid has a velocity field given by $\mathbf{v} = x\hat{x} + z \hat{y}$. If we intend to calculate the "fluid flux" integral ($\int_S \mathbf{v}\cdot d\mathbf{A}$) through the x-z plane, what is $d\mathbf{A}$ in this case? Be specific!
+A certain fluid has a velocity field given by $\mathbf{v} = x\hat{x} + b \hat{y}$. If we intend to calculate the "fluid flux" integral ($\int_S \mathbf{v}\cdot d\mathbf{A}$) through the x-z plane, what is $d\mathbf{A}$ in this case? Be specific!
 
 1. $dxdy\hat{y}$
 2. $dxdz\hat{y}$
@@ -74,7 +136,7 @@ A certain fluid has a velocity field given by $\mathbf{v} = x\hat{x} + z \hat{y}
 
 <section data-markdown>
 
-For the same fluid with velocity field given by $\mathbf{v} = x\hat{x} + z \hat{y}$. What is the value of the "fluid flux" integral ($\int_S \mathbf{v}\cdot d\mathbf{A}$) through the entire x-y plane?
+For the same fluid with velocity field given by $\mathbf{v} = x\hat{x} + b \hat{y}$. What is the value of the "fluid flux" integral ($\int_S \mathbf{v}\cdot d\mathbf{A}$) through the entire x-y plane?
 
 1. It is zero
 2. It is something finite
@@ -85,6 +147,34 @@ Note:
 * CORRECT ANSWER: A
 * The velocity field is parallel to the x-y plane every where and hence contributes no flux through the surface.
 * Fall 2016: [89] 9 3 0 0
+
+</section>
+
+<section data-markdown>
+
+A rod (radius $R$) with a hole (radius $r$) drilled down its entire length $L$ has a mass density of $\frac{\rho_0\phi}{\phi_0}$ (where $\phi$ is the normal polar coordinate).
+
+To find the total mass of this rod, which coordinate system should be used (take note that the mass density varies as a function of angle):
+
+1. Cartesian ($x,y,z$)
+2. Spherical ($r,\phi,\theta$)
+3. Cylindrical ($s, \phi, z$)
+4. It doesn't matter, just pick one.
+
+Note:
+* CORRECT ANSWER: C
+* It makes the most sense from the geometry of the problem and writing the limits.
+* Fall 2016: 0 0 [94] 6 0
+
+</section>
+
+
+<section data-markdown="">
+
+## Take a minute to reflect.
+What do you want out of this course? Perhaps a deeper understanding of the universe, perhaps better critical thinking skills, perhaps a certain grade. 
+
+Are you on the right path for your own goals, whatever they are, for this semester? Are you reading how you should for where you're at with you current skills? Thinking deeply enough about the homework? 
 
 </section>
 
@@ -112,7 +202,6 @@ flux of curl through S, circulation (flow along closed boundary)
 </section>
 
 <section data-markdown>
-_**Skipped in class, but good practice. Think about the starting and ending points.**_
 
 Consider a vector field defined as the gradient of some well-behaved scalar function:
 $$\mathbf{v}(x,y,z) = \nabla T(x,y,z).$$
@@ -127,97 +216,5 @@ Note:
 * CORRECT ANSWER: A
 * Closed loop integral of a gradient is zero.
 * Fall 2016: [92] 4 4 0 0
-
-</section>
-
-
-
-<section data-markdown>
-
-![alt text](../images/d3-divredbox.png "Logo Title Text 1")
-
-This picture represents the field lines of a single positive point charge. What is the divergence in the boxed region? What is the divergence of the whole field?
-
-
-1. Boxed region is zero; whole field is zero
-2. Boxed region is non-zero; whole field is zero
-3. Boxed region is zero; whole field is non-zero
-4. Boxed region is non-zero; whole field is non-zero
-5. ???
-
-Note:
-* CORRECT ANSWER: C
-
-</section>
-
-<section data-markdown>
-
-**Activity:** For a the electric field of a point charge, $\mathbf{E}(\mathbf{r}) = \dfrac{1}{4\pi\varepsilon_0}\dfrac{q}{r^2}\hat{r}$, compute $\nabla \cdot \mathbf{E}$.
-
-*Hint: The front fly leaf of Griffiths suggests that the we take:*
-$$\dfrac{1}{r^2}\dfrac{\partial}{\partial r}\left(r^2 E_r\right)$$
-
-Note:
-* You get zero! Motivates delta function
-
-</section>
-
-<section data-markdown>
-
-Remember this?
-
-![alt text](../images/d3-divredbox.png "Logo Title Text 1")
-
-</section>
-
-
-<section data-markdown>
-
-What is the value of:
-
-$$\int_{-\infty}^{\infty} x^2 \delta(x-2)dx$$
-
-1. 0
-2. 2
-3. 4
-4. $\infty$
-5. Something else
-
-Note:
-* CORRECT ANSWER: C
-
-</section>
-
-<section data-markdown>
-
-**Activity**: Compute the following integrals for 2-3 minutes. Note anything special you had to do.
-
-* Left: $\int_{-\infty}^{\infty} xe^x \delta(x-1)dx$
-* Middle-Left: $\int_{\infty}^{-\infty} \log(x) \delta(x-2)dx$
-* Middle-Right: $\int_{-\infty}^{0} xe^x \delta(x-1)dx$
-* Right: $\int_{-\infty}^{\infty} (x+1)^2 \delta(4x)dx$
-
-Note:
-* Give them 2-3 minutes to work on it and ask for what they did.
-
-</section>
-
-<section data-markdown>
-_**Skipped in class, but good practice.**_
-	
-Compute:
-
-$$\int_{-\infty}^{\infty} x^2\delta(3x+5)dx$$
-
-1. $25/3$
-2. $-5/3$
-3. $25/27$
-4. $25/9$
-5. Something else
-
-
-Note:
-* CORRECT ANSWER: C
-* Use a u substitution.
 
 </section>
