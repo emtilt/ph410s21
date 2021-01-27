@@ -1,5 +1,5 @@
 ---
-title: "Day 4 - Vector Calc, part 3"
+title: "Day 5 - Vector Calc, part 4, and numerical integration"
 permalink: /slides/day05
 layout: slide
 theme: white
