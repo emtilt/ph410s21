@@ -106,7 +106,7 @@ Note:
 * Fall 2016: [89] 9 3 0 0
 
 </section>
-
+<!--
 <section data-markdown>
 
 A rod (radius $R$) with a hole (radius $r$) drilled down its entire length $L$ has a mass density of $\frac{\rho_0\phi}{\phi_0}$ (where $\phi$ is the normal polar coordinate).
@@ -124,7 +124,7 @@ Note:
 * Fall 2016: 0 0 [94] 6 0
 
 </section>
-
+-->
 
 
 <section data-markdown>
@@ -149,7 +149,7 @@ water: faucets, flux out
 flux of curl through S, circulation (flow along closed boundary)
 
 </section>
-
+<!--
 <section data-markdown>
 
 Consider a vector field defined as the gradient of some well-behaved scalar function:
@@ -167,7 +167,7 @@ Note:
 * Fall 2016: [92] 4 4 0 0
 
 </section>
-
+-->
 <section data-markdown>
 
 ## Numerical Integration
