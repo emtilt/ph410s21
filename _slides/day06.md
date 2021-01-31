@@ -122,11 +122,26 @@ Note: As far we know, the theory of Classical E&M works for 24 orders of magnitu
 
 ![efield](../images/d6-efieldwiki.png "efield")</section>
 
-<section data-markdown>
+<!--<section data-markdown>
 
 Ten charges are arranged as shown. What is the E field at point P?
 
 ![](../images/d6-superpositioncharges.png "") 
+
+1. Zero
+2. Non-zero
+3. Really need trig and a calculator to decide
+
+Note:
+CORRECT ANSWER: A
+</section> -->
+
+<section data-markdown>
+
+5 charges, q, are arranged in a regular pentagon, as shown.
+What is the E field at the center?
+
+![](../images/5charges.png "") 
 
 1. Zero
 2. Non-zero
@@ -140,7 +155,7 @@ CORRECT ANSWER: A
 
 1 of the 5 charges has been removed, as shown. What’s the E field at the center?
 
-<img src ="./images/4charges.png" align="center" style="width: 400px";/>
+![](../images/4charges.png "") 
 
 1. $+(kq/a^2)\hat{y}$
 2. $-(kq/a^2)\hat{y}$
@@ -152,7 +167,7 @@ Note:
 CORRECT ANSWER:  B
 Superposition!
 
-</section> 
+</section>
 
 <section data-markdown>
 
