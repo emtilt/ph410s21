@@ -39,6 +39,7 @@ Draw the FBD, Newton 3 is important here.
 - Reading survey due at 9am 
 - HW2 due
 	
+"Now that we have experience what the coding homework is like, it was pretty challenging. What are your recommendation in working with coding? (resources? classmates, office hours, etc.)" **>> All of the above, but, even more important, start early. You aren't going to have time to thoroughly think through these problems if you don't use the whole week to do so. If you started late and sought no help, then you didn't follow any of my advice!**
 </section>
 <section data-markdown>
 
