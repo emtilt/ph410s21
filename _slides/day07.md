@@ -1,6 +1,6 @@
 ---
-title: "Day 6 - Coulomb"
-permalink: /slides/day06
+title: "Day 7 - Coulomb"
+permalink: /slides/day07
 layout: slide
 theme: white
 transition: slide
