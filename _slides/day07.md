@@ -19,7 +19,8 @@ Feb 3
 ### For Friday
 - Read Griffiths 2.2
 - Reading survey due at 9am 
-- HW2 due
+
+HW2 due on Monday
 	
 </section>
 
