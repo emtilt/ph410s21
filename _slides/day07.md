@@ -235,7 +235,7 @@ Note: Correct answer is E; it's that you are both close compared to the size of 
 
 Given the location of the little bit of charge ($dq$), what is $|\vec{\mathfrak{R}}|$?
 
-![line charge](../images/sd7-sphereintegrate.png "charged sphere with position vectors")
+![charged sphere with position vectors](../images/d7-sphereintegrate.png "charged sphere with position vectors")
 
 1. $\sqrt{z^2+r'^2}$
 2. $\sqrt{z^2+r'^2-2zr'\cos\theta}$
