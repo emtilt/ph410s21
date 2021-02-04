@@ -200,7 +200,7 @@ Note:
 
 </section>
 
-<section data-markdown>
+<!--<section data-markdown>
 
 SLAC (Stanford Linear Accelerator Center) is where quarks (including the charm
 quark), and the tauon (like a heavier electron) were discovered.
@@ -208,4 +208,4 @@ quark), and the tauon (like a heavier electron) were discovered.
 ![alt text](../images/d8-slac_overhead.jpg "Logo Title Text 1")
 
 Note: Charged particles are accelerated inside a long metal cylindrical pipe, which is 2 miles long and has a radius R = 6 cm. All the air is pumped out of this pipe, known as the "beam line."
-</section>
+</section>-->
