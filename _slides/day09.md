@@ -176,7 +176,6 @@ Note:
 </section>
 
 <section data-markdown>
-_**Skipped in class, but good practice.**_
 	
 Compute:
 
