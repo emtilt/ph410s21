@@ -165,10 +165,10 @@ Note:
 
 **Activity**: Compute the following integrals for 2-3 minutes. Note anything special you had to do.
 
-* Left: $\int_{-\infty}^{\infty} xe^x \delta(x-1)dx$
-* Middle-Left: $\int_{\infty}^{-\infty} \log(x) \delta(x-2)dx$
-* Middle-Right: $\int_{-\infty}^{0} xe^x \delta(x-1)dx$
-* Right: $\int_{-\infty}^{\infty} (x+1)^2 \delta(4x)dx$
+* Allison: $\int_{-\infty}^{\infty} (x+1)^2 \delta(4x)dx$
+* Diana: $\int_{-\infty}^{\infty} xe^x \delta(x-1)dx$
+* Trinity: $\int_{\infty}^{-\infty} \log(x) \delta(x-2)dx$
+* Tyler: $\int_{-\infty}^{0} xe^x \delta(x-1)dx$
 
 Note:
 * Give them 2-3 minutes to work on it and ask for what they did.
@@ -194,6 +194,58 @@ Note:
 
 </section>
 
+<section data-markdown>
+	
+A point charge ($q$) is located at position $\mathbf{R}$, as shown. What is $\rho(\mathbf{r})$, the charge density in all space?
+
+![alt text](../images/d4-pt_charge_at_R.png "Logo Title Text 1")
+
+
+1. $\rho(\mathbf{r}) = q\delta^3(\mathbf{R})$
+2. $\rho(\mathbf{r}) = q\delta^3(\mathbf{r})$
+3. $\rho(\mathbf{r}) = q\delta^3(\mathbf{R}-\mathbf{r})$
+4. $\rho(\mathbf{r}) = q\delta^3(\mathbf{r}-\mathbf{R})$
+5. Something else/more than one (what or which?)
+
+Note:
+* CORRECT ANSWER: E
+* This one is a curious one because a delta function is always positive, both C and D are correct.
+* Expect most everyone to pick C
+
+</section>
+
+
+
+
+<section data-markdown>
+Keeping in mind $\int_{-\infty}^{+\infty} f(x)\delta(x)dx=f(0)$, what are the units of $\delta (x)$ if $x$ is measured in meters?
+
+1. $\delta(x)$ is dimension less (‘no units’)
+2. [$\mathrm{m}$]:      Unit of length
+3. [$\mathrm{m}^2$]:    Unit of length squared
+4. [$\mathrm{m}^{-1}$]:   1 / (unit of length)
+5. [$\mathrm{m}^{-2}$]:   1 / (unit of length squared)
+
+Note:
+* CORRECT ANSWER: D
+* Think about what the integral must produce.
+
+</section>
+<section data-markdown>
+
+What are the units of $\delta^3(\mathbf{r})$ if the components of $\mathbf{r}$ are measured in meters?
+
+1. [$\mathrm{m}$]:      Unit of length
+2. [$\mathrm{m}^2$]:    Unit of length squared
+3. [$\mathrm{m}^{-1}$]:   1 / (unit of length)
+4. [$\mathrm{m}^{-2}$]:   1 / (unit of length squared)
+5. None of these.
+
+Note:
+* CORRECT ANSWER: E
+* Should be m^-3
+
+</section>
 
 <!--<section data-markdown>
 
