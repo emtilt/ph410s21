@@ -33,6 +33,20 @@ $$\oint_S \mathbf{E}\cdot d\mathbf{A} = \int_V \dfrac{\rho}{\varepsilon_0}d\tau$
 </section>
 
 <section data-markdown>
+
+(I) Electric field, (II) Electric flux, and/or (III) Electric charge
+
+1. I only
+2. I and II only
+3. I and III only
+4. II and III only
+5. I, II, and II
+
+Note:
+* CORRECT ANSWER: A
+
+</section>
+<section data-markdown>
 ![alt text](../images/d7-cubical_box.png "Logo Title Text 1")
 
 The space in and around a cubical box (edge length $L$) is filled with a constant uniform electric field, $\mathbf{E} = E_0 \hat{y}$. What is the TOTAL electric flux $\oint_S \mathbf{E} \cdot d\mathbf{A}$ through this closed surface?
