@@ -16,7 +16,7 @@ Feb 8
 <section data-markdown="">
 
 ### For Wednesday
-- Read ??
+- No reading for Wednesday
 
 HW3 posted later today, due in a week.
 	
@@ -33,7 +33,8 @@ $$\oint_S \mathbf{E}\cdot d\mathbf{A} = \int_V \dfrac{\rho}{\varepsilon_0}d\tau$
 </section>
 
 <section data-markdown>
-
+Which of the following is a vector?
+	
 (I) Electric field, (II) Electric flux, and/or (III) Electric charge
 
 1. I only
