@@ -164,7 +164,30 @@ Note:
 * Should be m^-3
 
 </section>
+<section data-markdown>
 
+A Gaussian surface which is *not* a sphere has a single charge (q) inside it, *not* at the center. There are more charges outside. What can we say about total electric flux through this surface $\oint_S \mathbf{E} \cdot d\mathbf{A}$?
+
+1. It is $q/\varepsilon_0$.
+2. We know what it is, but it is NOT $q/\varepsilon_0$.
+3. Need more info/details to figure it out.
+
+Note:
+* CORRECT ANSWER: A
+
+</section>
+<section data-markdown>
+
+A Gaussian surface which is *not* a sphere has a single charge (q) inside it, *not* at the center. There are more charges outside. Can we use Gauss's Law ($\oint_S \mathbf{E} \cdot d\mathbf{A}$) to find $|\mathbf{E}|$?
+
+1. Yes
+2. No
+3. Maybe?
+
+Note:
+* CORRECT ANSWER: B
+
+</section>
 <!--<section data-markdown>
 
 SLAC (Stanford Linear Accelerator Center) is where quarks (including the charm
