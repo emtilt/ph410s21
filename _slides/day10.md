@@ -190,7 +190,6 @@ Note:
 </section>
 <section data-markdown>
 
-While we wait: Answer this and **sit by someone different today**.
 
 ![alt text](../images/d8-dipole_gauss.png "Logo Title Text 1")
 
