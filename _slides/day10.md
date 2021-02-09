@@ -16,7 +16,7 @@ Feb 10
 <section data-markdown="">
 
 ### For Friday
-- .
+- (remind me to decide at end of class)
 	
 </section>
 
