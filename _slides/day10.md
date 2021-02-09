@@ -188,6 +188,33 @@ Note:
 * CORRECT ANSWER: B
 
 </section>
+<section data-markdown>
+
+While we wait: Answer this and **sit by someone different today**.
+
+![alt text](../images/d8-dipole_gauss.png "Logo Title Text 1")
+
+
+An electric dipole ($+q$ and $–q$, small distance $d$ apart) sits centered in a Gaussian sphere.
+
+What can you say about the flux of $\mathbf{E}$ through the sphere, and $|\mathbf{E}|$ on the sphere?
+
+1. Flux = 0, E = 0 everywhere on sphere surface
+2. Flux = 0, E need not be zero *everywhere* on sphere
+3. Flux is not zero, E = 0 everywhere on sphere
+4. Flux is not zero, E need not be zero...
+
+Note:
+* CORRECT ANSWER: B
+* Think about Q enclosed; what can we say about E though? 
+USED IN:  Spring 2013 (Pollock) 
+LECTURE NUMBER:  5 (Gauss’ Law)
+STUDENT RESPONSES:  12, [[84]], 2,2, 0  Sp ’13 (preclass question) 
+INSTRUCTOR NOTES This was the “review’ question to start class. Most remembered Gauss law (which was on the board) to vote for A or B, but the debate was about whether the fact that the integral vanishes, does that mean E vanishes EVERYWHERE. It’s so important to understand that knowing the integral doesn’t by itself tell you about the integrand. (There was a lot of discussion, even though the end vote was solid)  -SJP
+WRITTEN BY:  Steven Pollock (CU-Boulder) NEW in 2013, combining two older questions. 
+
+
+</section>
 <!--<section data-markdown>
 
 SLAC (Stanford Linear Accelerator Center) is where quarks (including the charm
