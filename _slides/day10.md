@@ -16,7 +16,9 @@ Feb 10
 <section data-markdown="">
 
 ### For Friday
-- Read Griffiths 2.3 and do survey
+- Read Griffiths Section 2.3 (pp. 78-90) and do survey by 9am
+
+HW3 due Wednesday
 	
 </section>
 
