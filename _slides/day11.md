@@ -24,8 +24,14 @@ HW3 due Wednesday
 <section data-markdown>
 Summarizing the implications of last class...From the divergence theorem,
 
-$\int_V \nabla\cdot\bf{E}d\tau$
+$\int_V \left(\nabla\cdot\bf{E}\right)d\tau=\oint_S\bf{E}\cdot d\bf{a}$
 
+Working on the right side of the equation by considering a small sphere around a charge...
+
+$\oint_S\bf{E}\cdot d\bf{a}=\oint_S\frac{q}{4\pi\epsilon_0 r^2}\hat{\bf{r}}\cdot d\bf{a}$
+
+
+section
 <section data-markdown>
 
 A Gaussian surface which is *not* a sphere has a single charge (q) inside it, *not* at the center. There are more charges outside. What can we say about total electric flux through this surface $\oint_S \mathbf{E} \cdot d\mathbf{A}$?
