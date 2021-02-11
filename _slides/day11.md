@@ -28,7 +28,7 @@ $\int_V \left(\nabla\cdot\bf{E}\right)d\tau=\oint_S\bf{E}\cdot d\bf{a}$
 
 Working on the right side of the equation by considering a small sphere around a charge...
 
-$\oint_S\bf{E}\cdot d\bf{a}=\oint_S\frac{q}{4\pi\epsilon_0 r^2}\hat{\bf{r}}\cdot d\bf{a}$
+$\oint_S\bf{E}\cdot d\bf{a}=\oint_S\frac{q}{4\pi\epsilon_0 r^2}\hat{\bf{r}}\cdot d\bf{a}=\frac{q}{4\pi\epsilon_0 r^2}\int  da=\frac{q}{\epsilon_0}$
 
 
 section
