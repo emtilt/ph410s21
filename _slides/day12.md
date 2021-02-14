@@ -105,7 +105,7 @@ Note:
 </section>
 
 
-<section data-markdown>
+<!--<section data-markdown>
 
 What is the curl of this vector field, in the red region shown below?
 
@@ -131,7 +131,7 @@ What is the curl of this vector field, $\mathbf{v} = \dfrac{c}{s}\hat{\phi}$, in
 2. non-zero at a limited set of points
 3. zero curl everywhere shown
 
-</section>
+</section>-->
 
 
 <section data-markdown>
