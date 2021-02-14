@@ -22,16 +22,6 @@ HW3 due Wednesday
 	
 </section>
 
-<section data-markdown>
-
-SLAC (Stanford Linear Accelerator Center) is where quarks (including the charm
-quark), and the tauon (like a heavier electron) were discovered.
-
-![alt text](../images/d8-slac_overhead.jpg "Logo Title Text 1")
-
-Note: Charged particles are accelerated inside a long metal cylindrical pipe, which is 2 miles long and has a radius R = 6 cm. All the air is pumped out of this pipe, known as the "beam line."
-</section>
-
 <!--<section data-markdown>
 
 Consider a cube of constant charge density centered at the origin.
@@ -43,7 +33,7 @@ Consider a cube of constant charge density centered at the origin.
 3. False. I'm pretty sure we can't, but I can't say exactly why.
 4. False and I can argue why we can't do it.
 
-</section>-->
+</section>
 <section data-markdown>
 Consider a spherical Gaussian surface. What is the $d\mathbf{A}$ in $\int\int\mathbf{E}\cdot d\mathbf{A}$?
 
@@ -55,7 +45,7 @@ Consider a spherical Gaussian surface. What is the $d\mathbf{A}$ in $\int\int\ma
 
 Note:
 * Correct Answer: D
-</section>
+</section>-->
 
 
 <section data-markdown>
@@ -88,6 +78,15 @@ Note:
 * CORRECT ANSWER: D
 * Makes for a good discussion about cross one direction versus the other
 
+</section>
+<section data-markdown>
+
+SLAC (Stanford Linear Accelerator Center) is where quarks (including the charm
+quark), and the tauon (like a heavier electron) were discovered.
+
+![alt text](../images/d8-slac_overhead.jpg "Logo Title Text 1")
+
+Note: Charged particles are accelerated inside a long metal cylindrical pipe, which is 2 miles long and has a radius R = 6 cm. All the air is pumped out of this pipe, known as the "beam line."
 </section>
 
 <section data-markdown>
