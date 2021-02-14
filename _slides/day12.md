@@ -15,7 +15,7 @@ Feb 15
 </section>
 <section data-markdown="">
 
-### For Monday
+### For Wednesday
 - no reading
 
 HW3 due Wednesday
