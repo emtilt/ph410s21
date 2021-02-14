@@ -103,6 +103,37 @@ Note:
 * CORRECT ANSWER: A
 
 </section>
+
+
+<section data-markdown>
+
+What is the curl of this vector field, in the red region shown below?
+
+![alt text](../images/curl_red_box.png "Logo Title Text 1")
+
+1. non-zero everywhere in the box
+2. non-zero at a limited set of points
+3. zero curl everywhere shown
+4. we need a formula to decide
+
+Note:
+* CORRECT ANSWER: D
+* I think it's D because it depends on how the field drops off, which we haven't indicated. If it's drops off like 1/r, then it has no curl.
+</section>
+
+<section data-markdown>
+
+What is the curl of this vector field, $\mathbf{v} = \dfrac{c}{s}\hat{\phi}$, in the red region shown below?
+
+![alt text](../images/curl_red_box.png "Logo Title Text 1")
+
+1. non-zero everywhere in the box
+2. non-zero at a limited set of points
+3. zero curl everywhere shown
+
+</section>
+
+
 <section data-markdown>
 
 ## Gauss's law in integral form...
@@ -129,6 +160,59 @@ Also, from HW1:
 - $\nabla\frac{1}{|\mathfrak{r}|}=-\frac{\hat{\mathfrak{r}}}{|\mathfrak{r}|^2}$
 
 </section>
+<!--<section data-markdown>
+
+Consider a vector field $\mathbf{F}$. If the curl of that vector field is zero ($\nabla \times \mathbf{F} = 0$), which of the following are true?
+
+I. $\int \nabla \times \mathbf{F} \cdot d\mathbf{A} = 0$<br>
+
+II. $\oint \mathbf{F} \cdot d\mathbf{l} = 0$<br>
+
+III. $\int_A^B \mathbf{F} \cdot d\mathbf{l}_1$ = $\int_A^B \mathbf{F} \cdot d\mathbf{l}_2$<br>
+
+IV. $\vec{F}$ is the gradient of some scalar function $f$, $\vec{F} = \nabla f$.
+
+1. Only I
+2. I and II
+3. II and III
+4. I, II, and III
+5. Some other combination
+
+
+</section>
+
+<section data-markdown>
+
+Is the following mathematical operation ok?
+
+$$\nabla \times \left(\dfrac{1}{4\pi\epsilon_0}\int\int\int_V \dfrac{\rho(\mathbf{r}')d\tau'}{\mathfrak{R}^2}\hat{\mathfrak{R}}\right) = $$
+$$\dfrac{1}{4\pi\epsilon_0}\int\int\int_V \left(\nabla \times\dfrac{\rho(\mathbf{r}')d\tau'}{\mathfrak{R}^2}\hat{\mathfrak{R}}\right)
+$$
+
+1. Yup. It's just fine and I can say why
+2. I think it's fine, but I'm not sure I know why
+3. No, we can't exchange the curl and an integral!
+4. I'm not sure.
+
+
+</section>
+
+<section data-markdown>
+
+Is it mathematically ok to do this?
+
+$$\mathbf{E} = \dfrac{1}{4\pi\varepsilon_0}\int_V\rho(\mathbf{r}')d\tau'\left(-\nabla\dfrac{1}{\mathfrak{R}}\right)$$
+
+$$\longrightarrow \mathbf{E} =-\nabla\left( \dfrac{1}{4\pi\varepsilon_0}\int_V\rho(\mathbf{r}')d\tau'\dfrac{1}{\mathfrak{R}}\right)$$
+
+1. Yes
+2. No
+3. ???
+
+Note:
+* Correct Answer: A
+</section>-->
+
 <section data-markdown>
 
 ## Electric Potential
