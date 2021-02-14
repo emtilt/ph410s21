@@ -91,6 +91,22 @@ Note: Charged particles are accelerated inside a long metal cylindrical pipe, wh
 
 <section data-markdown>
 
+## Gauss's law in integral form...
+
+$\oint_S \mathbf{E}\cdot d\mathbf{a}=\frac{Q_{\rm enc}}{\epsilon_0}$
+
+## ...plus divergence theorem...
+
+$\oint_S \mathbf{E}\cdot d\mathbf{a}=\int_V\left( \nabla\cdot \mathbf{E}\right) d\tau$
+
+## ...Gauss's law in differential form
+
+$\nabla\cdot\mathbf{E}=\rho/\epsilon_0$
+
+
+</section>
+<section data-markdown>
+
 What is the curl of the vector field, $\mathbf{v}= c\hat{\phi}$, in the region shown below?
 
 ![alt text](../images/d10-c_phi_field.png "Logo Title Text 1")
@@ -134,22 +150,6 @@ What is the curl of this vector field, $\mathbf{v} = \dfrac{c}{s}\hat{\phi}$, in
 </section>-->
 
 
-<section data-markdown>
-
-## Gauss's law in integral form...
-
-$\oint_S \mathbf{E}\cdot d\mathbf{a}=\frac{Q_{\rm enc}}{\epsilon_0}$
-
-## ...plus divergence theorem...
-
-$\oint_S \mathbf{E}\cdot d\mathbf{a}=\int_V\left( \nabla\cdot \mathbf{E}\right) d\tau$
-
-## ...Gauss's law in differential form
-
-$\nabla\cdot\mathbf{E}=\rho/\epsilon_0$
-
-
-</section>
 <section data-markdown>
 
 #### Div of $\mathbf{E}$ contains Guass's Law. What about curl?
