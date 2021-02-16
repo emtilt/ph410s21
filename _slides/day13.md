@@ -199,3 +199,34 @@ Note:
 As long as the zero potential is the same for all measurements.
 
 </section>
+
+<section data-markdown>
+ The potential is zero at some point in space.
+
+You can conclude that:
+1. The E-field is zero at that point
+2. The E-field is non-zero at that point
+3. You can conclude nothing at all about the E-field at that point
+
+Note:
+* Correct Answer: C
+
+</section>
+
+
+
+
+
+<section data-markdown>
+
+The potential is constant everywhere in some region of space.
+
+You can conclude that:
+1. The E-field has a constant magnitude in that space.
+2. The E-field is zero in that space.
+3. You can conclude nothing at all about the magnitude of $\mathbf{E}$ along that line.
+
+Note:
+* Correct Answer: B
+
+</section>
