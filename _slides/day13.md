@@ -20,7 +20,7 @@ Feb 17
 
 HW3 due today
 	
-</section
+</section>
 
 <section data-markdown>
 
