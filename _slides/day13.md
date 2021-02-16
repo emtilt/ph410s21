@@ -201,6 +201,16 @@ As long as the zero potential is the same for all measurements.
 </section>
 
 <section data-markdown>
+
+### So far, we have Gauss plus...
+
+- Find $V$ from $E$: $V(\vec{r})=-\int_A^B\vec{E}\cdot d\vec{l}$
+- Find $V$ from $\rho$: $V(\vec{r})=k\int_V\frac{\rho (\mathbf{r}^\prime)d\tau^\prime}{|\mathfrak{r}|}$
+- Find E from V: $\vec{E}(\vec{r})=-\nabla V(\vec{r})$
+- Find E from $\rho$: Coulomb integral...
+	
+</section>
+<section data-markdown>
  The potential is zero at some point in space.
 
 You can conclude that:
@@ -231,16 +241,6 @@ Note:
 
 </section>
 
-<section data-markdown>
-
-### So far, we have Gauss plus...
-
-- Find $V$ from $E$: $V(\vec{r})=-\int_A^B\vec{E}\cdot d\vec{l}$
-- Find $V$ from $\rho$: $V(\vec{r})=k\int_V\frac{\rho (\mathbf{r}^\prime)d\tau^\prime}{|\mathfrak{r}|}$
-- Find E from V: $\vec{E}(\vec{r})=-\nabla V(\vec{r})$
-- Find E from $\rho$: Coulomb integral...
-	
-</section>
 <section data-markdown>
 
 We are trying to compute the the electric potential $V(\mathbf{r})$ for a line of charge at the location $\langle x,0,z \rangle$. What is $|\mathfrak{R}|$ in this case?
