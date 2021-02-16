@@ -15,8 +15,10 @@ Feb 17
 </section>
 <section data-markdown="">
 
-### For Wednesday
-- no reading
+### For Friday
+- Read 2.4 in Griffiths
+- survey
+- HW4 due
 
 HW3 due today
 	
