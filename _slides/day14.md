@@ -16,9 +16,11 @@ Feb 19
 <section data-markdown="">
 
 ### For Monday
-- not reading
-
+- Read Section 3.1
+- Do survey
+- 
 HW4 due today
+HW5 posted tonight or tomorrow, due Friday.
 	
 </section>
 
