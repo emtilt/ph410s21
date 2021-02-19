@@ -18,7 +18,7 @@ Feb 19
 ### For Monday
 - Read Section 3.1
 - Do survey
-- 
+- I might be a few minutes late to class. Please be patient.
 HW4 due today
 HW5 posted tonight or tomorrow, due Friday.
 	
