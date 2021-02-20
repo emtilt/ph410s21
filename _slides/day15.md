@@ -311,3 +311,30 @@ Note:
 * Answer should be plusses on outside of inner and minuses inside of outer and plusses on outside of outer (equal numbers)
 
 </section>
+
+<section data-markdown>
+
+![alt text](../images/d12-coax_offcenter.png "Logo Title Text 1")
+
+ Consider how the charge distribution would change if the inner conductor is shifted off-center, but still has $+Q$ on it, and the outer conductor remains electrically neutral. Draw the new charge distribution (little + and – signs) and be precise about how you know.
+
+Note:
+* Ask them for answers, put up on board and turn into clicker question
+* Answer should be plusses on outside of inner and minuses inside of outer and plusses on outside of outer (equal numbers); shift only on outside of inner and inside of outer (no net field from them)
+
+</section>
+
+<section data-markdown>
+
+![alt text](../images/d12-coax_Qout.png "Logo Title Text 1")
+
+
+Return the inner conductor to the center.
+
+Instead of the total charge $+Q$ being on the inner conductor, sketch the charge distribution (little + and – signs) if the outer conductor has a total charge $+Q$ on it, and the inner conductor is electrically neutral. Be precise about exactly where the charge will be on these conductors, and how you know.
+
+Note:
+* Ask them for answers, put up on board and turn into clicker question
+* Answer should be plusses on outside of outer; nothing else.
+
+</section>
