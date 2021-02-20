@@ -16,7 +16,7 @@ Feb 19
 <section data-markdown="">
 
 ### For Monday
-- Read Section 3.1
+- ~~Read Section 3.1~~ *This was an error. The correct assignment is to read Section 2.5 in Griffiths*
 - Do survey
 - I might be a few minutes late to class. Please be patient.
 HW4 due today
