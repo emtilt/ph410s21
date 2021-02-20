@@ -56,11 +56,12 @@ Note:
 
 <section data-markdown>
 
-### Last time, we ended on boundary conditions
+### Last time, we kinda started thinking about boundary conditions
 
 - $\mathbf{E}$ can be discontinuous, but $V$ cannot.
-- $E^\perp_{\rm above}-E^\perp_{\rm below}=\frac{\sigma}{\epsilon_0}$
-- What about $E^\parallel$?
+- Can we be more specific?
+<!--- $E^\perp_{\rm above}-E^\perp_{\rm below}=\frac{\sigma}{\epsilon_0}$
+- What about $E^\parallel$?-->
 
 </section>
 <section data-markdown>
@@ -116,7 +117,20 @@ CORRECT ANSWER: A
 
 </section>
 
+<!--<section data-markdown>
 
+Does system energy "superpose"?
+
+That is, if you have one system of charges with total stored energy $W_1$, and a second charge distribution with $W_2$...if you superpose these charge distributions, is the total energy of the new system simply $W_1 + W_2$?
+
+1. Yes
+2. No
+
+Note:
+* CORRECT ANSWER: B
+* Draw 4 charges and show that it is not the sum of the 2 charges and the other 2.
+
+</section>-->
 
 
 <section data-markdown="">
@@ -146,20 +160,7 @@ Note:
 * CORRECT ANSWER: B
 * Consider when they overlap, field goes to zero, must be E gets smaller as they get closer. same volume
 </section>
-<!--<section data-markdown>
 
-Does system energy "superpose"?
-
-That is, if you have one system of charges with total stored energy $W_1$, and a second charge distribution with $W_2$...if you superpose these charge distributions, is the total energy of the new system simply $W_1 + W_2$?
-
-1. Yes
-2. No
-
-Note:
-* CORRECT ANSWER: B
-* Draw 4 charges and show that it is not the sum of the 2 charges and the other 2.
-
-</section>-->
 <!--
 <section data-markdown>
 
