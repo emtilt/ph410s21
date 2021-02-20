@@ -24,6 +24,7 @@ HW5 due Friday.
 
 <section data-markdown>
 Review from last time:
+	
 ![alt text](../images/d10-graph_shell.png "Logo Title Text 1")
 
 Could this be a plot of $\left|\mathbf{E}(r)\right|$? Or $V(r)$? (for SOME physical situation?)
