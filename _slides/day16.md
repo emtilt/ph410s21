@@ -45,6 +45,7 @@ $$\dfrac{\varepsilon_0}{2}\int E^2 d\tau$$
 2. decreases
 3. remains constant
 
+(Hint: Think about the limiting case...)
 Note:
 * CORRECT ANSWER: B
 * Consider when they overlap, field goes to zero, must be E gets smaller as they get closer. same volume
