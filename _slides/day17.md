@@ -15,10 +15,10 @@ Feb 26
 </section>
 <section data-markdown="">
 
-### For Friday
-- Read Section  in Griffiths
+### For Monday
+- No reading due. Some people skipped today's reading survey today, though, so make sure you're caught up through Section 3.1....
 
-HW5 due today.
+HW5 due today. HW6 posted tonight or tomorrow.
 	
 </section>
 
