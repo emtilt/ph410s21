@@ -162,6 +162,13 @@ Note:
 </section>
 
 <section data-markdown>
+	
+This shows up in, like, every field. It's in thermodynamics, plasma physics, fluid dynamics, and even videogame development:
+![alt text](../images/d16-gdc.png "Logo Title Text 1")
+
+</section>
+
+<section data-markdown>
 
 ![alt text](../images/d14-region_w_no_charge.png "Logo Title Text 1")
 
