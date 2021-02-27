@@ -122,3 +122,101 @@ Note:
 * Answer should be plusses on outside of inner and minuses inside of outer and plusses on outside of outer (equal numbers)
 
 </section>
+
+<section data-markdown>
+
+![alt text](../images/d12-coax_offcenter.png "Logo Title Text 1")
+
+ Consider how the charge distribution would change if the inner conductor is shifted off-center, but still has $+Q$ on it, and the outer conductor remains electrically neutral. Draw the new charge distribution (little + and – signs) and be precise about how you know.
+
+Note:
+* Ask them for answers, put up on board and turn into clicker question
+* Answer should be plusses on outside of inner and minuses inside of outer and plusses on outside of outer (equal numbers); shift only on outside of inner and inside of outer (no net field from them)
+
+</section>
+
+<section data-markdown>
+
+![alt text](../images/d12-coax_Qout.png "Logo Title Text 1")
+
+
+Return the inner conductor to the center.
+
+Instead of the total charge $+Q$ being on the inner conductor, sketch the charge distribution (little + and – signs) if the outer conductor has a total charge $+Q$ on it, and the inner conductor is electrically neutral. Be precise about exactly where the charge will be on these conductors, and how you know.
+
+Note:
+* Ask them for answers, put up on board and turn into clicker question
+* Answer should be plusses on outside of outer; nothing else.
+
+</section>
+<!--
+
+<section data-markdown>
+
+A positive charge ($q$) is outside a metal conductor with a hole cut out of it at a distance $a$ from the center of the hole. What is the *net* electric field at center of the hole?
+
+1. $\dfrac{1}{4 \pi \varepsilon_0}\dfrac{q}{a^2}$
+2. $\dfrac{-1}{4 \pi \varepsilon_0}\dfrac{q}{a^2}$
+3. $\dfrac{1}{4 \pi \varepsilon_0}\dfrac{2q}{a^2}$
+4. $\dfrac{-1}{4 \pi \varepsilon_0}\dfrac{2q}{a^2}$
+5. Zero
+
+Note: Correct Answer E
+</section>
+
+<section data-markdown>
+
+With $\nabla \times \mathbf{E} = 0$, we know that,
+
+$$\oint \mathbf{E} \cdot d\mathbf{l} = 0$$
+
+If we choose a loop that includes a metal and interior vacuum (i.e., both in and **inside the hole**), we know that the contribution to this integral in the metal vanishes. What can we say about the contribution in the hole?
+
+1. It vanishes also
+2. $\mathbf{E}$ must be zero in there
+3. $\mathbf{E}$ must be perpendicular to d$\mathbf{l}$ everywhere
+4. $\mathbf{E}$ is perpendicular to the metal surface
+5. More than one of these
+
+Note:
+* Correct answer: E (A and B)
+
+</section>
+
+<section data-markdown>
+
+With $\nabla \times \mathbf{E} = 0$, we know that,
+
+$$\oint \mathbf{E} \cdot d\mathbf{l} = 0$$
+
+If we choose a loop that includes a metal and vacuum (i.e., both in and **just outside of the metal**), we know that the contribution to this integral in the metal vanishes. What can we say about the contribution just outside the metal?
+
+1. It vanishes also
+2. $\mathbf{E}$ must be zero out there
+3. $\mathbf{E}$ must be perpendicular to d$\mathbf{l}$ everywhere
+4. $\mathbf{E}$ is perpendicular to the metal surface
+5. More than one of these
+
+Note:
+* Correct answer: E (both A and D)
+
+</section>
+-->
+<section data-markdown>
+
+A neutral copper sphere has a spherical hollow in the center.  A charge $+q$ is placed in the center of the hollow.  What is the total charge on the outside surface of the copper sphere? (Assume Electrostatic equilibrium.)
+
+![alt text](../images/d12-coppersphere_hole_and_charge.png "Logo Title Text 1")
+
+
+1. Zero
+2. $-q$
+3. $+q$
+4. $0 < q_{outer} < +q$
+5. $-q < q_{outer} < 0$
+
+Note:
+* Correct answer: C
+
+
+</section>
