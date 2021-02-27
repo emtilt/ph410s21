@@ -15,7 +15,7 @@ Mar 1<!--this doesn't work... {% include spotifyplaylist.html id=page.spotifypla
 <section data-markdown="">
 
 ### For Wednesday
-- ?
+- Read Griffiths Section 3.1. (We won't spend much class time on this section, but you will have a homework question that uses it in the future.)
 
 HW6 due friday	
 </section>
