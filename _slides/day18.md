@@ -19,7 +19,6 @@ Mar 1<!--this doesn't work... {% include spotifyplaylist.html id=page.spotifypla
 
 HW6 due friday	
 </section>
-
 <section data-markdown>
 
 ![alt text](../images/d12-coax_offcenter.png "Logo Title Text 1")
@@ -29,92 +28,6 @@ HW6 due friday
 Note:
 * Ask them for answers, put up on board and turn into clicker question
 * Answer should be plusses on outside of inner and minuses inside of outer and plusses on outside of outer (equal numbers); shift only on outside of inner and inside of outer (no net field from them)
-
-</section>
-
-<section data-markdown>
-
-![alt text](../images/d12-coax_Qout.png "Logo Title Text 1")
-
-
-Return the inner conductor to the center.
-
-Instead of the total charge $+Q$ being on the inner conductor, sketch the charge distribution (little + and – signs) if the outer conductor has a total charge $+Q$ on it, and the inner conductor is electrically neutral. Be precise about exactly where the charge will be on these conductors, and how you know.
-
-Note:
-* Ask them for answers, put up on board and turn into clicker question
-* Answer should be plusses on outside of outer; nothing else.
-
-</section>
-<!--
-
-<section data-markdown>
-
-A positive charge ($q$) is outside a metal conductor with a hole cut out of it at a distance $a$ from the center of the hole. What is the *net* electric field at center of the hole?
-
-1. $\dfrac{1}{4 \pi \varepsilon_0}\dfrac{q}{a^2}$
-2. $\dfrac{-1}{4 \pi \varepsilon_0}\dfrac{q}{a^2}$
-3. $\dfrac{1}{4 \pi \varepsilon_0}\dfrac{2q}{a^2}$
-4. $\dfrac{-1}{4 \pi \varepsilon_0}\dfrac{2q}{a^2}$
-5. Zero
-
-Note: Correct Answer E
-</section>
-
-<section data-markdown>
-
-With $\nabla \times \mathbf{E} = 0$, we know that,
-
-$$\oint \mathbf{E} \cdot d\mathbf{l} = 0$$
-
-If we choose a loop that includes a metal and interior vacuum (i.e., both in and **inside the hole**), we know that the contribution to this integral in the metal vanishes. What can we say about the contribution in the hole?
-
-1. It vanishes also
-2. $\mathbf{E}$ must be zero in there
-3. $\mathbf{E}$ must be perpendicular to d$\mathbf{l}$ everywhere
-4. $\mathbf{E}$ is perpendicular to the metal surface
-5. More than one of these
-
-Note:
-* Correct answer: E (A and B)
-
-</section>
-
-<section data-markdown>
-
-With $\nabla \times \mathbf{E} = 0$, we know that,
-
-$$\oint \mathbf{E} \cdot d\mathbf{l} = 0$$
-
-If we choose a loop that includes a metal and vacuum (i.e., both in and **just outside of the metal**), we know that the contribution to this integral in the metal vanishes. What can we say about the contribution just outside the metal?
-
-1. It vanishes also
-2. $\mathbf{E}$ must be zero out there
-3. $\mathbf{E}$ must be perpendicular to d$\mathbf{l}$ everywhere
-4. $\mathbf{E}$ is perpendicular to the metal surface
-5. More than one of these
-
-Note:
-* Correct answer: E (both A and D)
-
-</section>
--->
-<section data-markdown>
-
-A neutral copper sphere has a spherical hollow in the center.  A charge $+q$ is placed in the center of the hollow.  What is the total charge on the outside surface of the copper sphere? (Assume Electrostatic equilibrium.)
-
-![alt text](../images/d12-coppersphere_hole_and_charge.png "Logo Title Text 1")
-
-
-1. Zero
-2. $-q$
-3. $+q$
-4. $0 < q_{outer} < +q$
-5. $-q < q_{outer} < 0$
-
-Note:
-* Correct answer: C
-
 
 </section>
 <!--
@@ -237,3 +150,197 @@ Note:
 </section>
 -->
 
+
+
+<section data-markdown>
+
+### Laplace's Equation
+
+![alt text](../images/d14-laplace.png "Logo Title Text 1")
+
+
+</section>
+
+<section data-markdown>
+
+![alt text](../images/d14-region_w_no_charge.png "Logo Title Text 1")
+
+
+A region of space contains no charges. What can I say about $V$ in the interior?
+
+1. Not much, there are lots of possibilities for $V(r)$ in there
+2. $V(r)=0$ everywhere in the interior.
+3. $V(r)=$constant everywhere in the interior
+
+Note:
+* CORRECT ANSWER: A
+
+</section>
+<section data-markdown>
+
+### Summary of properties w/o proof
+
+- $V$ has no local min/max except on boundaries
+- $V$ is smooth and continuous everywhere
+- $V$ at a location is equal to the average over any surrounding sphere: $V(\vec{r})=\iint_{sphere} Vda$
+- $V$ is unique if you know boundary conditions
+</section>
+
+<section data-markdown>
+![alt text](../images/d14-region_with_no_charge_Vset.png "Logo Title Text 1")
+
+
+A region of space contains no charges. The boundary has V=0 everywhere.
+What can I say about $V$ in the interior?
+
+1. Not much, there are lots of possibilities for $V(r)$ in there
+2. $V(r)=0$ everywhere in the interior.
+3. $V(r)=$constant everywhere in the interior
+
+Note:
+* CORRECT ANSWER: B
+
+</section>
+<!--
+<section data-markdown>
+
+For the 1D Laplace problem ($\nabla^2 V = \partial^2 V/\partial x^2 = 0$), we can choose the following ansatz:
+
+1. $k_0\,x$
+2. $k_0\,x+k_1$
+3. $k_0\,x^2+k_1\,x+k_2$
+4. Can't tell
+
+</section>
+-->
+
+<section data-markdown>
+
+![alt text](../images/d14-cubical_lattice.png "Logo Title Text 1")
+
+
+
+If you put a positive test charge at the center of this cube of charges, could it be in stable equilibrium?
+
+1. Yes
+2. No
+3. ???
+
+Note:
+* CORRECT ANSWER: B
+
+</section>
+
+<section data-markdown>
+Griffiths, in a minor parenthetical aside: "This, incidentally, suggests the method of relaxation, on which computer solutions to Laplace's equation are based..."
+
+You know what this means, right?
+</section>
+
+
+
+<!--
+<section data-markdown>
+
+### Method of Relaxation
+
+![alt text](../images/d14-convergence_relax.png "Logo Title Text 1")
+
+</section>
+
+<section data-markdown>
+
+Consider a function $f(x)$ that is both continuous and continuously differentiable over some domain. Given a step size of $a$, which could be an approximate derivative of this function somewhere in that domain? $df/dx \approx$
+
+1. $f(x_i+a) - f(x_i)$
+2. $f(x_i) - f(x_i-a)$
+3. $\frac{f(x_i+a) - f(x_i)}{a}$
+4. $\frac{f(x_i) - f(x_i-a)}{a}$
+5. More than one of these
+
+
+Note:
+* Correct Answer: E (C and D)
+</section>
+
+<section data-markdown>
+If we choose to use:
+
+$$\dfrac{df}{dx} \approx \dfrac{f(x_i+a) - f(x_i)}{a}$$
+
+Where are we computing the approximate derivative?
+
+1. $a$
+2. $x_i$
+3. $x_i + a$
+4. Somewhere else
+
+Note:
+* Correct Answer: D (it's halfway between)
+
+</section>
+
+<section data-markdown>
+
+Taking the second derivative of $f(x)$ discretely is as simple as applying the discrete definition of the derivative,
+
+$$f''(x_i) \approx \dfrac{f'(x_i + a/2) - f'(x_i - a/2)}{a}$$
+
+Derive the second derivative in terms of $f$.
+
+</section>
+
+<section data-markdown>
+
+With the approximate form of Laplace's equation:
+
+$\dfrac{V(x_i+a) - 2V(x_i) + V(x_i-a)}{a} \approx 0$
+
+What is a the appropriate estimate of $V(x_i)$?
+
+1. ${1}/{2}(V(x_i+a)-V(x_i-a))$
+2. ${1}/{2}(V(x_i+a)+V(x_i-a))$
+3. ${a}/{2}(V(x_i+a)-V(x_i-a))$
+4. ${a}/{2}(V(x_i+a)+V(x_i-a))$
+5. Something else
+
+Note:
+* Correct answer: B
+
+</section>
+
+
+<section data-markdown>
+
+To investigate the convergence, we must compare the estimate of $V$ before and after each calculation. For our 1D relaxation code, $V$ will be a 1D array. For the kth estimate, we can compare $V_k$ against its previous value by simply taking the difference.
+
+Store this in a variable called ``err``. What is the type for ``err``?
+
+1. A single number
+2. A 1D array
+3. A 2D array
+4. ???
+
+Note:
+* Correct Answer: B
+
+</section>
+
+<section data-markdown>
+
+The Method of Relaxation also works for Poisson's equation (i.e., when there is charge!).
+
+Given, $\nabla^2 V \approx \dfrac{V(x+a)-2V(x)+V(x-a)}{a^2}$
+
+Which equations describes the appropriate "averaging" that we must do:
+
+1. $V(x) = \dfrac{1}{2}(V(x+a)-V(x-a))$
+2. $V(x) = \dfrac{\rho(x)}{\varepsilon_0}+\dfrac{1}{2}(V(x+a)+V(x-a))$
+3. $V(x) = \dfrac{a^2\rho(x)}{2\varepsilon_0}+\dfrac{1}{2}(V(x+a)+V(x-a))$
+
+Note:
+* Correct answer: C
+
+
+</section>
+-->
