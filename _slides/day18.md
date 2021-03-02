@@ -1,5 +1,5 @@
 ---
-title: "Day 18 -  Finishing conductors, starting laplace"
+title: "Day 18 -  Starting laplace's equation"
 permalink: /slides/day18
 layout: slide
 theme: white
