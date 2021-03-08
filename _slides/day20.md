@@ -14,9 +14,9 @@ Mar 3<!--this doesn't work... {% include spotifyplaylist.html id=page.spotifypla
 </section>
 <section data-markdown="">
 
-### exam tomorrow
+### Exam tomorrow
+- Bring a note sheet with whatever you want on it
 
-### HW6 due friday	
 </section>
 
 <section data-markdown>
