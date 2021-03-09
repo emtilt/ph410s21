@@ -14,7 +14,10 @@ Mar 10<!--this doesn't work... {% include spotifyplaylist.html id=page.spotifypl
 </section>
 <section data-markdown="">
 
-### 
+### For Friday
+- Griffiths Section 3.3
+- Reading survey
+- HW7 due
 </section>
 
 
