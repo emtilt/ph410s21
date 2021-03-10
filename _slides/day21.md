@@ -15,7 +15,7 @@ Mar 10<!--this doesn't work... {% include spotifyplaylist.html id=page.spotifypl
 <section data-markdown="">
 
 ### For Friday
-- Griffiths Section 3.3
+- Griffiths Section 3.3.1
 - Reading survey
 - HW7 due
 </section>
