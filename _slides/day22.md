@@ -60,7 +60,7 @@ Note:
 * Correct answer: B is correct
 
 </section>
-
+<!--
 <section data-markdown>
 
 Given that the potential at any point is given by the average of the surrounding points,
@@ -71,3 +71,4 @@ $$ +V(x-a,y) + V(x,y-a)]$$
 Draft the psuedocode for finding the approximate potential.
 
 </section>
+-->
