@@ -196,3 +196,48 @@ Note:
 * It's actuall n*pi/a
 
 </section>
+<section data-markdown>
+
+Suppose $V_1(r)$ and $V_2(r)$ are linearly independent functions which both solve Laplace's equation, $\nabla^2 V = 0$.
+
+Does $aV_1(r)+bV_2(r)$ also solve it (with $a$ and $b$ constants)?
+
+1. Yes. The Laplacian is a linear operator
+2. No. The uniqueness theorem says this scenario is impossible, there are never two independent solutions!
+3. It is a definite yes or no, but the reasons given above just aren't right!
+4. It depends...
+
+
+Note:
+* CORRECT ANSWER: A
+
+</section>
+
+<section data-markdown>
+
+What is the value of $\int_0^{a} \sin(n\pi x/a)\sin(m\pi x/a)\;dx$ ?
+
+1. Zero
+2. Non-zero
+5. Depends on $n$ and $m$
+
+Note:
+* CORRECT ANSWER: C
+* If n = m then integral is non-zero
+
+</section>
+
+<section data-markdown>
+
+
+### Exact Solutions:
+
+$$V(x,y) = \sum_{n=1}^{\infty} \dfrac{4V_0}{n\pi}\dfrac{1}{\cosh\left(\frac{n\pi}{2}\right)}\cosh\left(\frac{n\pi x}{a}\right)\sin\left(\frac{n \pi y}{a}\right)$$
+
+### Approximate Solutions:
+### (1 term; 20 terms)
+
+![alt text](../images/d17-saddle_potential.png "Logo Title Text 1")
+![alt text](../images/d17-saddle_potential_20.png "Logo Title Text 1")
+
+</section>
