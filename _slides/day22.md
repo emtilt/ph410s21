@@ -179,3 +179,20 @@ Note:
 * CORRECT ANSWER: C
 * It's constant throughout!
 </section>
+<section data-markdown>
+	
+While we wait on slack...
+	
+When does $\sin(ka)e^{-ky}$ vanish?
+
+1. $k = 0$
+2. $k = \pi/(2a)$
+3. $k = \pi/a$
+4. A and C
+5. A, B, C
+
+Note:
+* CORRECT ANSWER: D
+* It's actuall n*pi/a
+
+</section>
