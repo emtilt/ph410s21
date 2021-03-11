@@ -230,7 +230,7 @@ Note:
 <section data-markdown>
 
 
-### Exact Solutions:
+### Exact Solution to example in book:
 
 $$V(x,y) = \sum_{n=1}^{\infty} \dfrac{4V_0}{n\pi}\dfrac{1}{\cosh\left(\frac{n\pi}{2}\right)}\cosh\left(\frac{n\pi x}{a}\right)\sin\left(\frac{n \pi y}{a}\right)$$
 
