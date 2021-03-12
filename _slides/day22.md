@@ -180,9 +180,7 @@ Note:
 * It's constant throughout!
 </section>
 <section data-markdown>
-	
-While we wait on slack...
-	
+		
 When does $\sin(ka)e^{-ky}$ vanish?
 
 1. $k = 0$
